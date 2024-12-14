@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a3e624dafd562447816c94c30b24f86, type: 3}
   m_Name: Quest1
   m_EditorClassIdentifier: 
-  questId: 0
+  questId: 1
+  requireQuestId: 0
+  autoGiveQuest: 0
   questType: 0
   questName: gegege
   questDescription: fefefe
