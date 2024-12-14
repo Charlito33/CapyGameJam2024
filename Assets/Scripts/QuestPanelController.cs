@@ -15,11 +15,6 @@ public class QuestPanelController : MonoBehaviour
     private Vector2 targetPosition;
     void Start()
     {
-        if (questPanel == null || toggleButton == null)
-        {
-            Debug.LogError("Assurez-vous que QuestPanel et ToggleButton sont assignés dans l'inspecteur.");
-            return;
-        }
         toggleButton.onClick.AddListener(TogglePanel);
         targetPosition = questPanel.anchoredPosition;
         SetPanelPosition(isPanelVisible);
