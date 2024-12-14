@@ -74,15 +74,18 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        var h = Input.GetAxis("Horizontal");
-        var v = Input.GetAxis("Vertical");
-        
-        _rb.linearVelocity =  new Vector2(h, v) * (Time.deltaTime * speed);
-
         if (Input.GetButtonDown("Fire1"))
         {
             ToggleState();
             SwitchTiles();
         }
+    }
+
+    private void FixedUpdate()
+    {
+        var h = Input.GetAxisRaw("Horizontal");
+        var v = Input.GetAxisRaw("Vertical");
+        
+        _rb.linearVelocity = new Vector2(h, v).normalized * (Time.fixedDeltaTime * speed);
     }
 }
