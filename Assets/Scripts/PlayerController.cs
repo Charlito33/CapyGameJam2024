@@ -12,6 +12,10 @@ public class PlayerController : MonoBehaviour
     }
 
     private Rigidbody2D _rb;
+    private Vector2 _movementInput;
+    private Vector2 _smoothedMovementInput;
+    private Vector2 _movementInputSmoothVelocity;
+    [SerializeField] private float movementTransitionTime;
     [SerializeField] private PlayerState state;
     [SerializeField] private float speed;
     [SerializeField] private Tilemap[] happy_tilemaps;
@@ -20,6 +24,7 @@ public class PlayerController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        movementTransitionTime = 0.15f;
         _rb = GetComponent<Rigidbody2D>();
         state = PlayerState.HAPPY;
         SwitchTiles();
@@ -85,7 +90,14 @@ public class PlayerController : MonoBehaviour
     {
         var h = Input.GetAxisRaw("Horizontal");
         var v = Input.GetAxisRaw("Vertical");
-        
-        _rb.linearVelocity = new Vector2(h, v).normalized * (Time.fixedDeltaTime * speed);
+
+        _movementInput = new Vector2(h, v).normalized;
+        _smoothedMovementInput = Vector2.SmoothDamp(
+            _smoothedMovementInput,
+            _movementInput,
+            ref _movementInputSmoothVelocity,
+        movementTransitionTime
+        );
+        _rb.linearVelocity = _smoothedMovementInput * (Time.fixedDeltaTime * speed);
     }
 }

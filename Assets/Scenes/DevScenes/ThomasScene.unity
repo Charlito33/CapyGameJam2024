@@ -151,8 +151,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85264a50aba07cf4283b5b15b01109cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementTransitionTime: 0.2
   state: 0
-  speed: 2000
+  speed: 350
   happy_tilemaps:
   - {fileID: 810596030}
   sad_tilemaps:
