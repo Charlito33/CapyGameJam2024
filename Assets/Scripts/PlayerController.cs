@@ -16,10 +16,12 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float speed;
     [SerializeField] private Tilemap[] happy_tilemaps;
     [SerializeField] private Tilemap[] sad_tilemaps;
+    private SceneManager _sceneManager;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        _sceneManager = GameObject.Find("GameManager").GetComponent<SceneManager>();
         _rb = GetComponent<Rigidbody2D>();
         state = PlayerState.HAPPY;
         SwitchTiles();
