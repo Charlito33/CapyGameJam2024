@@ -15,24 +15,18 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Tilemap[] sadTilemaps;
     private QuestManager _questManager;
     
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         movementTransitionTime = 0.15f;
         _rb = GetComponent<Rigidbody2D>();
         _questManager = GameObject.Find("GameManager").GetComponent<QuestManager>();
     }
-    
-   // Update is called once per frame
-    void Update()
-    {
-
-    }
 
     private void FixedUpdate()
     {
         if (_questManager.IsDialogActive())
         {
+            _rb.linearVelocity = Vector2.zero;
             return;
         }
         
