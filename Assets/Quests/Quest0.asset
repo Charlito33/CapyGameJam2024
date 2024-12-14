@@ -13,9 +13,15 @@ MonoBehaviour:
   m_Name: Quest0
   m_EditorClassIdentifier: 
   questId: 0
-  questType: 0
-  questName: Talk to Jeremy
-  questDescription: You need to talk to X to get an important information.
+  requireQuestId: -1
+  autoGiveQuest: 1
+  questType: 1
+  questName: Game Quest
+  questDescription: This is the main game quest.
+  onComplete: 0
+  onCompleteGiveQuestId: 0
   dialogs:
-  - Hello!
-  - How are you?
+  - Welcome to the Division game.
+  - Goodbye.
+  - Hello again
+  - Fuck you

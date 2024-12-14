@@ -457,7 +457,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &83228660
 RectTransform:
   m_ObjectHideFlags: 0
@@ -717,6 +717,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   questScripts:
   - {fileID: 11400000, guid: ce6324836bbdfed40b0b800a2685f4e6, type: 2}
+  - {fileID: 11400000, guid: ba8bc8cecb3df204ea600a20c4ae4382, type: 2}
   questDialogUIManager: {fileID: 1667008957}
 --- !u!1 &702104658
 GameObject:
@@ -6093,7 +6094,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1667008957
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6166,7 +6167,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 1
-  m_AdditionalShaderChannelsFlag: 25
+  m_AdditionalShaderChannelsFlag: 1
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
@@ -6891,7 +6892,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2037846746
 RectTransform:
   m_ObjectHideFlags: 0
