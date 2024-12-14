@@ -5,12 +5,6 @@ using UnityEngine.Tilemaps;
 
 public class PlayerController : MonoBehaviour
 {
-    enum PlayerState
-    {
-        HAPPY,
-        SAD
-    }
-
     private Rigidbody2D _rb;
     private Vector2 _movementInput;
     private Vector2 _smoothedMovementInput;
@@ -28,57 +22,11 @@ public class PlayerController : MonoBehaviour
         movementTransitionTime = 0.15f;
         _rb = GetComponent<Rigidbody2D>();
         state = PlayerState.HAPPY;
-//        _questManager = GameObject.Find("GameManager").GetComponent<QuestManager>();
+        _questManager = GameObject.Find("GameManager").GetComponent<QuestManager>();
         SwitchTiles();
     }
-
-    private void SwitchTiles()
-    {
-        switch (state)
-        {
-            case PlayerState.HAPPY:
-                foreach (var tilemap in happyTilemaps)
-                {
-                    tilemap.gameObject.SetActive(true);
-                }
-                foreach (var tilemap in sadTilemaps)
-                {
-                    tilemap.gameObject.SetActive(false);
-                }
-                break;
-            case PlayerState.SAD:
-                foreach (var tilemap in happyTilemaps)
-                {
-                    tilemap.gameObject.SetActive(false);
-                }
-                foreach (var tilemap in sadTilemaps)
-                {
-                    tilemap.gameObject.SetActive(true);
-                }
-                break;
-            default:
-                Debug.LogError("Invalid player state");
-                break;
-        }
-    }
-
-    private void ToggleState()
-    {
-        switch (state)
-        {
-            case PlayerState.HAPPY:
-                state = PlayerState.SAD;
-                break;
-            case PlayerState.SAD:
-                state = PlayerState.HAPPY;
-                break;
-            default:
-                Debug.LogError("Invalid player state");
-                break;
-        }
-    }
-
-    // Update is called once per frame
+    
+   // Update is called once per frame
     void Update()
     {
         if (Input.GetButtonDown("Fire1"))
