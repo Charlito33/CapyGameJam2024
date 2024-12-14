@@ -4,10 +4,12 @@ using UnityEngine;
 public class PlayerInteractionController : MonoBehaviour
 {
     private List<QuestNpcController> _interactableNpcList;
+    private QuestManager _questManager;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        _questManager = GameObject.Find("GameManager").GetComponent<QuestManager>();
         _interactableNpcList = new List<QuestNpcController>();   
     }
 
@@ -22,6 +24,12 @@ public class PlayerInteractionController : MonoBehaviour
 
     private void Interact()
     {
+        if (_questManager.IsDialogActive())
+        {
+            _questManager.ContinueDialog();
+            return;
+        }
+        
         foreach (var npcController in _interactableNpcList)
         {
             npcController.Interact();
