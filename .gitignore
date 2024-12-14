@@ -75,3 +75,5 @@ crashlytics-build.properties
 .idea/
 .vscode/
 
+*.meta
+*.meta
