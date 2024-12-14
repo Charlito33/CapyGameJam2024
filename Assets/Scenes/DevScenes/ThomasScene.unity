@@ -154,9 +154,9 @@ MonoBehaviour:
   movementTransitionTime: 0.2
   state: 0
   speed: 350
-  happy_tilemaps:
+  happyTilemaps:
   - {fileID: 810596030}
-  sad_tilemaps:
+  sadTilemaps:
   - {fileID: 1104952911}
 --- !u!212 &64537731
 SpriteRenderer:
@@ -222,7 +222,7 @@ Transform:
   m_GameObject: {fileID: 64537727}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.19, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5681,7 +5681,7 @@ Transform:
   m_GameObject: {fileID: 1558534459}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.19, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5832,7 +5832,7 @@ Transform:
   m_GameObject: {fileID: 2121012010}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.19, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

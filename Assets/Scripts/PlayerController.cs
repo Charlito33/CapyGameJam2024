@@ -18,8 +18,9 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float movementTransitionTime;
     [SerializeField] private PlayerState state;
     [SerializeField] private float speed;
-    [SerializeField] private Tilemap[] happy_tilemaps;
-    [SerializeField] private Tilemap[] sad_tilemaps;
+    [SerializeField] private Tilemap[] happyTilemaps;
+    [SerializeField] private Tilemap[] sadTilemaps;
+    private QuestManager _questManager;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -27,6 +28,7 @@ public class PlayerController : MonoBehaviour
         movementTransitionTime = 0.15f;
         _rb = GetComponent<Rigidbody2D>();
         state = PlayerState.HAPPY;
+//        _questManager = GameObject.Find("GameManager").GetComponent<QuestManager>();
         SwitchTiles();
     }
 
@@ -35,21 +37,21 @@ public class PlayerController : MonoBehaviour
         switch (state)
         {
             case PlayerState.HAPPY:
-                foreach (var tilemap in happy_tilemaps)
+                foreach (var tilemap in happyTilemaps)
                 {
                     tilemap.gameObject.SetActive(true);
                 }
-                foreach (var tilemap in sad_tilemaps)
+                foreach (var tilemap in sadTilemaps)
                 {
                     tilemap.gameObject.SetActive(false);
                 }
                 break;
             case PlayerState.SAD:
-                foreach (var tilemap in happy_tilemaps)
+                foreach (var tilemap in happyTilemaps)
                 {
                     tilemap.gameObject.SetActive(false);
                 }
-                foreach (var tilemap in sad_tilemaps)
+                foreach (var tilemap in sadTilemaps)
                 {
                     tilemap.gameObject.SetActive(true);
                 }
@@ -85,18 +87,19 @@ public class PlayerController : MonoBehaviour
             SwitchTiles();
         }
     }
-
+//IsDialogAcvite
     private void FixedUpdate()
     {
         var h = Input.GetAxisRaw("Horizontal");
         var v = Input.GetAxisRaw("Vertical");
+
 
         _movementInput = new Vector2(h, v).normalized;
         _smoothedMovementInput = Vector2.SmoothDamp(
             _smoothedMovementInput,
             _movementInput,
             ref _movementInputSmoothVelocity,
-        movementTransitionTime
+            movementTransitionTime
         );
         _rb.linearVelocity = _smoothedMovementInput * (Time.fixedDeltaTime * speed);
     }
