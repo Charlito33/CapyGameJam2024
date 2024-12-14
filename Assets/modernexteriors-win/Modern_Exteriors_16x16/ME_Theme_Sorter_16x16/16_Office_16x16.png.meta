@@ -1,0 +1,2705 @@
+fileFormatVersion: 2
+guid: e429996ae03b03d49855fd3087f990c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5703685568121180199
+    second: 16_Office_16x16_0
+  - first:
+      213: 440256823903532130
+    second: 16_Office_16x16_1
+  - first:
+      213: 7544100876373828510
+    second: 16_Office_16x16_2
+  - first:
+      213: -9161001047733722942
+    second: 16_Office_16x16_3
+  - first:
+      213: -5592188102896233894
+    second: 16_Office_16x16_4
+  - first:
+      213: 8666222464895179439
+    second: 16_Office_16x16_5
+  - first:
+      213: -3697731409902135935
+    second: 16_Office_16x16_6
+  - first:
+      213: 4118676668631412039
+    second: 16_Office_16x16_7
+  - first:
+      213: -8159604510917250763
+    second: 16_Office_16x16_8
+  - first:
+      213: 6806756839137407709
+    second: 16_Office_16x16_9
+  - first:
+      213: -6139232100137419279
+    second: 16_Office_16x16_10
+  - first:
+      213: -285486994377606316
+    second: 16_Office_16x16_11
+  - first:
+      213: -798105131924456348
+    second: 16_Office_16x16_12
+  - first:
+      213: -6388482503132305881
+    second: 16_Office_16x16_13
+  - first:
+      213: -9099030032891673831
+    second: 16_Office_16x16_14
+  - first:
+      213: 7620234481449569563
+    second: 16_Office_16x16_15
+  - first:
+      213: 1203695192888704655
+    second: 16_Office_16x16_16
+  - first:
+      213: 4362758852011449048
+    second: 16_Office_16x16_17
+  - first:
+      213: -7171862286691876419
+    second: 16_Office_16x16_18
+  - first:
+      213: 6836205493716421789
+    second: 16_Office_16x16_19
+  - first:
+      213: -4770606697073572482
+    second: 16_Office_16x16_20
+  - first:
+      213: 5150524559858281535
+    second: 16_Office_16x16_21
+  - first:
+      213: 7233236568220283877
+    second: 16_Office_16x16_22
+  - first:
+      213: 9129510218186320785
+    second: 16_Office_16x16_23
+  - first:
+      213: -4004967750369119337
+    second: 16_Office_16x16_24
+  - first:
+      213: 9116805718444277159
+    second: 16_Office_16x16_25
+  - first:
+      213: -3931537912923443007
+    second: 16_Office_16x16_26
+  - first:
+      213: -5248697727704087745
+    second: 16_Office_16x16_27
+  - first:
+      213: -5830053343737727934
+    second: 16_Office_16x16_28
+  - first:
+      213: 8452641568557128965
+    second: 16_Office_16x16_29
+  - first:
+      213: 2720820968105629581
+    second: 16_Office_16x16_30
+  - first:
+      213: -2961772633221280946
+    second: 16_Office_16x16_31
+  - first:
+      213: 945258315790302656
+    second: 16_Office_16x16_32
+  - first:
+      213: 647542693701508841
+    second: 16_Office_16x16_33
+  - first:
+      213: 5840861833503746524
+    second: 16_Office_16x16_34
+  - first:
+      213: 1192821199563762908
+    second: 16_Office_16x16_35
+  - first:
+      213: 8457275668606179183
+    second: 16_Office_16x16_36
+  - first:
+      213: 8002651159479957788
+    second: 16_Office_16x16_37
+  - first:
+      213: -9098073826202427853
+    second: 16_Office_16x16_38
+  - first:
+      213: -8098089799827745890
+    second: 16_Office_16x16_39
+  - first:
+      213: 4193936568055989660
+    second: 16_Office_16x16_40
+  - first:
+      213: 1460181773841579936
+    second: 16_Office_16x16_41
+  - first:
+      213: -6390528698406328552
+    second: 16_Office_16x16_42
+  - first:
+      213: 8903776628205236319
+    second: 16_Office_16x16_43
+  - first:
+      213: 2564396387286289958
+    second: 16_Office_16x16_44
+  - first:
+      213: -574298781137789906
+    second: 16_Office_16x16_45
+  - first:
+      213: 3558809966753847747
+    second: 16_Office_16x16_46
+  - first:
+      213: 2938284954561629751
+    second: 16_Office_16x16_47
+  - first:
+      213: 5647532825423126516
+    second: 16_Office_16x16_48
+  - first:
+      213: -2153866402027289821
+    second: 16_Office_16x16_49
+  - first:
+      213: -2078509904660618482
+    second: 16_Office_16x16_50
+  - first:
+      213: -1801239427304020163
+    second: 16_Office_16x16_51
+  - first:
+      213: 5742279406034391389
+    second: 16_Office_16x16_52
+  - first:
+      213: -7550454926351628737
+    second: 16_Office_16x16_53
+  - first:
+      213: 2248538772655152355
+    second: 16_Office_16x16_54
+  - first:
+      213: -8429214938687062678
+    second: 16_Office_16x16_55
+  - first:
+      213: 2752986576245697741
+    second: 16_Office_16x16_56
+  - first:
+      213: 3520950163588935420
+    second: 16_Office_16x16_57
+  - first:
+      213: -2130239209124505763
+    second: 16_Office_16x16_58
+  - first:
+      213: -2472293149457631768
+    second: 16_Office_16x16_59
+  - first:
+      213: -6366811352051088167
+    second: 16_Office_16x16_60
+  - first:
+      213: 838723309190308880
+    second: 16_Office_16x16_61
+  - first:
+      213: 141255006134218301
+    second: 16_Office_16x16_62
+  - first:
+      213: 7261624719628636144
+    second: 16_Office_16x16_63
+  - first:
+      213: -6688221204533424738
+    second: 16_Office_16x16_64
+  - first:
+      213: -6768891178027532010
+    second: 16_Office_16x16_65
+  - first:
+      213: -2957544292330767008
+    second: 16_Office_16x16_66
+  - first:
+      213: -982320686143637552
+    second: 16_Office_16x16_67
+  - first:
+      213: -4677943586532516645
+    second: 16_Office_16x16_68
+  - first:
+      213: -4779540908656625559
+    second: 16_Office_16x16_69
+  - first:
+      213: 4092335674377246958
+    second: 16_Office_16x16_70
+  - first:
+      213: -7415639163166977775
+    second: 16_Office_16x16_71
+  - first:
+      213: 8704688567584845123
+    second: 16_Office_16x16_72
+  - first:
+      213: -2770645491343426414
+    second: 16_Office_16x16_73
+  - first:
+      213: 4969497968439090586
+    second: 16_Office_16x16_74
+  - first:
+      213: -5459959634240080934
+    second: 16_Office_16x16_75
+  - first:
+      213: -5899969788006247925
+    second: 16_Office_16x16_76
+  - first:
+      213: -8361085866534394949
+    second: 16_Office_16x16_77
+  - first:
+      213: -8427366986884036288
+    second: 16_Office_16x16_78
+  - first:
+      213: 1973924811662436571
+    second: 16_Office_16x16_79
+  - first:
+      213: 6577566116042958284
+    second: 16_Office_16x16_80
+  - first:
+      213: 8513718673369504753
+    second: 16_Office_16x16_81
+  - first:
+      213: -3991781936398969750
+    second: 16_Office_16x16_82
+  - first:
+      213: 6592207576619395375
+    second: 16_Office_16x16_83
+  - first:
+      213: 8388796272360383888
+    second: 16_Office_16x16_84
+  - first:
+      213: 4692810955962959931
+    second: 16_Office_16x16_85
+  - first:
+      213: 5478125649951876104
+    second: 16_Office_16x16_86
+  - first:
+      213: 8019535036120962622
+    second: 16_Office_16x16_87
+  - first:
+      213: 3756366006608387342
+    second: 16_Office_16x16_88
+  - first:
+      213: 1647257255590711734
+    second: 16_Office_16x16_89
+  - first:
+      213: 6617387513727688930
+    second: 16_Office_16x16_90
+  - first:
+      213: -2125887813738966719
+    second: 16_Office_16x16_91
+  - first:
+      213: -6917160965058160065
+    second: 16_Office_16x16_92
+  - first:
+      213: 5317854862507313470
+    second: 16_Office_16x16_93
+  - first:
+      213: -8670017322099251966
+    second: 16_Office_16x16_94
+  - first:
+      213: 3718539389246657991
+    second: 16_Office_16x16_95
+  - first:
+      213: -2578779106884134244
+    second: 16_Office_16x16_96
+  - first:
+      213: -4501472283879875789
+    second: 16_Office_16x16_97
+  - first:
+      213: 1619601080579698986
+    second: 16_Office_16x16_98
+  - first:
+      213: 6035917797306656024
+    second: 16_Office_16x16_99
+  - first:
+      213: 5419086645041433486
+    second: 16_Office_16x16_100
+  - first:
+      213: 8181031714444037071
+    second: 16_Office_16x16_101
+  - first:
+      213: -5957083618094850305
+    second: 16_Office_16x16_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16_Office_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1423
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72092660ecf872f40800000000000000
+      internalID: 5703685568121180199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1423
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26436beaf3b1c1600800000000000000
+      internalID: 440256823903532130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1407
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93a9f5d6c702b860800000000000000
+      internalID: 7544100876373828510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1407
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0a9da85169dd080800000000000000
+      internalID: -9161001047733722942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1407
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5254b19c8e8462b0800000000000000
+      internalID: -5592188102896233894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1407
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa569c8a6b944870800000000000000
+      internalID: 8666222464895179439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1407
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1859af5cfd40facc0800000000000000
+      internalID: -3697731409902135935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1407
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74de672cb9a782930800000000000000
+      internalID: 4118676668631412039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1343
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5313a13cde243ce80800000000000000
+      internalID: -8159604510917250763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1343
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2fe3d0845767e50800000000000000
+      internalID: 6806756839137407709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1343
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd32a59ee01dcaa0800000000000000
+      internalID: -6139232100137419279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1343
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bf028571fb90cf0800000000000000
+      internalID: -285486994377606316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cf93e6c9f8ce4f0800000000000000
+      internalID: -798105131924456348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1343
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7262003d20d8757a0800000000000000
+      internalID: -6388482503132305881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1343
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91381e0d460c9b180800000000000000
+      internalID: -9099030032891673831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d0cfb13e280c960800000000000000
+      internalID: 7620234481449569563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1343
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ef9f5866264b010800000000000000
+      internalID: 1203695192888704655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1231
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da55de9f02ab8c30800000000000000
+      internalID: 4362758852011449048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1231
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1c5b79f3d687c90800000000000000
+      internalID: -7171862286691876419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1231
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c8a804da41fde50800000000000000
+      internalID: 6836205493716421789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1231
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7584d91c766bcdb0800000000000000
+      internalID: -4770606697073572482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1231
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c274d6cc65a7740800000000000000
+      internalID: 5150524559858281535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1231
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3b221e55e916460800000000000000
+      internalID: 7233236568220283877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1199
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b6b485c2982be70800000000000000
+      internalID: 9129510218186320785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1199
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7937a5edc0f7b68c0800000000000000
+      internalID: -4004967750369119337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1199
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adfe1e7f76658e70800000000000000
+      internalID: 9116805718444277159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1167
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0b73f291f5079c0800000000000000
+      internalID: -3931537912923443007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1167
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f334cc6b931e827b0800000000000000
+      internalID: -5248697727704087745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1167
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2443fe07f5d771fa0800000000000000
+      internalID: -5830053343737727934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1167
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d5c8bf8b0dd4570800000000000000
+      internalID: 8452641568557128965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1167
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87de55414c42c520800000000000000
+      internalID: 2720820968105629581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1167
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b4f537b7ba5e6d0800000000000000
+      internalID: -2961772633221280946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1172
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd3aa51e6b3e1d00800000000000000
+      internalID: 945258315790302656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1172
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee5afa26a88cf800800000000000000
+      internalID: 647542693701508841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1172
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9a02034e8ee0150800000000000000
+      internalID: 5840861833503746524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1140
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcad88af80cd8010800000000000000
+      internalID: 1192821199563762908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1140
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6753da79674e5570800000000000000
+      internalID: 8457275668606179183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1140
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19bb2664d02f0f60800000000000000
+      internalID: 8002651159479957788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1087
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33edce80f062db180800000000000000
+      internalID: -9098073826202427853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1087
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e939d0a8b3ecd9f80800000000000000
+      internalID: -8098089799827745890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1087
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c958f75961bd33a30800000000000000
+      internalID: 4193936568055989660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1087
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afb351469b934410800000000000000
+      internalID: 1460181773841579936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1087
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8172d8cd1084057a0800000000000000
+      internalID: -6390528698406328552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1087
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50399b4ba1909b70800000000000000
+      internalID: 8903776628205236319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1071
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e8e7f6de0969320800000000000000
+      internalID: 2564396387286289958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1071
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c97532d4ea708f0800000000000000
+      internalID: -574298781137789906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1039
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c99b733fce636130800000000000000
+      internalID: 3558809966753847747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1039
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e45853992e6c820800000000000000
+      internalID: 2938284954561629751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1039
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff14bcce21106e40800000000000000
+      internalID: 5647532825423126516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1039
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323c3854bedeb12e0800000000000000
+      internalID: -2153866402027289821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1039
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03a29e0146a723e0800000000000000
+      internalID: -2078509904660618482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1039
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37ad14c846b007e0800000000000000
+      internalID: -1801239427304020163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1024
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5198b522bca0bf40800000000000000
+      internalID: 5742279406034391389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1039
+        width: 87
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36863e9f35673790800000000000000
+      internalID: -7550454926351628737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 959
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec9dc7b91a643f10800000000000000
+      internalID: 2248538772655152355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 959
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d34245ca9650b80800000000000000
+      internalID: -8429214938687062678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 959
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc2b8484b2943620800000000000000
+      internalID: 2752986576245697741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 959
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe629cd48decd030800000000000000
+      internalID: 3520950163588935420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 959
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57568dc9bedf62e0800000000000000
+      internalID: -2130239209124505763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 959
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e532f5ba76a0bdd0800000000000000
+      internalID: -2472293149457631768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 960
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d40211eeca84a7a0800000000000000
+      internalID: -6366811352051088167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1023
+        width: 102
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014e02de76eb3ab00800000000000000
+      internalID: 838723309190308880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 991
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e206ffda6d5f100800000000000000
+      internalID: 141255006134218301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 991
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff09a1753976c460800000000000000
+      internalID: 7261624719628636144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 959
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dcc8c004aae23a0800000000000000
+      internalID: -6688221204533424738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 960
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611c46236511012a0800000000000000
+      internalID: -6768891178027532010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 959
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06df328c221b4f6d0800000000000000
+      internalID: -2957544292330767008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 959
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7f3ee5a881e52f0800000000000000
+      internalID: -982320686143637552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc9965c71b941fb0800000000000000
+      internalID: -4677943586532516645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 895
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968f21eddd8abadb0800000000000000
+      internalID: -4779540908656625559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 895
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee81aec1d95eac830800000000000000
+      internalID: 4092335674377246958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 895
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11115f8887b561990800000000000000
+      internalID: -7415639163166977775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 895
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d6c4ff1244dc870800000000000000
+      internalID: 8704688567584845123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 895
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cffe9ea90bc89d0800000000000000
+      internalID: -2770645491343426414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 129
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d56d0a21437f440800000000000000
+      internalID: 4969497968439090586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 864
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3f52904a35a34b0800000000000000
+      internalID: -5459959634240080934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 767
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02d958bcb81f1ea0800000000000000
+      internalID: -5899969788006247925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 767
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3adac04b477fb80800000000000000
+      internalID: -8361085866534394949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 864
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0494ce2206afb0b80800000000000000
+      internalID: -8427366986884036288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 129
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8287c682ac46b10800000000000000
+      internalID: 1973924811662436571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 744
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5e2697885384b50800000000000000
+      internalID: 6577566116042958284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 639
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb9ccb960ec62670800000000000000
+      internalID: 8513718673369504753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 744
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a645e1c6a775a98c0800000000000000
+      internalID: -3991781936398969750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 639
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29a90a2dd93c7b50800000000000000
+      internalID: 6592207576619395375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 744
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095692393cdfa6470800000000000000
+      internalID: 8388796272360383888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38cb3c63b6302140800000000000000
+      internalID: 4692810955962959931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 575
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80466581146360c40800000000000000
+      internalID: 5478125649951876104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 335
+        width: 306
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e361ac340ac1b4f60800000000000000
+      internalID: 8019535036120962622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 129
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dde3e1bfa412430800000000000000
+      internalID: 3756366006608387342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 129
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b15b251fbb3cd610800000000000000
+      internalID: 1647257255590711734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 424
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e028d022eea5db50800000000000000
+      internalID: 6617387513727688930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 188
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141d1cdfb445f72e0800000000000000
+      internalID: -2125887813738966719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 254
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a928f30ce4100a0800000000000000
+      internalID: -6917160965058160065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 254
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3905de72d0dcc940800000000000000
+      internalID: 5317854862507313470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 255
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2056ac76e29eda780800000000000000
+      internalID: -8670017322099251966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 234
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c558537fd7ea9330800000000000000
+      internalID: 3718539389246657991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 193
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ad8f3b016563cd0800000000000000
+      internalID: -2578779106884134244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 192
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bd211cece8781c0800000000000000
+      internalID: -4501472283879875789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21bacd0a9af97610800000000000000
+      internalID: 1619601080579698986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 192
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815ebe9c143e3c350800000000000000
+      internalID: 6035917797306656024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 192
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b02c49796743b40800000000000000
+      internalID: 5419086645041433486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 192
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb44a3dffcd88170800000000000000
+      internalID: 8181031714444037071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Office_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe5826e200345da0800000000000000
+      internalID: -5957083618094850305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

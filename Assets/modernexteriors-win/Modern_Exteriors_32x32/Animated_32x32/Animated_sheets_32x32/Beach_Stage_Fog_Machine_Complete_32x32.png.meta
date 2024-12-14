@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: a6c177a653fbb9049aaa4780eb325a3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2780307819339378063
+    second: Beach_Stage_Fog_Machine_Complete_32x32_0
+  - first:
+      213: 2367846888197627735
+    second: Beach_Stage_Fog_Machine_Complete_32x32_1
+  - first:
+      213: -1511090660648287835
+    second: Beach_Stage_Fog_Machine_Complete_32x32_2
+  - first:
+      213: 6193541227042798153
+    second: Beach_Stage_Fog_Machine_Complete_32x32_3
+  - first:
+      213: -2698422073760792694
+    second: Beach_Stage_Fog_Machine_Complete_32x32_4
+  - first:
+      213: -7626857315653078738
+    second: Beach_Stage_Fog_Machine_Complete_32x32_5
+  - first:
+      213: 3945079099678091450
+    second: Beach_Stage_Fog_Machine_Complete_32x32_6
+  - first:
+      213: -4199293165089266785
+    second: Beach_Stage_Fog_Machine_Complete_32x32_7
+  - first:
+      213: 636445220814562217
+    second: Beach_Stage_Fog_Machine_Complete_32x32_8
+  - first:
+      213: -4935693052491537539
+    second: Beach_Stage_Fog_Machine_Complete_32x32_9
+  - first:
+      213: 4868645181771273045
+    second: Beach_Stage_Fog_Machine_Complete_32x32_10
+  - first:
+      213: 742986644491902278
+    second: Beach_Stage_Fog_Machine_Complete_32x32_11
+  - first:
+      213: 2873481046181532958
+    second: Beach_Stage_Fog_Machine_Complete_32x32_12
+  - first:
+      213: -7043115359607845999
+    second: Beach_Stage_Fog_Machine_Complete_32x32_13
+  - first:
+      213: 2209754326286394062
+    second: Beach_Stage_Fog_Machine_Complete_32x32_14
+  - first:
+      213: 2023692881943879871
+    second: Beach_Stage_Fog_Machine_Complete_32x32_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 113
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8de6f12b33a59620800000000000000
+      internalID: 2780307819339378063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 87
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f988d03384cd020800000000000000
+      internalID: 2367846888197627735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 61
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a106acdc07870be0800000000000000
+      internalID: -1511090660648287835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 31
+        width: 102
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a7f936ee0e3f550800000000000000
+      internalID: 6193541227042798153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 25
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f3a67bb674d8ad0800000000000000
+      internalID: -2698422073760792694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 19
+        width: 144
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b8e32ea5f72690800000000000000
+      internalID: -7626857315653078738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 13
+        width: 158
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8612b0a8cbfb630800000000000000
+      internalID: 3945079099678091450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 11
+        width: 164
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93e02b7d1d19b5c0800000000000000
+      internalID: -4199293165089266785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 11
+        width: 166
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3a5a96e8b15d800800000000000000
+      internalID: 636445220814562217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 21
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73e0e5b155e08bb0800000000000000
+      internalID: -4935693052491537539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 13
+        width: 148
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553d4e46ff6e09340800000000000000
+      internalID: 4868645181771273045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 5
+        width: 158
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d9cc9aa6e9f4a00800000000000000
+      internalID: 742986644491902278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1
+        width: 162
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15d77289c7a0e720800000000000000
+      internalID: 2873481046181532958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 0
+        width: 170
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b0a7e75e3d14e90800000000000000
+      internalID: -7043115359607845999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 0
+        width: 178
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2ee2b1adf9aae10800000000000000
+      internalID: 2209754326286394062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beach_Stage_Fog_Machine_Complete_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 127
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb060c244f9951c10800000000000000
+      internalID: 2023692881943879871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

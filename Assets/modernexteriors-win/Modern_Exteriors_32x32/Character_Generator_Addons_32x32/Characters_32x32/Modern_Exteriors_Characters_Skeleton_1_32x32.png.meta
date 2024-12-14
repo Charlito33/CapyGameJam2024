@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: e5a7bbc91e1562c459bd86cbc1b9a9e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8391925832758192109
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_0
+  - first:
+      213: 7655888261121264036
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_1
+  - first:
+      213: -2567869334034700423
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_2
+  - first:
+      213: -4053851983927791616
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_3
+  - first:
+      213: -7099985070661042034
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_4
+  - first:
+      213: 5327794718883238621
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_5
+  - first:
+      213: 5087631599532424440
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_6
+  - first:
+      213: 3385646423323144917
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_7
+  - first:
+      213: -6037464798678002016
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_8
+  - first:
+      213: -3441195777918676013
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_9
+  - first:
+      213: -1590260242094297578
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_10
+  - first:
+      213: -7097279024856764116
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_11
+  - first:
+      213: 1911455283603142218
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_12
+  - first:
+      213: -6743598691213671067
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_13
+  - first:
+      213: 5129203929490063016
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_14
+  - first:
+      213: -9085696286583633511
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_15
+  - first:
+      213: 7329893925515079879
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_16
+  - first:
+      213: -5170268950805773844
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_17
+  - first:
+      213: -3837963525239840275
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_18
+  - first:
+      213: 4240905561072793217
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_19
+  - first:
+      213: 1162157881321171776
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_20
+  - first:
+      213: -3085294230049635804
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_21
+  - first:
+      213: -5084061084673201424
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_22
+  - first:
+      213: -4651038420787738175
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_23
+  - first:
+      213: 8473669207567833726
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_24
+  - first:
+      213: 1833594968841339703
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_25
+  - first:
+      213: -6256364672422176142
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_26
+  - first:
+      213: 1005651625532487571
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_27
+  - first:
+      213: 4807620786671590921
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_28
+  - first:
+      213: 2780296555275988070
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_29
+  - first:
+      213: -6674907866399311543
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_30
+  - first:
+      213: -6171199328528033874
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_31
+  - first:
+      213: 7776161527606673730
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_32
+  - first:
+      213: -5350688887724689026
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_33
+  - first:
+      213: -432145410618329051
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_34
+  - first:
+      213: 6057175049135027940
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_35
+  - first:
+      213: 2730263792993976652
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_36
+  - first:
+      213: -8012093110409377652
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_37
+  - first:
+      213: 3559301513861803221
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_38
+  - first:
+      213: 5513374059675876019
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_39
+  - first:
+      213: -2083816860955605308
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_40
+  - first:
+      213: 4659670347086712613
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_41
+  - first:
+      213: -5189825340932066201
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_42
+  - first:
+      213: 8533322150442157879
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_43
+  - first:
+      213: 8969825182227260425
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_44
+  - first:
+      213: 6393128704501216400
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_45
+  - first:
+      213: -4354573878247403248
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_46
+  - first:
+      213: 4457013533350455046
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_47
+  - first:
+      213: -6291320483423865160
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_48
+  - first:
+      213: 3458862664209768360
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_49
+  - first:
+      213: -6119180365048609891
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_50
+  - first:
+      213: -2718049466694320338
+    second: Modern_Exteriors_Characters_Skeleton_1_32x32_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7e9f2251c167470800000000000000
+      internalID: 8391925832758192109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a947349fcd2f3a60800000000000000
+      internalID: 7655888261121264036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 127
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9772e3322781d5cd0800000000000000
+      internalID: -2567869334034700423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000b8fd4913ddb7c0800000000000000
+      internalID: -4053851983927791616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e800ca01239c77d90800000000000000
+      internalID: -7099985070661042034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2dc37a11120f940800000000000000
+      internalID: 5327794718883238621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcbe2efbf5ea9640800000000000000
+      internalID: 5087631599532424440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 63
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d27f3deb7b3cfe20800000000000000
+      internalID: 3385646423323144917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a65fd2e0cd963ca0800000000000000
+      internalID: -6037464798678002016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d355961caa6e30d0800000000000000
+      internalID: -3441195777918676013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 63
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eea814cb24ee9e0800000000000000
+      internalID: -1590260242094297578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 63
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21f4937456618d90800000000000000
+      internalID: -7097279024856764116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 63
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46753ff37ad68a10800000000000000
+      internalID: 1911455283603142218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 63
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5658b6e28bce962a0800000000000000
+      internalID: -6743598691213671067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 63
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aefac55cc79e2740800000000000000
+      internalID: 5129203929490063016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999c81d8d5f19e180800000000000000
+      internalID: -9085696286583633511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0be9790b309b560800000000000000
+      internalID: 7329893925515079879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce18df158c38f38b0800000000000000
+      internalID: -5170268950805773844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 63
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de16c291280dcbac0800000000000000
+      internalID: -3837963525239840275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 63
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f8b57329bada30800000000000000
+      internalID: 4240905561072793217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ba1198f60d02010800000000000000
+      internalID: 1162157881321171776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422445e8e35de25d0800000000000000
+      internalID: -3085294230049635804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 63
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faaaa74169c179b0800000000000000
+      internalID: -5084061084673201424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 63
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9c044d231347fb0800000000000000
+      internalID: -4651038420787738175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 63
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a1f35bf35889570800000000000000
+      internalID: 8473669207567833726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 63
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7334bbbc8ec327910800000000000000
+      internalID: 1833594968841339703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 63
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a19f26a7dec29a0800000000000000
+      internalID: -6256364672422176142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 63
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39778a343dac4fd00800000000000000
+      internalID: 1005651625532487571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e185432a918b240800000000000000
+      internalID: 4807620786671590921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ca7738cf8959620800000000000000
+      internalID: 2780296555275988070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949fec229a6fd53a0800000000000000
+      internalID: -6674907866399311543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea715f838ee7b5aa0800000000000000
+      internalID: -6171199328528033874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2410e01a5b97aeb60800000000000000
+      internalID: 7776161527606673730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e793a874ec88eb5b0800000000000000
+      internalID: -5350688887724689026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52877c4e906b00af0800000000000000
+      internalID: -432145410618329051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e67d0a6d986f0450800000000000000
+      internalID: 6057175049135027940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4144844478d3e520800000000000000
+      internalID: 2730263792993976652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88c1b614c35fc090800000000000000
+      internalID: -8012093110409377652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc2e3e6edd256130800000000000000
+      internalID: 3559301513861803221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba75d40f70738c40800000000000000
+      internalID: 5513374059675876019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c685c10b9bc413e0800000000000000
+      internalID: -2083816860955605308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f46802e797aa040800000000000000
+      internalID: 4659670347086712613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7647c6b69590af7b0800000000000000
+      internalID: -5189825340932066201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737c31bc8437c6670800000000000000
+      internalID: 8533322150442157879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9046204aa783b7c70800000000000000
+      internalID: 8969825182227260425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094f52b3fa4f8b850800000000000000
+      internalID: 6393128704501216400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0115ed611227193c0800000000000000
+      internalID: -4354573878247403248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607667eb13e7add30800000000000000
+      internalID: 4457013533350455046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6b1696a5db0b8a0800000000000000
+      internalID: -6291320483423865160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af951b6449500030800000000000000
+      internalID: 3458862664209768360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d938bb8f0ed441ba0800000000000000
+      internalID: -6119180365048609891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Skeleton_1_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fbebf296c874ad0800000000000000
+      internalID: -2718049466694320338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

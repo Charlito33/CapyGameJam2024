@@ -1,0 +1,2430 @@
+fileFormatVersion: 2
+guid: cd6ddb8a424adbd43bc2a6563a53c9ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3223636960000112208
+    second: Modern_Exteriors_Characters_Postman_32x32_2_0
+  - first:
+      213: 7899823132098927604
+    second: Modern_Exteriors_Characters_Postman_32x32_2_1
+  - first:
+      213: -4385194637179458259
+    second: Modern_Exteriors_Characters_Postman_32x32_2_2
+  - first:
+      213: -3350905150043335111
+    second: Modern_Exteriors_Characters_Postman_32x32_2_3
+  - first:
+      213: -2065376582704476024
+    second: Modern_Exteriors_Characters_Postman_32x32_2_4
+  - first:
+      213: 5178707686856176881
+    second: Modern_Exteriors_Characters_Postman_32x32_2_5
+  - first:
+      213: 5604282659312490049
+    second: Modern_Exteriors_Characters_Postman_32x32_2_6
+  - first:
+      213: -1355853281350861348
+    second: Modern_Exteriors_Characters_Postman_32x32_2_7
+  - first:
+      213: 2661076725234114377
+    second: Modern_Exteriors_Characters_Postman_32x32_2_8
+  - first:
+      213: -5840396939284001078
+    second: Modern_Exteriors_Characters_Postman_32x32_2_9
+  - first:
+      213: -633273989980140953
+    second: Modern_Exteriors_Characters_Postman_32x32_2_10
+  - first:
+      213: -8542082328889809218
+    second: Modern_Exteriors_Characters_Postman_32x32_2_11
+  - first:
+      213: 1840668816551962464
+    second: Modern_Exteriors_Characters_Postman_32x32_2_12
+  - first:
+      213: -8724264545637814461
+    second: Modern_Exteriors_Characters_Postman_32x32_2_13
+  - first:
+      213: -878699793868805467
+    second: Modern_Exteriors_Characters_Postman_32x32_2_14
+  - first:
+      213: -2436416577152277361
+    second: Modern_Exteriors_Characters_Postman_32x32_2_15
+  - first:
+      213: -2614140203345216342
+    second: Modern_Exteriors_Characters_Postman_32x32_2_16
+  - first:
+      213: 3815899887377124680
+    second: Modern_Exteriors_Characters_Postman_32x32_2_17
+  - first:
+      213: 4203382133694385812
+    second: Modern_Exteriors_Characters_Postman_32x32_2_18
+  - first:
+      213: -7326125548864471599
+    second: Modern_Exteriors_Characters_Postman_32x32_2_19
+  - first:
+      213: 297353947138594624
+    second: Modern_Exteriors_Characters_Postman_32x32_2_20
+  - first:
+      213: -6538521513663889056
+    second: Modern_Exteriors_Characters_Postman_32x32_2_21
+  - first:
+      213: -4286349658957791225
+    second: Modern_Exteriors_Characters_Postman_32x32_2_22
+  - first:
+      213: 6533987054752725227
+    second: Modern_Exteriors_Characters_Postman_32x32_2_23
+  - first:
+      213: -4038963403113143523
+    second: Modern_Exteriors_Characters_Postman_32x32_2_24
+  - first:
+      213: 3999551138226774190
+    second: Modern_Exteriors_Characters_Postman_32x32_2_25
+  - first:
+      213: 5976032576073687416
+    second: Modern_Exteriors_Characters_Postman_32x32_2_26
+  - first:
+      213: 7196554717769179987
+    second: Modern_Exteriors_Characters_Postman_32x32_2_27
+  - first:
+      213: -3973930825601839718
+    second: Modern_Exteriors_Characters_Postman_32x32_2_28
+  - first:
+      213: -3706344356364122798
+    second: Modern_Exteriors_Characters_Postman_32x32_2_29
+  - first:
+      213: 4016380214205471057
+    second: Modern_Exteriors_Characters_Postman_32x32_2_30
+  - first:
+      213: -4561027510173101374
+    second: Modern_Exteriors_Characters_Postman_32x32_2_31
+  - first:
+      213: -3840956811470712480
+    second: Modern_Exteriors_Characters_Postman_32x32_2_32
+  - first:
+      213: -8493142527417385720
+    second: Modern_Exteriors_Characters_Postman_32x32_2_33
+  - first:
+      213: 8493455153962812166
+    second: Modern_Exteriors_Characters_Postman_32x32_2_34
+  - first:
+      213: -1161379438365892808
+    second: Modern_Exteriors_Characters_Postman_32x32_2_35
+  - first:
+      213: -5427717073116759308
+    second: Modern_Exteriors_Characters_Postman_32x32_2_36
+  - first:
+      213: -5086650403004746909
+    second: Modern_Exteriors_Characters_Postman_32x32_2_37
+  - first:
+      213: -3545545836469763824
+    second: Modern_Exteriors_Characters_Postman_32x32_2_38
+  - first:
+      213: 8229745692387219505
+    second: Modern_Exteriors_Characters_Postman_32x32_2_39
+  - first:
+      213: -2031594598318875132
+    second: Modern_Exteriors_Characters_Postman_32x32_2_40
+  - first:
+      213: 563991923997274863
+    second: Modern_Exteriors_Characters_Postman_32x32_2_41
+  - first:
+      213: 2081559264924835069
+    second: Modern_Exteriors_Characters_Postman_32x32_2_42
+  - first:
+      213: 1150777283502215488
+    second: Modern_Exteriors_Characters_Postman_32x32_2_43
+  - first:
+      213: -7740028173097278342
+    second: Modern_Exteriors_Characters_Postman_32x32_2_44
+  - first:
+      213: 3208894558428567983
+    second: Modern_Exteriors_Characters_Postman_32x32_2_45
+  - first:
+      213: -2296901495931146589
+    second: Modern_Exteriors_Characters_Postman_32x32_2_46
+  - first:
+      213: -7827380044522870020
+    second: Modern_Exteriors_Characters_Postman_32x32_2_47
+  - first:
+      213: -8328371507475725482
+    second: Modern_Exteriors_Characters_Postman_32x32_2_48
+  - first:
+      213: 3506622944751097875
+    second: Modern_Exteriors_Characters_Postman_32x32_2_49
+  - first:
+      213: 3766454725446616396
+    second: Modern_Exteriors_Characters_Postman_32x32_2_50
+  - first:
+      213: -4530293103186240317
+    second: Modern_Exteriors_Characters_Postman_32x32_2_51
+  - first:
+      213: -2103864022014556363
+    second: Modern_Exteriors_Characters_Postman_32x32_2_52
+  - first:
+      213: 5050205512788390180
+    second: Modern_Exteriors_Characters_Postman_32x32_2_53
+  - first:
+      213: -6161668910213013912
+    second: Modern_Exteriors_Characters_Postman_32x32_2_54
+  - first:
+      213: -7890176608598066515
+    second: Modern_Exteriors_Characters_Postman_32x32_2_55
+  - first:
+      213: -4125861482061762988
+    second: Modern_Exteriors_Characters_Postman_32x32_2_56
+  - first:
+      213: -7307249839682714017
+    second: Modern_Exteriors_Characters_Postman_32x32_2_57
+  - first:
+      213: -128815230903841255
+    second: Modern_Exteriors_Characters_Postman_32x32_2_58
+  - first:
+      213: -3891038892236467594
+    second: Modern_Exteriors_Characters_Postman_32x32_2_59
+  - first:
+      213: 4484779621061673169
+    second: Modern_Exteriors_Characters_Postman_32x32_2_60
+  - first:
+      213: 2600928782108265659
+    second: Modern_Exteriors_Characters_Postman_32x32_2_61
+  - first:
+      213: 7861039006221129492
+    second: Modern_Exteriors_Characters_Postman_32x32_2_62
+  - first:
+      213: 125067934543331117
+    second: Modern_Exteriors_Characters_Postman_32x32_2_63
+  - first:
+      213: 8125757051266066815
+    second: Modern_Exteriors_Characters_Postman_32x32_2_64
+  - first:
+      213: -1186569658743980513
+    second: Modern_Exteriors_Characters_Postman_32x32_2_65
+  - first:
+      213: 6238023739900830303
+    second: Modern_Exteriors_Characters_Postman_32x32_2_66
+  - first:
+      213: -1498700032633261161
+    second: Modern_Exteriors_Characters_Postman_32x32_2_67
+  - first:
+      213: -5409255240181345334
+    second: Modern_Exteriors_Characters_Postman_32x32_2_68
+  - first:
+      213: 7438527726767021165
+    second: Modern_Exteriors_Characters_Postman_32x32_2_69
+  - first:
+      213: 2705849119366495560
+    second: Modern_Exteriors_Characters_Postman_32x32_2_70
+  - first:
+      213: 7809346757908121075
+    second: Modern_Exteriors_Characters_Postman_32x32_2_71
+  - first:
+      213: -5932034857544597935
+    second: Modern_Exteriors_Characters_Postman_32x32_2_72
+  - first:
+      213: -1375554244105976925
+    second: Modern_Exteriors_Characters_Postman_32x32_2_73
+  - first:
+      213: 4139679697829308581
+    second: Modern_Exteriors_Characters_Postman_32x32_2_74
+  - first:
+      213: -5267235670561870059
+    second: Modern_Exteriors_Characters_Postman_32x32_2_75
+  - first:
+      213: -6482212472189384413
+    second: Modern_Exteriors_Characters_Postman_32x32_2_76
+  - first:
+      213: -1476774462354138191
+    second: Modern_Exteriors_Characters_Postman_32x32_2_77
+  - first:
+      213: -7486334546278759012
+    second: Modern_Exteriors_Characters_Postman_32x32_2_78
+  - first:
+      213: -5847994463131317324
+    second: Modern_Exteriors_Characters_Postman_32x32_2_79
+  - first:
+      213: -6218994800261157572
+    second: Modern_Exteriors_Characters_Postman_32x32_2_80
+  - first:
+      213: 1470950036765326002
+    second: Modern_Exteriors_Characters_Postman_32x32_2_81
+  - first:
+      213: -7074592339810370440
+    second: Modern_Exteriors_Characters_Postman_32x32_2_82
+  - first:
+      213: 243416851219559754
+    second: Modern_Exteriors_Characters_Postman_32x32_2_83
+  - first:
+      213: -6824918437620814589
+    second: Modern_Exteriors_Characters_Postman_32x32_2_84
+  - first:
+      213: 3892646451303768038
+    second: Modern_Exteriors_Characters_Postman_32x32_2_85
+  - first:
+      213: -3220674316709894224
+    second: Modern_Exteriors_Characters_Postman_32x32_2_86
+  - first:
+      213: -5329299699012332585
+    second: Modern_Exteriors_Characters_Postman_32x32_2_87
+  - first:
+      213: -7344528392490217645
+    second: Modern_Exteriors_Characters_Postman_32x32_2_88
+  - first:
+      213: -3917608870710492318
+    second: Modern_Exteriors_Characters_Postman_32x32_2_89
+  - first:
+      213: -1128351003858243688
+    second: Modern_Exteriors_Characters_Postman_32x32_2_90
+  - first:
+      213: -4209697226343358333
+    second: Modern_Exteriors_Characters_Postman_32x32_2_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1247
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05670ad4cb8acbc20800000000000000
+      internalID: 3223636960000112208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1183
+        width: 769
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb9b29984fc1ad60800000000000000
+      internalID: 7899823132098927604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1183
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d68f316b8a423c0800000000000000
+      internalID: -4385194637179458259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1055
+        width: 769
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936d3a715813f71d0800000000000000
+      internalID: -3350905150043335111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_4
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1119
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8805d7cd0fe4653e0800000000000000
+      internalID: -2065376582704476024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1055
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4b5a604377ed740800000000000000
+      internalID: 5178707686856176881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 385
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146d339c26966cd40800000000000000
+      internalID: 5604282659312490049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 991
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddb88dcf9a0f2de0800000000000000
+      internalID: -1355853281350861348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 385
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f93afbe2b0ee420800000000000000
+      internalID: 2661076725234114377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 927
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acec2be6dedb2fea0800000000000000
+      internalID: -5840396939284001078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 385
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a4dbd49a82637f0800000000000000
+      internalID: -633273989980140953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_11
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 863
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6a168316d647980800000000000000
+      internalID: -8542082328889809218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 863
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067e7bf498e5b8910800000000000000
+      internalID: 1840668816551962464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 385
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f29be6e9f2de680800000000000000
+      internalID: -8724264545637814461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 799
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaad3a613b3ec3f0800000000000000
+      internalID: -878699793868805467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_15
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8427f1280c103ed0800000000000000
+      internalID: -2436416577152277361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_16
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac7a8ad555b8bbd0800000000000000
+      internalID: -2614140203345216342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_17
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d0195eabcc4f430800000000000000
+      internalID: 3815899887377124680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ec316b7c9655a30800000000000000
+      internalID: 4203382133694385812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_19
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddf408f0af545a90800000000000000
+      internalID: -7326125548864471599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04791c7e6d9602400800000000000000
+      internalID: 297353947138594624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_21
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06180dd63518245a0800000000000000
+      internalID: -6538521513663889056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_22
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70044baf1b3d384c0800000000000000
+      internalID: -4286349658957791225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_23
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 805
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be879859b926daa50800000000000000
+      internalID: 6533987054752725227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_24
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 807
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1363a82f28b2f7c0800000000000000
+      internalID: -4038963403113143523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_25
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 805
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea02407d192418730800000000000000
+      internalID: 3999551138226774190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_26
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 805
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871e80f27f12fe250800000000000000
+      internalID: 5976032576073687416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 769
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3532b47036c4fd360800000000000000
+      internalID: 7196554717769179987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_28
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d070a08f2c9d8c0800000000000000
+      internalID: -3973930825601839718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_29
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25584a7e17b609cc0800000000000000
+      internalID: -3706344356364122798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_30
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159df9e668c0db730800000000000000
+      internalID: 4016380214205471057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_31
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2195515a9f3b0c0800000000000000
+      internalID: -4561027510173101374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_32
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061dba6512e22bac0800000000000000
+      internalID: -3840956811470712480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_33
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80df582bedb422a80800000000000000
+      internalID: -8493142527417385720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_34
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6030aa75670ded570800000000000000
+      internalID: 8493455153962812166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_35
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f12c6dd83f1efe0800000000000000
+      internalID: -1161379438365892808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_36
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa7d8b4410eca4b0800000000000000
+      internalID: -5427717073116759308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_37
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363fd40a8669869b0800000000000000
+      internalID: -5086650403004746909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_38
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011ca5ac8d0bbcec0800000000000000
+      internalID: -3545545836469763824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_39
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1389a8aaa1ee53270800000000000000
+      internalID: 8229745692387219505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 1537
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ed9970a735ec3e0800000000000000
+      internalID: -2031594598318875132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_41
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 671
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2fb0eaaa3b3d700800000000000000
+      internalID: 563991923997274863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 1281
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc94c47f1f23ec10800000000000000
+      internalID: 2081559264924835069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_43
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 607
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0411dbe97d168ff00800000000000000
+      internalID: 1150777283502215488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_44
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 611
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74650f8265e59490800000000000000
+      internalID: -7740028173097278342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_45
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 611
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa991d47998488c20800000000000000
+      internalID: 3208894558428567983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 1793
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aee5fa4244cf10e0800000000000000
+      internalID: -2296901495931146589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_47
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 543
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaab3c125f8f5390800000000000000
+      internalID: -7827380044522870020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 1793
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653cc635d3eab6c80800000000000000
+      internalID: -8328371507475725482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_49
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 479
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3189f174df60aa030800000000000000
+      internalID: 3506622944751097875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 769
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4546d40e92254430800000000000000
+      internalID: 3766454725446616396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_51
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 415
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc9e28dc6a2121c0800000000000000
+      internalID: -4530293103186240317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 769
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537091891d29dc2e0800000000000000
+      internalID: -2103864022014556363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_53
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 351
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421b870282fe51640800000000000000
+      internalID: 5050205512788390180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 769
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e5f27a5ca5d7aa0800000000000000
+      internalID: -6161668910213013912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_55
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa7a6dad26708290800000000000000
+      internalID: -7890176608598066515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_56
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eed3187defdb6c0800000000000000
+      internalID: -4125861482061762988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_57
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f568eac7cfe679a90800000000000000
+      internalID: -7307249839682714017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_58
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 301
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e0150ea3b563ef0800000000000000
+      internalID: -128815230903841255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_59
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 299
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672140d3eb0400ac0800000000000000
+      internalID: -3891038892236467594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_60
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0ca41dd432d3e30800000000000000
+      internalID: 4484779621061673169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_61
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 295
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc07af62fa581420800000000000000
+      internalID: 2600928782108265659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_62
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417dc4b9355081d60800000000000000
+      internalID: 7861039006221129492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_63
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f3f33bf945cb100800000000000000
+      internalID: 125067934543331117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_64
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79e6db6cfc74c070800000000000000
+      internalID: 8125757051266066815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_65
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1efe4d9e25788fe0800000000000000
+      internalID: -1186569658743980513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_66
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 297
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f522e3d7a89e19650800000000000000
+      internalID: 6238023739900830303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_67
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7933702c24c833be0800000000000000
+      internalID: -1498700032633261161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_68
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3129db4077ee4b0800000000000000
+      internalID: -5409255240181345334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_69
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 299
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c97d57e85fa3760800000000000000
+      internalID: 7438527726767021165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_70
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 299
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84db4a7107b1d8520800000000000000
+      internalID: 2705849119366495560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_71
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 287
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f546f8208f506c60800000000000000
+      internalID: 7809346757908121075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_72
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15eb1d0f9bd2dada0800000000000000
+      internalID: -5932034857544597935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_73
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a348c6f3bc09ece0800000000000000
+      internalID: -1375554244105976925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_74
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8230190c8137930800000000000000
+      internalID: 4139679697829308581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_75
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fa4eb801507e6b0800000000000000
+      internalID: -5267235670561870059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_76
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3298b8cc91e8a06a0800000000000000
+      internalID: -6482212472189384413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_77
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb53066371718be0800000000000000
+      internalID: -1476774462354138191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_78
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95c15bf4623b1890800000000000000
+      internalID: -7486334546278759012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_79
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb4b901500c7dea0800000000000000
+      internalID: -5847994463131317324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_80
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dae66cd21b1b9a0800000000000000
+      internalID: -6218994800261157572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_81
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2babeb7d34dd96410800000000000000
+      internalID: 1470950036765326002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_82
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c37eeefbff1dd90800000000000000
+      internalID: -7074592339810370440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 513
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a453945265ac06300800000000000000
+      internalID: 243416851219559754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_84
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 223
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30de89847d40941a0800000000000000
+      internalID: -6824918437620814589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 769
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef5526c255750630800000000000000
+      internalID: 3892646451303768038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_86
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 159
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b76847d5cddd43d0800000000000000
+      internalID: -3220674316709894224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 403
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d316cad8268a06b0800000000000000
+      internalID: -5329299699012332585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_88
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 95
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f89da075ef21a90800000000000000
+      internalID: -7344528392490217645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 385
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263c16c0d7bd1a9c0800000000000000
+      internalID: -3917608870710492318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_90
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 45
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fe2118dba4750f0800000000000000
+      internalID: -1128351003858243688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Postman_32x32_2_91
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 31
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3806bd33da62495c0800000000000000
+      internalID: -4209697226343358333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
