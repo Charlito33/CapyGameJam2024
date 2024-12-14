@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: 1ea3634e68900ea498baa809a383a923
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4837544166817080118
+    second: Fire_Truck_Stairless_32x32_0
+  - first:
+      213: 6476415039756047637
+    second: Fire_Truck_Stairless_32x32_1
+  - first:
+      213: -2268085757107220977
+    second: Fire_Truck_Stairless_32x32_2
+  - first:
+      213: 2754847879163363052
+    second: Fire_Truck_Stairless_32x32_3
+  - first:
+      213: 144449835449609220
+    second: Fire_Truck_Stairless_32x32_4
+  - first:
+      213: -481778566453393380
+    second: Fire_Truck_Stairless_32x32_5
+  - first:
+      213: 2432904503766746058
+    second: Fire_Truck_Stairless_32x32_6
+  - first:
+      213: 4907761519077990373
+    second: Fire_Truck_Stairless_32x32_7
+  - first:
+      213: -7751909674318651330
+    second: Fire_Truck_Stairless_32x32_8
+  - first:
+      213: -6197556689423165648
+    second: Fire_Truck_Stairless_32x32_9
+  - first:
+      213: 6110687457945355486
+    second: Fire_Truck_Stairless_32x32_10
+  - first:
+      213: 4792511223222687058
+    second: Fire_Truck_Stairless_32x32_11
+  - first:
+      213: -738758344452293539
+    second: Fire_Truck_Stairless_32x32_12
+  - first:
+      213: 3074794979311747944
+    second: Fire_Truck_Stairless_32x32_13
+  - first:
+      213: 4673889649350000485
+    second: Fire_Truck_Stairless_32x32_14
+  - first:
+      213: -3931809488939313222
+    second: Fire_Truck_Stairless_32x32_15
+  - first:
+      213: -7272402603089966658
+    second: Fire_Truck_Stairless_32x32_16
+  - first:
+      213: 8817436090483959430
+    second: Fire_Truck_Stairless_32x32_17
+  - first:
+      213: -3271247185124890184
+    second: Fire_Truck_Stairless_32x32_18
+  - first:
+      213: 3992284164093189553
+    second: Fire_Truck_Stairless_32x32_19
+  - first:
+      213: 2792496340058608745
+    second: Fire_Truck_Stairless_32x32_20
+  - first:
+      213: -3224520146628301259
+    second: Fire_Truck_Stairless_32x32_21
+  - first:
+      213: -216040961930356355
+    second: Fire_Truck_Stairless_32x32_22
+  - first:
+      213: 7129202860308970085
+    second: Fire_Truck_Stairless_32x32_23
+  - first:
+      213: 1650998363102315162
+    second: Fire_Truck_Stairless_32x32_24
+  - first:
+      213: 4868892043778881989
+    second: Fire_Truck_Stairless_32x32_25
+  - first:
+      213: -7847491197886078299
+    second: Fire_Truck_Stairless_32x32_26
+  - first:
+      213: -4054677573739388399
+    second: Fire_Truck_Stairless_32x32_27
+  - first:
+      213: -3438516597551093640
+    second: Fire_Truck_Stairless_32x32_28
+  - first:
+      213: -6373881957967334326
+    second: Fire_Truck_Stairless_32x32_29
+  - first:
+      213: 8438935105962167190
+    second: Fire_Truck_Stairless_32x32_30
+  - first:
+      213: -7249880802330453560
+    second: Fire_Truck_Stairless_32x32_31
+  - first:
+      213: 526078709885926374
+    second: Fire_Truck_Stairless_32x32_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 290
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63325601ac8622340800000000000000
+      internalID: 4837544166817080118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 343
+        width: 108
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51518a64a29d0e950800000000000000
+      internalID: 6476415039756047637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 319
+        width: 290
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e408f45042680e0800000000000000
+      internalID: -2268085757107220977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 321
+        width: 108
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee35cfdc8f2b3620800000000000000
+      internalID: 2754847879163363052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 294
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c66d92c50310200800000000000000
+      internalID: 144449835449609220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 298
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18062642f06059f0800000000000000
+      internalID: -481778566453393380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 27
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3077f81c963c120800000000000000
+      internalID: 2432904503766746058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 0
+        width: 292
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef99f2691fdb1440800000000000000
+      internalID: 4907761519077990373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 27
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30a25bf83fab6490800000000000000
+      internalID: -7751909674318651330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 294
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037169be60bddf9a0800000000000000
+      internalID: -6197556689423165648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 0
+        width: 310
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed484400ed58dc450800000000000000
+      internalID: 6110687457945355486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 0
+        width: 302
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255d242d09b628240800000000000000
+      internalID: 4792511223222687058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 23
+        width: 108
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cb01823376fb5f0800000000000000
+      internalID: -738758344452293539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 21
+        width: 108
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86308032ebddbaa20800000000000000
+      internalID: 3074794979311747944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 11
+        width: 108
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fb1ec6fddfcd040800000000000000
+      internalID: 4673889649350000485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 23
+        width: 108
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab71347f9186f69c0800000000000000
+      internalID: -3931809488939313222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 9
+        width: 116
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb942330d5c331b90800000000000000
+      internalID: -7272402603089966658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 17
+        width: 108
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68661035863dd5a70800000000000000
+      internalID: 8817436090483959430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 0
+        width: 294
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9622654023a92d0800000000000000
+      internalID: -3271247185124890184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 0
+        width: 298
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd11339b41776730800000000000000
+      internalID: 3992284164093189553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 0
+        width: 292
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96495c140a0f0c620800000000000000
+      internalID: 2792496340058608745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 4773
+        y: 27
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e2129c2043043d0800000000000000
+      internalID: -3224520146628301259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 0
+        width: 294
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d791537c3e7700df0800000000000000
+      internalID: -216040961930356355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 5099
+        y: 27
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a3a64ba3400f260800000000000000
+      internalID: 7129202860308970085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 0
+        width: 310
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92077d834689e610800000000000000
+      internalID: 1650998363102315162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 0
+        width: 302
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c97a2f6487c19340800000000000000
+      internalID: 4868892043778881989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 5863
+        y: 1
+        width: 108
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2eef3555c181390800000000000000
+      internalID: -7847491197886078299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 6183
+        y: 1
+        width: 108
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1126582ba34eab7c0800000000000000
+      internalID: -4054677573739388399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 6503
+        y: 0
+        width: 108
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878aea06f5fe740d0800000000000000
+      internalID: -3438516597551093640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 6823
+        y: 1
+        width: 108
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44f517212c6b87a0800000000000000
+      internalID: -6373881957967334326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 7143
+        y: 1
+        width: 108
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bc27974ce1d1570800000000000000
+      internalID: 8438935105962167190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 7463
+        y: 1
+        width: 108
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c95b2162df336b90800000000000000
+      internalID: -7249880802330453560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_Stairless_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb75a2acc10d4700800000000000000
+      internalID: 526078709885926374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
