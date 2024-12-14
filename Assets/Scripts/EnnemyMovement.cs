@@ -16,6 +16,7 @@ public class EnnemyMovement : MonoBehaviour
     private Vector2 _movementInput;
     private int _endPointIndex = 1;
     private bool _movingForward = true;
+    private bool _movementBlocked = false;
     [SerializeField] private float movementSpeed;
     [SerializeField] private int waitTimeMs;
     [SerializeField] private pathMode mode;
@@ -25,14 +26,23 @@ public class EnnemyMovement : MonoBehaviour
     void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
-        movementSpeed = 100f;
+        movementSpeed = 500f;
         waitTimeMs = 0;
         endPoints[0] = new Vector2(transform.position.x, transform.position.y);
+        if (endPoints.Count == 1)
+        {
+            _movementBlocked = true;
+        }
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
+        if (_movementBlocked)
+        {
+            _rb.linearVelocity = Vector2.zero;
+            return;
+        }
         if (Vector2.Distance(new Vector2(transform.position.x, transform.position.y), endPoints[_endPointIndex]) < 0.1f)
         {
             UpdateEndPointIndex();
@@ -62,6 +72,7 @@ public class EnnemyMovement : MonoBehaviour
                     _endPointIndex--;
                     break;
                 case pathMode.StopAtEnd:
+                    _movementBlocked = true;
                     break;
                 default:
                     Debug.LogError("Invalid path mode");
