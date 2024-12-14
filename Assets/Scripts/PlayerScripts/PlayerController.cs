@@ -22,10 +22,20 @@ public class PlayerController : MonoBehaviour
         _rb = GetComponent<Rigidbody2D>();
         _questManager = GameObject.Find("GameManager").GetComponent<QuestManager>();
     }
+    
+   // Update is called once per frame
+    void Update()
+    {
 
-//IsDialogAcvite
+    }
+
     private void FixedUpdate()
     {
+        if (_questManager.IsDialogActive())
+        {
+            return;
+        }
+        
         var h = Input.GetAxisRaw("Horizontal");
         var v = Input.GetAxisRaw("Vertical");
         

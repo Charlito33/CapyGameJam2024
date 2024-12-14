@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -18,7 +19,7 @@ public class QuestManager : MonoBehaviour
         _completedQuests = new List<QuestScript>();
         
         questDialogUIManager.SetActive(false);
-        
+
         UpdateQuests();
     }
 
@@ -27,7 +28,7 @@ public class QuestManager : MonoBehaviour
     {
         
     }
-
+    
     // Update every quest interdependencies
     // Use it when you update a quest state
     private void UpdateQuests()
@@ -70,7 +71,7 @@ public class QuestManager : MonoBehaviour
     public void ContinueDialog()
     {
         _dialogIndex++;
-        
+
         if (_dialogIndex >= _activeDialog.GetDialogs().Count)
         {
             CompleteQuest(_activeDialog);
@@ -79,10 +80,10 @@ public class QuestManager : MonoBehaviour
             questDialogUIManager.SetActive(false);
             return;
         }
-        
+
+        questDialogUIManager.SetActive(true);
         questDialogUIManager.SetTitle(_activeDialog.GetQuestName());
         questDialogUIManager.SetDialog(_activeDialog.GetDialogs()[_dialogIndex]);
-        questDialogUIManager.SetActive(true);
     }
 
     public bool IsDialogActive()
