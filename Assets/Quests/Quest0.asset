@@ -14,14 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   questId: 0
   requireQuestId: -1
-  autoGiveQuest: 1
+  autoGiveQuest: 0
   questType: 1
-  questName: Game Quest
-  questDescription: This is the main game quest.
+  questName: Dialog
+  questDescription: Dialog between a triangle and the player.
   onComplete: 0
   onCompleteGiveQuestId: 0
   dialogs:
-  - Welcome.
-  - Goodbye.
-  - Hello again
-  - Fuck you
+  - actor: Triangle
+    text: Hello.
+  - actor: Player
+    text: Hi?
+  - actor: Triangle
+    text: Go fuck yourself.

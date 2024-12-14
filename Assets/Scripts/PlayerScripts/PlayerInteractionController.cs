@@ -3,21 +3,24 @@ using UnityEngine;
 
 public class PlayerInteractionController : MonoBehaviour
 {
-    private List<QuestNpcController> _interactableNpcList;
+    private List<QuestNpcManager> _interactableNpcList;
     private QuestManager _questManager;
     
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         _questManager = GameObject.Find("GameManager").GetComponent<QuestManager>();
-        _interactableNpcList = new List<QuestNpcController>();   
+        _interactableNpcList = new List<QuestNpcManager>();   
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButtonDown("Interact"))
         {
+            if (_questManager.IsDialogActive())
+            {
+                return;
+            }
+            
             Interact();
         }
     }
@@ -36,12 +39,12 @@ public class PlayerInteractionController : MonoBehaviour
         }
     }
 
-    public void AddInteractableNpc(QuestNpcController npc)
+    public void AddInteractableNpc(QuestNpcManager npc)
     {
         _interactableNpcList.Add(npc);
     }
 
-    public void RemoveInteractableNpc(QuestNpcController npc)
+    public void RemoveInteractableNpc(QuestNpcManager npc)
     {
         _interactableNpcList.Remove(npc);
     }
