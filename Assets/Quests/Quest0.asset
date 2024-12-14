@@ -21,7 +21,7 @@ MonoBehaviour:
   onComplete: 0
   onCompleteGiveQuestId: 0
   dialogs:
-  - Welcome to the Division game.
+  - Welcome.
   - Goodbye.
   - Hello again
   - Fuck you
