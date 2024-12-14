@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class QuestDialogUIManager : MonoBehaviour
 {
@@ -9,8 +10,7 @@ public class QuestDialogUIManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        titleText.SetText("");
-        dialogText.SetText("");
+
     }
 
     // Update is called once per frame
