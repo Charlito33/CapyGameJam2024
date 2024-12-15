@@ -36,6 +36,7 @@ public class SceneManager : MonoBehaviour
         if (sceneIndex >= 0 && sceneIndex < UnityEngine.SceneManagement.SceneManager.sceneCountInBuildSettings)
         {
             UnityEngine.SceneManagement.SceneManager.LoadScene(sceneIndex);
+            Time.timeScale = 1f;
         }
         else
         {
