@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: eb6d8838793dea242bc60c3cb720cd0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2008511218218881269
+    second: Fire_Truck_32x32_0
+  - first:
+      213: -727602408443611088
+    second: Fire_Truck_32x32_1
+  - first:
+      213: 2472294586550170640
+    second: Fire_Truck_32x32_2
+  - first:
+      213: 2287949630361176494
+    second: Fire_Truck_32x32_3
+  - first:
+      213: -1431537905449369920
+    second: Fire_Truck_32x32_4
+  - first:
+      213: -2494175672782635105
+    second: Fire_Truck_32x32_5
+  - first:
+      213: 918835941279123590
+    second: Fire_Truck_32x32_6
+  - first:
+      213: 537072424173932259
+    second: Fire_Truck_32x32_7
+  - first:
+      213: -1377808482118140144
+    second: Fire_Truck_32x32_8
+  - first:
+      213: -6577667496212115260
+    second: Fire_Truck_32x32_9
+  - first:
+      213: -8948330188223142590
+    second: Fire_Truck_32x32_10
+  - first:
+      213: -9195265090102012719
+    second: Fire_Truck_32x32_11
+  - first:
+      213: -3425236904990082458
+    second: Fire_Truck_32x32_12
+  - first:
+      213: 7063217839419133926
+    second: Fire_Truck_32x32_13
+  - first:
+      213: -5254950045508700392
+    second: Fire_Truck_32x32_14
+  - first:
+      213: 5776796725431510078
+    second: Fire_Truck_32x32_15
+  - first:
+      213: -1597496486060536564
+    second: Fire_Truck_32x32_16
+  - first:
+      213: 1985055653914948503
+    second: Fire_Truck_32x32_17
+  - first:
+      213: -2928662994266845476
+    second: Fire_Truck_32x32_18
+  - first:
+      213: -200370365019518186
+    second: Fire_Truck_32x32_19
+  - first:
+      213: 224862151347724804
+    second: Fire_Truck_32x32_20
+  - first:
+      213: -9053645162986342954
+    second: Fire_Truck_32x32_21
+  - first:
+      213: -720274114639132281
+    second: Fire_Truck_32x32_22
+  - first:
+      213: -2112911764058628811
+    second: Fire_Truck_32x32_23
+  - first:
+      213: 1837995757039217824
+    second: Fire_Truck_32x32_24
+  - first:
+      213: 3509081205588923185
+    second: Fire_Truck_32x32_25
+  - first:
+      213: -9067028130840557542
+    second: Fire_Truck_32x32_26
+  - first:
+      213: 593193082571147950
+    second: Fire_Truck_32x32_27
+  - first:
+      213: -5668151914038990137
+    second: Fire_Truck_32x32_28
+  - first:
+      213: 984356057128239187
+    second: Fire_Truck_32x32_29
+  - first:
+      213: -7366647034821843149
+    second: Fire_Truck_32x32_30
+  - first:
+      213: 6389339223472957097
+    second: Fire_Truck_32x32_31
+  - first:
+      213: -3977564323518290629
+    second: Fire_Truck_32x32_32
+  - first:
+      213: 4574730925854750301
+    second: Fire_Truck_32x32_33
+  - first:
+      213: -2463345177892775980
+    second: Fire_Truck_32x32_34
+  - first:
+      213: -3812999800758537411
+    second: Fire_Truck_32x32_35
+  - first:
+      213: -6895023844349159035
+    second: Fire_Truck_32x32_36
+  - first:
+      213: 1213897757902127544
+    second: Fire_Truck_32x32_37
+  - first:
+      213: 8247082401193429080
+    second: Fire_Truck_32x32_38
+  - first:
+      213: -2039836707734919021
+    second: Fire_Truck_32x32_39
+  - first:
+      213: -8799678503355977572
+    second: Fire_Truck_32x32_40
+  - first:
+      213: 7147083255925949009
+    second: Fire_Truck_32x32_41
+  - first:
+      213: 2682155690595290814
+    second: Fire_Truck_32x32_42
+  - first:
+      213: 353567919245632929
+    second: Fire_Truck_32x32_43
+  - first:
+      213: -3308119857546648282
+    second: Fire_Truck_32x32_44
+  - first:
+      213: -1782942106495688023
+    second: Fire_Truck_32x32_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 289
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0d259bf4aafdb10800000000000000
+      internalID: 2008511218218881269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 343
+        width: 108
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038fffae67907e5f0800000000000000
+      internalID: -727602408443611088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 319
+        width: 290
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014b173e3da5f4220800000000000000
+      internalID: 2472294586550170640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 321
+        width: 108
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea90aa5111e60cf10800000000000000
+      internalID: 2287949630361176494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 383
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cefe2f0cd7222ce0800000000000000
+      internalID: -1431537905449369920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 383
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fbe58b078e26dd0800000000000000
+      internalID: -2494175672782635105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 383
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688cdce9b6c50cc00800000000000000
+      internalID: 918835941279123590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 407
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee8b853680147700800000000000000
+      internalID: 537072424173932259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 383
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ff3d64c7a01ece0800000000000000
+      internalID: -1377808482118140144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 383
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0d4ad134e67b4a0800000000000000
+      internalID: -6577667496212115260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 319
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2452e06aa1521d380800000000000000
+      internalID: -8948330188223142590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 319
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d45be08e1bd36080800000000000000
+      internalID: -9195265090102012719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 319
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66af18ebe2d1770d0800000000000000
+      internalID: -3425236904990082458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 343
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef87c1d337950260800000000000000
+      internalID: 7063217839419133926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 319
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817f70986caa217b0800000000000000
+      internalID: -5254950045508700392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 319
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e342cf6d30e4b2050800000000000000
+      internalID: 5776796725431510078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d4d6ae86d84d9e0800000000000000
+      internalID: -1597496486060536564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 294
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7933bf699955c8b10800000000000000
+      internalID: 1985055653914948503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 298
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde84eff58c4b57d0800000000000000
+      internalID: -2928662994266845476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 27
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b0f71f634283df0800000000000000
+      internalID: -200370365019518186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 0
+        width: 292
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402e28e6feede1300800000000000000
+      internalID: 224862151347724804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 27
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5f3c941bdfa5280800000000000000
+      internalID: -9053645162986342954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 294
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789860842821106f0800000000000000
+      internalID: -720274114639132281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 0
+        width: 310
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d9a8df1fd6da2e0800000000000000
+      internalID: -2112911764058628811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 0
+        width: 302
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac6ff4276fd18910800000000000000
+      internalID: 1837995757039217824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 23
+        width: 108
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133902bb3c2c2b030800000000000000
+      internalID: 3509081205588923185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 21
+        width: 108
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1846c444f17b2280800000000000000
+      internalID: -9067028130840557542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 11
+        width: 108
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa4fd937f17b3800800000000000000
+      internalID: 593193082571147950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 23
+        width: 108
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca61c68ddda651b0800000000000000
+      internalID: -5668151914038990137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 9
+        width: 108
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35002ad5e9229ad00800000000000000
+      internalID: 984356057128239187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 17
+        width: 108
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33762cf4d8964c990800000000000000
+      internalID: -7366647034821843149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 0
+        width: 294
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6639ceb2e7ba850800000000000000
+      internalID: 6389339223472957097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 0
+        width: 298
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35ec61625adcc8c0800000000000000
+      internalID: -3977564323518290629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 0
+        width: 292
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56f0920a85bc7f30800000000000000
+      internalID: 4574730925854750301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 4773
+        y: 27
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d79780bc9070ddd0800000000000000
+      internalID: -2463345177892775980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 0
+        width: 294
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33f62322e0851bc0800000000000000
+      internalID: -3812999800758537411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 5099
+        y: 27
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58958bf4854ff40a0800000000000000
+      internalID: -6895023844349159035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 0
+        width: 310
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1466d4491a8d010800000000000000
+      internalID: 1213897757902127544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 0
+        width: 302
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858828cbfb5837270800000000000000
+      internalID: 8247082401193429080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 5863
+        y: 1
+        width: 108
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39868a3625b01b3e0800000000000000
+      internalID: -2039836707734919021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 6183
+        y: 1
+        width: 108
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9073dd160341e580800000000000000
+      internalID: -8799678503355977572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 6503
+        y: 0
+        width: 108
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152cb99ba5a8f2360800000000000000
+      internalID: 7147083255925949009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 6823
+        y: 1
+        width: 108
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe8932d36ee83520800000000000000
+      internalID: 2682155690595290814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 7143
+        y: 1
+        width: 108
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a52c96362028e400800000000000000
+      internalID: 353567919245632929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 7463
+        y: 1
+        width: 108
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625248844823712d0800000000000000
+      internalID: -3308119857546648282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Truck_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2ec3fb997b147e0800000000000000
+      internalID: -1782942106495688023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

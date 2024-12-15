@@ -1,0 +1,2430 @@
+fileFormatVersion: 2
+guid: 18c75ca765c83974582b5ed8c588ebb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -970319181891028945
+    second: Car_classic_green_complete_32x32_0
+  - first:
+      213: -2672141494012437894
+    second: Car_classic_green_complete_32x32_1
+  - first:
+      213: -213030206121580009
+    second: Car_classic_green_complete_32x32_2
+  - first:
+      213: 2866275991978239540
+    second: Car_classic_green_complete_32x32_3
+  - first:
+      213: 5782448983710668804
+    second: Car_classic_green_complete_32x32_4
+  - first:
+      213: -8430973010231392180
+    second: Car_classic_green_complete_32x32_5
+  - first:
+      213: -8043481697389187337
+    second: Car_classic_green_complete_32x32_6
+  - first:
+      213: -8632973193358997103
+    second: Car_classic_green_complete_32x32_7
+  - first:
+      213: -965286333303868178
+    second: Car_classic_green_complete_32x32_8
+  - first:
+      213: -1142887596366077625
+    second: Car_classic_green_complete_32x32_9
+  - first:
+      213: 8558907120728167644
+    second: Car_classic_green_complete_32x32_10
+  - first:
+      213: 454913500328727446
+    second: Car_classic_green_complete_32x32_11
+  - first:
+      213: 8219378777216418071
+    second: Car_classic_green_complete_32x32_12
+  - first:
+      213: -8896448956895747769
+    second: Car_classic_green_complete_32x32_13
+  - first:
+      213: -1485666575855221579
+    second: Car_classic_green_complete_32x32_14
+  - first:
+      213: 8426891579809236959
+    second: Car_classic_green_complete_32x32_15
+  - first:
+      213: 7205851734089692572
+    second: Car_classic_green_complete_32x32_16
+  - first:
+      213: 1742989084676253507
+    second: Car_classic_green_complete_32x32_17
+  - first:
+      213: 2284511807938212064
+    second: Car_classic_green_complete_32x32_18
+  - first:
+      213: -8056499187899654921
+    second: Car_classic_green_complete_32x32_19
+  - first:
+      213: -2640635514942585615
+    second: Car_classic_green_complete_32x32_20
+  - first:
+      213: 6197579537343896663
+    second: Car_classic_green_complete_32x32_21
+  - first:
+      213: 1994344862514394558
+    second: Car_classic_green_complete_32x32_22
+  - first:
+      213: -1699847915980611826
+    second: Car_classic_green_complete_32x32_23
+  - first:
+      213: 6135013887825619831
+    second: Car_classic_green_complete_32x32_24
+  - first:
+      213: -8152286581954948939
+    second: Car_classic_green_complete_32x32_25
+  - first:
+      213: 2660332742630455486
+    second: Car_classic_green_complete_32x32_26
+  - first:
+      213: 3196915695611221995
+    second: Car_classic_green_complete_32x32_27
+  - first:
+      213: 6907976698863792249
+    second: Car_classic_green_complete_32x32_28
+  - first:
+      213: -1445325208675290567
+    second: Car_classic_green_complete_32x32_29
+  - first:
+      213: -3104252854478742395
+    second: Car_classic_green_complete_32x32_30
+  - first:
+      213: -2084724801879681519
+    second: Car_classic_green_complete_32x32_31
+  - first:
+      213: -1861314676408959996
+    second: Car_classic_green_complete_32x32_32
+  - first:
+      213: 777819423577721953
+    second: Car_classic_green_complete_32x32_33
+  - first:
+      213: -8916629887182446011
+    second: Car_classic_green_complete_32x32_34
+  - first:
+      213: -3383837858144858021
+    second: Car_classic_green_complete_32x32_35
+  - first:
+      213: 5863490570438698484
+    second: Car_classic_green_complete_32x32_36
+  - first:
+      213: -8112613759199072517
+    second: Car_classic_green_complete_32x32_37
+  - first:
+      213: 8830386668129904959
+    second: Car_classic_green_complete_32x32_38
+  - first:
+      213: -4477139365207464736
+    second: Car_classic_green_complete_32x32_39
+  - first:
+      213: 5302530093764337534
+    second: Car_classic_green_complete_32x32_40
+  - first:
+      213: -703740667417788318
+    second: Car_classic_green_complete_32x32_41
+  - first:
+      213: 585266319478846012
+    second: Car_classic_green_complete_32x32_42
+  - first:
+      213: -2620544250798581734
+    second: Car_classic_green_complete_32x32_43
+  - first:
+      213: -342713305790531487
+    second: Car_classic_green_complete_32x32_44
+  - first:
+      213: -1311804472295516144
+    second: Car_classic_green_complete_32x32_45
+  - first:
+      213: -8927736278083105262
+    second: Car_classic_green_complete_32x32_46
+  - first:
+      213: 4867009069134901729
+    second: Car_classic_green_complete_32x32_47
+  - first:
+      213: -4265011539372700618
+    second: Car_classic_green_complete_32x32_48
+  - first:
+      213: 6078878112859613192
+    second: Car_classic_green_complete_32x32_49
+  - first:
+      213: -7334066666834123885
+    second: Car_classic_green_complete_32x32_50
+  - first:
+      213: -4355350526958011011
+    second: Car_classic_green_complete_32x32_51
+  - first:
+      213: -3949822433940802500
+    second: Car_classic_green_complete_32x32_52
+  - first:
+      213: 9061832382381314894
+    second: Car_classic_green_complete_32x32_53
+  - first:
+      213: 240291207658547426
+    second: Car_classic_green_complete_32x32_54
+  - first:
+      213: 6676174910749327050
+    second: Car_classic_green_complete_32x32_55
+  - first:
+      213: -6247889003912633339
+    second: Car_classic_green_complete_32x32_56
+  - first:
+      213: 2389812579741119097
+    second: Car_classic_green_complete_32x32_57
+  - first:
+      213: -2337963206661594695
+    second: Car_classic_green_complete_32x32_58
+  - first:
+      213: -8581495714357479925
+    second: Car_classic_green_complete_32x32_59
+  - first:
+      213: -2669651838251606676
+    second: Car_classic_green_complete_32x32_60
+  - first:
+      213: 6038282258004562652
+    second: Car_classic_green_complete_32x32_61
+  - first:
+      213: -5904382354848061359
+    second: Car_classic_green_complete_32x32_62
+  - first:
+      213: -4235706968490174614
+    second: Car_classic_green_complete_32x32_63
+  - first:
+      213: 1377474738857216952
+    second: Car_classic_green_complete_32x32_64
+  - first:
+      213: -69535946951476285
+    second: Car_classic_green_complete_32x32_65
+  - first:
+      213: -3649664668191644441
+    second: Car_classic_green_complete_32x32_66
+  - first:
+      213: -3654263184646762332
+    second: Car_classic_green_complete_32x32_67
+  - first:
+      213: -7766150699864993290
+    second: Car_classic_green_complete_32x32_68
+  - first:
+      213: 2712992925350528745
+    second: Car_classic_green_complete_32x32_69
+  - first:
+      213: 2378801855442613013
+    second: Car_classic_green_complete_32x32_70
+  - first:
+      213: 1958905032042756855
+    second: Car_classic_green_complete_32x32_71
+  - first:
+      213: -6455203909885152027
+    second: Car_classic_green_complete_32x32_72
+  - first:
+      213: -5987707894799613484
+    second: Car_classic_green_complete_32x32_73
+  - first:
+      213: 4307675831005470332
+    second: Car_classic_green_complete_32x32_74
+  - first:
+      213: -5629432294713340552
+    second: Car_classic_green_complete_32x32_75
+  - first:
+      213: 761838846165920156
+    second: Car_classic_green_complete_32x32_76
+  - first:
+      213: -4804777327786603288
+    second: Car_classic_green_complete_32x32_77
+  - first:
+      213: 6248526485944804533
+    second: Car_classic_green_complete_32x32_78
+  - first:
+      213: 5124375154575728812
+    second: Car_classic_green_complete_32x32_79
+  - first:
+      213: -4423237476789941463
+    second: Car_classic_green_complete_32x32_80
+  - first:
+      213: -3698682972278120742
+    second: Car_classic_green_complete_32x32_81
+  - first:
+      213: -5306213429906539644
+    second: Car_classic_green_complete_32x32_82
+  - first:
+      213: 3400436214729800544
+    second: Car_classic_green_complete_32x32_83
+  - first:
+      213: -4325989363110303834
+    second: Car_classic_green_complete_32x32_84
+  - first:
+      213: -7268012078501761987
+    second: Car_classic_green_complete_32x32_85
+  - first:
+      213: 7923772174867436588
+    second: Car_classic_green_complete_32x32_86
+  - first:
+      213: 6150110746946048901
+    second: Car_classic_green_complete_32x32_87
+  - first:
+      213: 4764492145937586397
+    second: Car_classic_green_complete_32x32_88
+  - first:
+      213: -8299117987827119137
+    second: Car_classic_green_complete_32x32_89
+  - first:
+      213: 4203773816343177262
+    second: Car_classic_green_complete_32x32_90
+  - first:
+      213: 4144482817624545460
+    second: Car_classic_green_complete_32x32_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1311
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2833a458dbb882f0800000000000000
+      internalID: -970319181891028945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1313
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a9ec30875aaead0800000000000000
+      internalID: -2672141494012437894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1313
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ae1bdf72a2b0df0800000000000000
+      internalID: -213030206121580009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1313
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436e71a14de07c720800000000000000
+      internalID: 2866275991978239540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1215
+        width: 128
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40894e5c6b26f3050800000000000000
+      internalID: 5782448983710668804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1215
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48804667ba2ffa80800000000000000
+      internalID: -8430973010231392180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1215
+        width: 138
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fee2cd2300df5090800000000000000
+      internalID: -8043481697389187337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1215
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1990e5ebe94813880800000000000000
+      internalID: -8632973193358997103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1215
+        width: 142
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee432e4b13d9a92f0800000000000000
+      internalID: -965286333303868178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1215
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741666059c5a320f0800000000000000
+      internalID: -1142887596366077625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1169
+        width: 386
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd45094eda857c670800000000000000
+      internalID: 8558907120728167644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1215
+        width: 128
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6939f961b6d205600800000000000000
+      internalID: 454913500328727446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1215
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7118e522379111270800000000000000
+      internalID: 8219378777216418071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1215
+        width: 138
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741a5d12fc6798480800000000000000
+      internalID: -8896448956895747769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1215
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b48a73ee1ad16be0800000000000000
+      internalID: -1485666575855221579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1215
+        width: 142
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd782478e3552f470800000000000000
+      internalID: 8426891579809236959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1215
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c957c8259f3500460800000000000000
+      internalID: 7205851734089692572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1151
+        width: 385
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347e2877657503810800000000000000
+      internalID: 1742989084676253507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 1277
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0b75da26734bf10800000000000000
+      internalID: 2284511807938212064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1275
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc940c7ca0913090800000000000000
+      internalID: -8056499187899654921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f401966df39a5bd0800000000000000
+      internalID: -2640635514942585615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1237
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cdc96c0c9320650800000000000000
+      internalID: 6197579537343896663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1237
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5bbc106165dab10800000000000000
+      internalID: 1994344862514394558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1169
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f99cb935de868e0800000000000000
+      internalID: -1699847915980611826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1169
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b2fe350a2f32550800000000000000
+      internalID: 6135013887825619831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1055
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0546fdb824dde80800000000000000
+      internalID: -8152286581954948939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1055
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb834dcc8866be420800000000000000
+      internalID: 2660332742630455486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1049
+        width: 124
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be717cd13e9bd5c20800000000000000
+      internalID: 3196915695611221995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1043
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970b37425301edf50800000000000000
+      internalID: 6907976698863792249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1041
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932fdff516c21fbe0800000000000000
+      internalID: -1445325208675290567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1039
+        width: 124
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c5dc3d97a7be4d0800000000000000
+      internalID: -3104252854478742395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1041
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116d38986d19113e0800000000000000
+      internalID: -2084724801879681519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1043
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c3c69d9284b26e0800000000000000
+      internalID: -1861314676408959996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1049
+        width: 124
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ccfb905ae5bca00800000000000000
+      internalID: 777819423577721953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1055
+        width: 246
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542ebd42c54c14480800000000000000
+      internalID: -8916629887182446011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1055
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50d1c775613a01d0800000000000000
+      internalID: -3383837858144858021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1049
+        width: 124
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5e9d29b9d4f5150800000000000000
+      internalID: 5863490570438698484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1043
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe2efab4c43a6f80800000000000000
+      internalID: -8112613759199072517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1041
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f396a37a3e5db8a70800000000000000
+      internalID: 8830386668129904959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1039
+        width: 124
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e424eed7710ed1c0800000000000000
+      internalID: -4477139365207464736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1041
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f54a9b60f569940800000000000000
+      internalID: 5302530093764337534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1043
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2600190779fcb36f0800000000000000
+      internalID: -703740667417788318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1049
+        width: 124
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32798fdd984f1800800000000000000
+      internalID: 585266319478846012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 1055
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1855fc53e4f1abd0800000000000000
+      internalID: -2620544250798581734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 901
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1683e8c60107e3bf0800000000000000
+      internalID: -342713305790531487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 901
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0189e0e58c88bcde0800000000000000
+      internalID: -1311804472295516144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 909
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e0d70082f4a1480800000000000000
+      internalID: -8927736278083105262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 895
+        width: 76
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1f36c36f61b8340800000000000000
+      internalID: 4867009069134901729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 905
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c8fb81a92afc4c0800000000000000
+      internalID: -4265011539372700618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 927
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808e4e5bf638c5450800000000000000
+      internalID: 6078878112859613192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 895
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393a15c5939283a90800000000000000
+      internalID: -7334066666834123885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 877
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d7b5875cfae83c0800000000000000
+      internalID: -4355350526958011011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 771
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34f6136c696f29c0800000000000000
+      internalID: -3949822433940802500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 767
+        width: 130
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4358f54a8812cd70800000000000000
+      internalID: 9061832382381314894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 129
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8232b849fa55300800000000000000
+      internalID: 240291207658547426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 771
+        width: 122
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aceb69d95b986ac50800000000000000
+      internalID: 6676174910749327050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 799
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504e7bdbd0a0b49a0800000000000000
+      internalID: -6247889003912633339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 649
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972ba3721e15a2120800000000000000
+      internalID: 2389812579741119097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 647
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1a001c9d2ed8fd0800000000000000
+      internalID: -2337963206661594695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 653
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b067f205d1768e880800000000000000
+      internalID: -8581495714357479925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 645
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d5b0b2ccd73fad0800000000000000
+      internalID: -2669651838251606676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 645
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2d7e1b8b94cc350800000000000000
+      internalID: 6038282258004562652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 671
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1586231f78b6f0ea0800000000000000
+      internalID: -5904382354848061359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 523
+        width: 70
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a671f7234feb735c0800000000000000
+      internalID: -4235706968490174614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 519
+        width: 74
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb88a01af5cd1310800000000000000
+      internalID: 1377474738857216952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 511
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb36d6bc65f80ff0800000000000000
+      internalID: -69535946951476285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 515
+        width: 130
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4a42f2259c95dc0800000000000000
+      internalID: -3649664668191644441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 515
+        width: 126
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a09753aef2794dc0800000000000000
+      internalID: -3654263184646762332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 543
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f15566d517193490800000000000000
+      internalID: -7766150699864993290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 515
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e68aa901bc76a520800000000000000
+      internalID: 2712992925350528745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 129
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51372b02fa3330120800000000000000
+      internalID: 2378801855442613013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 385
+        width: 118
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa32a77fbd6f2b10800000000000000
+      internalID: 1958905032042756855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 389
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4359ebe328a66a0800000000000000
+      internalID: -6455203909885152027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 263
+        width: 130
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1caa7d46367eca0800000000000000
+      internalID: -5987707894799613484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 415
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7edd926850f7cb30800000000000000
+      internalID: 4307675831005470332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 126
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dcf7a672d30e1b0800000000000000
+      internalID: -5629432294713340552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 259
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9920d9e468929a00800000000000000
+      internalID: 761838846165920156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 255
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eccd682a70025db0800000000000000
+      internalID: -4804777327786603288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 267
+        width: 70
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b42c5c9bb937b650800000000000000
+      internalID: 6248526485944804533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 287
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0e2509d007d1740800000000000000
+      internalID: 5124375154575728812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 257
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b8dbe33f08d92c0800000000000000
+      internalID: -4423237476789941463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 129
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade9394ee63abacc0800000000000000
+      internalID: -3698682972278120742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 237
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b7300cffa8c56b0800000000000000
+      internalID: -5306213429906539644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 131
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bf75498b6c03f20800000000000000
+      internalID: 3400436214729800544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 139
+        width: 122
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a721b5289ff6f3c0800000000000000
+      internalID: -4325989363110303834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 133
+        width: 128
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c67ada585d22b90800000000000000
+      internalID: -7268012078501761987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 159
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c241914afc4e6fd60800000000000000
+      internalID: 7923772174867436588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5831801c325995550800000000000000
+      internalID: 6150110746946048901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd89fb50d50ee1240800000000000000
+      internalID: 4764492145937586397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 122
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb8282292c93dc80800000000000000
+      internalID: -8299117987827119137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 5
+        width: 126
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28293f630ec65a30800000000000000
+      internalID: 4203773816343177262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_classic_green_complete_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 31
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8983a0a29248930800000000000000
+      internalID: 4144482817624545460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

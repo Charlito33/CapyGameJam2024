@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: 50107caf7a0266b419c80ce7045aed10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3568758170390853056
+    second: Accessory_25_Black_Cylinder_32x32_0
+  - first:
+      213: 889976151831929899
+    second: Accessory_25_Black_Cylinder_32x32_1
+  - first:
+      213: 4751644612597663478
+    second: Accessory_25_Black_Cylinder_32x32_2
+  - first:
+      213: -6989732029052369968
+    second: Accessory_25_Black_Cylinder_32x32_3
+  - first:
+      213: -2064240879313230366
+    second: Accessory_25_Black_Cylinder_32x32_4
+  - first:
+      213: 5197652921230535839
+    second: Accessory_25_Black_Cylinder_32x32_5
+  - first:
+      213: 3118414363215344718
+    second: Accessory_25_Black_Cylinder_32x32_6
+  - first:
+      213: 1712832957586207636
+    second: Accessory_25_Black_Cylinder_32x32_7
+  - first:
+      213: 5321184397099119604
+    second: Accessory_25_Black_Cylinder_32x32_8
+  - first:
+      213: 8531025090113526220
+    second: Accessory_25_Black_Cylinder_32x32_9
+  - first:
+      213: -396868301264819978
+    second: Accessory_25_Black_Cylinder_32x32_10
+  - first:
+      213: 7683606333267669495
+    second: Accessory_25_Black_Cylinder_32x32_11
+  - first:
+      213: 3616416220068117180
+    second: Accessory_25_Black_Cylinder_32x32_12
+  - first:
+      213: 8966658635670537859
+    second: Accessory_25_Black_Cylinder_32x32_13
+  - first:
+      213: 5631616128883956303
+    second: Accessory_25_Black_Cylinder_32x32_14
+  - first:
+      213: -6446399357399012349
+    second: Accessory_25_Black_Cylinder_32x32_15
+  - first:
+      213: 4955072899830493265
+    second: Accessory_25_Black_Cylinder_32x32_16
+  - first:
+      213: -1201375780862440212
+    second: Accessory_25_Black_Cylinder_32x32_17
+  - first:
+      213: 7125483104791681090
+    second: Accessory_25_Black_Cylinder_32x32_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1235
+        width: 129
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a84942a59397ec0800000000000000
+      internalID: -3568758170390853056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1171
+        width: 769
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24e2844894d95c00800000000000000
+      internalID: 889976151831929899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1107
+        width: 769
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f648c0999b31f140800000000000000
+      internalID: 4751644612597663478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 981
+        width: 385
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3c925b0cb7ffe90800000000000000
+      internalID: -6989732029052369968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 917
+        width: 385
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5e1b96bd75a53e0800000000000000
+      internalID: -2064240879313230366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 851
+        width: 385
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ca7b32bc5c12840800000000000000
+      internalID: 5197652921230535839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787
+        width: 385
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e443ded5755d64b20800000000000000
+      internalID: 3118414363215344718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 723
+        width: 769
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493f18cff7435c710800000000000000
+      internalID: 1712832957586207636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 653
+        width: 1537
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3b17d2405a8d940800000000000000
+      internalID: 5321184397099119604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 1281
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc95922ce1a446670800000000000000
+      internalID: 8531025090113526220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 1792
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f86f78f16a0e7af0800000000000000
+      internalID: -396868301264819978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 1792
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f17c582047a1aa60800000000000000
+      internalID: 7683606333267669495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 769
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbafe1d3467103230800000000000000
+      internalID: 3616416220068117180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 769
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386c4519588ff6c70800000000000000
+      internalID: 8966658635670537859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 769
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a1d791805872e40800000000000000
+      internalID: 5631616128883956303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 513
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ceced50f9c986a0800000000000000
+      internalID: -6446399357399012349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 769
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150bf8e9c84f3c440800000000000000
+      internalID: 4955072899830493265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 385
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceccfeba71bd35fe0800000000000000
+      internalID: -1201375780862440212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_25_Black_Cylinder_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 385
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d722a12dc2e260800000000000000
+      internalID: 7125483104791681090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

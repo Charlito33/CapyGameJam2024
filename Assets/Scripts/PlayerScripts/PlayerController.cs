@@ -26,11 +26,11 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (_questManager.IsDialogActive())
-        {
-            _rb.linearVelocity = Vector2.zero;
-            return;
-        }
+        //if (_questManager.IsDialogActive())
+        //{
+        //    _rb.linearVelocity = Vector2.zero;
+        //    return;
+        //}
         
         var h = Input.GetAxisRaw("Horizontal");
         var v = Input.GetAxisRaw("Vertical");
