@@ -13,15 +13,14 @@ MonoBehaviour:
   m_Name: Quest1
   m_EditorClassIdentifier: 
   _questId: 1
-  _questName: Quest Name
-  _questDescription: Quest Description
-  _questType: 0
-  requiredQuests:
-  - {fileID: 11400000, guid: ce6324836bbdfed40b0b800a2685f4e6, type: 2}
-  _autoGiveQuest: 0
+  _questName: Intro Dialog
+  _questDescription: 
+  _questType: 1
+  requiredQuests: []
+  _autoGiveQuest: 1
   onCompleteGiveQuests: []
   dialogs:
-  - actor: Celeste
-    text: Not Done
+  - actor: Taylor
+    text: Hello, I'm in gamemode 1, don't worry.
   destroyGameObjects: []
   teleportPosition: {x: 0, y: 0}

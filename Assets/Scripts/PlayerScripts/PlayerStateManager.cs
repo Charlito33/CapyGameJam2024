@@ -19,12 +19,17 @@ public class PlayerStateManager : MonoBehaviour
     
     private PlayerState _state = PlayerState.Default;
     
+    [Header("Sprites")]
+    [SerializeField] private SpriteRenderer defaultSprite;
+    [SerializeField] private SpriteRenderer badSprite;
+    
     [Header("Music")]
     [SerializeField] private AudioSource defaultMusicAudioSource;
     [SerializeField] private AudioSource badMusicAudioSource;
     [SerializeField] private float fadeTimeSeconds;
     
     [Header("UI")]
+    [SerializeField] private SpriteRenderer filter;
     [SerializeField] private Image bar;
 
     void Start()
@@ -34,7 +39,7 @@ public class PlayerStateManager : MonoBehaviour
         
         _badTimer = badTimerSeconds;
         
-        UpdateMusic();
+        SetPlayerState(PlayerState.Default);
     }
 
     void Update()
@@ -116,10 +121,16 @@ public class PlayerStateManager : MonoBehaviour
         if (state == PlayerState.Default)
         {
             _tilemapManager.SwitchTilemap(TilemapManager.TilemapType.Default);
+            filter.gameObject.SetActive(false);
+            defaultSprite.gameObject.SetActive(true);
+            badSprite.gameObject.SetActive(false);
         }
         if (state == PlayerState.Bad)
         {
             _tilemapManager.SwitchTilemap(TilemapManager.TilemapType.Bad);
+            filter.gameObject.SetActive(true);
+            defaultSprite.gameObject.SetActive(false);
+            badSprite.gameObject.SetActive(true);
         }
         
         UpdateMusic();

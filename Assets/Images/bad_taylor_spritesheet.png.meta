@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bad_taylor_spritesheet_0: -5605622683096901292
+      bad_taylor_spritesheet_1: -6585655088953847589
+      bad_taylor_spritesheet_10: -255553926335233196
+      bad_taylor_spritesheet_11: 6450827656791052158
+      bad_taylor_spritesheet_12: -2148456173952121547
+      bad_taylor_spritesheet_13: -233756204784330273
+      bad_taylor_spritesheet_14: 761163141795741882
+      bad_taylor_spritesheet_15: -2722841330879414840
+      bad_taylor_spritesheet_2: 7716239714157095495
+      bad_taylor_spritesheet_3: -4153902758128742673
+      bad_taylor_spritesheet_4: -782817349551745092
+      bad_taylor_spritesheet_5: 2274057373307270683
+      bad_taylor_spritesheet_6: -1809296250019351707
+      bad_taylor_spritesheet_7: 3276423019396070202
+      bad_taylor_spritesheet_8: -5225706910643907984
+      bad_taylor_spritesheet_9: -6520045794991376309
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
