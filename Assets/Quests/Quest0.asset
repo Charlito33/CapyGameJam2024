@@ -12,7 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a3e624dafd562447816c94c30b24f86, type: 3}
   m_Name: Quest0
   m_EditorClassIdentifier: 
+  _questId: 0
+  _questName: Quest Name
+  _questDescription: Quest Description
+  _questType: 0
   requiredQuests: []
+  _autoGiveQuest: 0
   onCompleteGiveQuests:
   - {fileID: 11400000, guid: ba8bc8cecb3df204ea600a20c4ae4382, type: 2}
   dialogs:
@@ -22,3 +27,5 @@ MonoBehaviour:
     text: Hi?
   - actor: Circle
     text: Go fuck yourself.
+  destroyGameObjects: []
+  teleportPosition: {x: 0, y: 0}
