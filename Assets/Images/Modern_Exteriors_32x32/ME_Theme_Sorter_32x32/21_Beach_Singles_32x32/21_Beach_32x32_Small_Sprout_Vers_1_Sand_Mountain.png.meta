@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Small_Sprout_Vers_1_Sand_Mountain_0: -1348261659306368648
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

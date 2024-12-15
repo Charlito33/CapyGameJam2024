@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Brown_3_Little_Mushrooms_0: -2197458626024361915
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

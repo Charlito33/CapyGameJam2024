@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subwayand_Train_Station__32x32_Example_Grey_Rail_Vertical_2_0: 5078699666160486683
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

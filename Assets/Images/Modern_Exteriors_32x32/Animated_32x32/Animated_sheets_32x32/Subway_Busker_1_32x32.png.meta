@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Subway_Busker_1_32x32_0: 8724913349456433244
+      Subway_Busker_1_32x32_1: -5414197363033029198
+      Subway_Busker_1_32x32_10: 2123147780706884196
+      Subway_Busker_1_32x32_11: 3667813545016257124
+      Subway_Busker_1_32x32_2: -8575245222246869049
+      Subway_Busker_1_32x32_3: 2142647727962242081
+      Subway_Busker_1_32x32_4: 9185086214659065144
+      Subway_Busker_1_32x32_5: -5601167717826285144
+      Subway_Busker_1_32x32_6: -8042003261426597078
+      Subway_Busker_1_32x32_7: 1067081573797367939
+      Subway_Busker_1_32x32_8: -3451372399691339919
+      Subway_Busker_1_32x32_9: 1749509651607801895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ambulance_Rear_Door_32x32_0: -7596848125744843690
+      Ambulance_Rear_Door_32x32_1: -8121567146863236781
+      Ambulance_Rear_Door_32x32_10: -5610552342294052856
+      Ambulance_Rear_Door_32x32_11: 4115234701948314463
+      Ambulance_Rear_Door_32x32_12: 7267656970745269950
+      Ambulance_Rear_Door_32x32_13: -447297537820933690
+      Ambulance_Rear_Door_32x32_2: 2941113400536889520
+      Ambulance_Rear_Door_32x32_3: -8422750439644706298
+      Ambulance_Rear_Door_32x32_4: -3304363428805042852
+      Ambulance_Rear_Door_32x32_5: 5411259517368746970
+      Ambulance_Rear_Door_32x32_6: 3938743126358725711
+      Ambulance_Rear_Door_32x32_7: 3939295790492056985
+      Ambulance_Rear_Door_32x32_8: -4111065855246659671
+      Ambulance_Rear_Door_32x32_9: -2999774088754934919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

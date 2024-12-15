@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Delivery_Truck_Door_32x32_0: 12446205680400512
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

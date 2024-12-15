@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crow_Hover_Left_32x32_0: -2860876301793290163
+      Crow_Hover_Left_32x32_1: 5541983940786361238
+      Crow_Hover_Left_32x32_2: -4055451651043970371
+      Crow_Hover_Left_32x32_3: 1027243884528365533
+      Crow_Hover_Left_32x32_4: 2512674353608105475
+      Crow_Hover_Left_32x32_5: -24699712601128408
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

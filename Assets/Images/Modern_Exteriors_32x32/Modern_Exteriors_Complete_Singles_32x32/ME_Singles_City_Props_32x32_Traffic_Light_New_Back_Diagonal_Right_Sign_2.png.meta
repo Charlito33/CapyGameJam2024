@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Traffic_Light_New_Back_Diagonal_Right_Sign_2_0: 7192279376756789573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

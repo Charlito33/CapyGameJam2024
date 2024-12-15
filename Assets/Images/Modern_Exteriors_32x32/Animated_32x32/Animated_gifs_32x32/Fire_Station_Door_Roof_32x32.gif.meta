@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire_Station_Door_Roof_32x32_0: 7831072728605423460
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

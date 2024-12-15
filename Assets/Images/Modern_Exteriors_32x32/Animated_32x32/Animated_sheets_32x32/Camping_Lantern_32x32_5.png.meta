@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Camping_Lantern_32x32_5_0: 1540953414959986917
+      Camping_Lantern_32x32_5_1: 1250001313604523180
+      Camping_Lantern_32x32_5_2: -5833947571650279948
+      Camping_Lantern_32x32_5_3: -9157178692743274606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

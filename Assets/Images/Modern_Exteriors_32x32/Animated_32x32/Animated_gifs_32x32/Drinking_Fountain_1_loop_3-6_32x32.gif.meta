@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Drinking_Fountain_1_loop_3-6_32x32_0: 2789169603150131937
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

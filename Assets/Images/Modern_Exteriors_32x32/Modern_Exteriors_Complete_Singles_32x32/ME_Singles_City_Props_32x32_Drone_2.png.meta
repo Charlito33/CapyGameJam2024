@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Drone_2_0: -4861706724934571558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

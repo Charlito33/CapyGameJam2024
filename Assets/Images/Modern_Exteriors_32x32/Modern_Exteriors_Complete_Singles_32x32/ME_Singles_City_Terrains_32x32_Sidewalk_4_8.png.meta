@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Terrains_32x32_Sidewalk_4_8_0: -6672817183951755166
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

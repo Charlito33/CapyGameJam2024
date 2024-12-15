@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Subway_Train_3_Door_1_See_Through_32x32_0: -1479586638166657879
+      Subway_Train_3_Door_1_See_Through_32x32_1: 1396139610709981001
+      Subway_Train_3_Door_1_See_Through_32x32_10: 6035543576258808177
+      Subway_Train_3_Door_1_See_Through_32x32_11: -1002323715320045215
+      Subway_Train_3_Door_1_See_Through_32x32_12: 1285055368251558802
+      Subway_Train_3_Door_1_See_Through_32x32_13: -9129336373231451532
+      Subway_Train_3_Door_1_See_Through_32x32_14: 6140913164977898401
+      Subway_Train_3_Door_1_See_Through_32x32_15: 7875944650203934586
+      Subway_Train_3_Door_1_See_Through_32x32_16: -5585037292071609315
+      Subway_Train_3_Door_1_See_Through_32x32_17: 2050166164203701553
+      Subway_Train_3_Door_1_See_Through_32x32_18: 4630634007188088563
+      Subway_Train_3_Door_1_See_Through_32x32_19: 8479860654773061761
+      Subway_Train_3_Door_1_See_Through_32x32_2: -3966046485262843936
+      Subway_Train_3_Door_1_See_Through_32x32_20: -385850179249616922
+      Subway_Train_3_Door_1_See_Through_32x32_3: -1276997171510261807
+      Subway_Train_3_Door_1_See_Through_32x32_4: 4793361851711416760
+      Subway_Train_3_Door_1_See_Through_32x32_5: -4434228605027825563
+      Subway_Train_3_Door_1_See_Through_32x32_6: -6303535113371874173
+      Subway_Train_3_Door_1_See_Through_32x32_7: 7948273690039468582
+      Subway_Train_3_Door_1_See_Through_32x32_8: -6738729062989371823
+      Subway_Train_3_Door_1_See_Through_32x32_9: -2945067644302941417
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

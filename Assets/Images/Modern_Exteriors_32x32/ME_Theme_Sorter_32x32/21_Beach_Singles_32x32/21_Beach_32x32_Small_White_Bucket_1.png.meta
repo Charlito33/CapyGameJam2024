@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Small_White_Bucket_1_0: 2334360418443418473
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

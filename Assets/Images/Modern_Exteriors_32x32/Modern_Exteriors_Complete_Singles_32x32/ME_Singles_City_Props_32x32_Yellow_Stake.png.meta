@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Yellow_Stake_0: 7186296961414164056
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -997,7 +997,42 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      15_Police_Station_32x32_0: -290511821145676648
+      15_Police_Station_32x32_1: 3486659167814520391
+      15_Police_Station_32x32_10: -1633027747317500458
+      15_Police_Station_32x32_11: 424368654866852260
+      15_Police_Station_32x32_12: -4628127743317959281
+      15_Police_Station_32x32_13: 1544538517496943117
+      15_Police_Station_32x32_14: -4734256402312469206
+      15_Police_Station_32x32_15: -2059527220339063961
+      15_Police_Station_32x32_16: 875869674094172081
+      15_Police_Station_32x32_17: -1571828003464225076
+      15_Police_Station_32x32_18: -8785175857909927135
+      15_Police_Station_32x32_19: -7985179335927734818
+      15_Police_Station_32x32_2: 4214424849787401405
+      15_Police_Station_32x32_20: -3734458793217899008
+      15_Police_Station_32x32_21: 5916990927617597855
+      15_Police_Station_32x32_22: 3722212378513623504
+      15_Police_Station_32x32_23: -2803953550370606563
+      15_Police_Station_32x32_24: 8257569222978935695
+      15_Police_Station_32x32_25: 4047420411937128847
+      15_Police_Station_32x32_26: 5765677670140307516
+      15_Police_Station_32x32_27: -2815291218415446058
+      15_Police_Station_32x32_28: 5878799816881622847
+      15_Police_Station_32x32_29: 5769348446658395761
+      15_Police_Station_32x32_3: -4504363350379469386
+      15_Police_Station_32x32_30: -4626284994333009659
+      15_Police_Station_32x32_31: -1947376197270229041
+      15_Police_Station_32x32_32: 8341241467559754411
+      15_Police_Station_32x32_33: -3994450964190751961
+      15_Police_Station_32x32_34: -1873676147887444213
+      15_Police_Station_32x32_4: 3422000107619298448
+      15_Police_Station_32x32_5: 3958986117539772343
+      15_Police_Station_32x32_6: -9191057208534674666
+      15_Police_Station_32x32_7: -1423122593646593258
+      15_Police_Station_32x32_8: -3781794741383064793
+      15_Police_Station_32x32_9: -4945257055323513048
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

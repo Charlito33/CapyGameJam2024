@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Kiosk_Mushroom_Hollow_2_0: -4340240947279209429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

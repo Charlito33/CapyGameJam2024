@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire_Hydrant_Water_Jet_32x32_0: -1322342398423930434
+      Fire_Hydrant_Water_Jet_32x32_1: -3068102824076472114
+      Fire_Hydrant_Water_Jet_32x32_10: -5378968457127915212
+      Fire_Hydrant_Water_Jet_32x32_11: 1703744374457482889
+      Fire_Hydrant_Water_Jet_32x32_12: -1400744509310686355
+      Fire_Hydrant_Water_Jet_32x32_2: 5987499560140062618
+      Fire_Hydrant_Water_Jet_32x32_3: -5251049573493194289
+      Fire_Hydrant_Water_Jet_32x32_4: 2226913256532878538
+      Fire_Hydrant_Water_Jet_32x32_5: 1035759418011864631
+      Fire_Hydrant_Water_Jet_32x32_6: 5989250160399230367
+      Fire_Hydrant_Water_Jet_32x32_7: -2845273739501839580
+      Fire_Hydrant_Water_Jet_32x32_8: 7087463369517699728
+      Fire_Hydrant_Water_Jet_32x32_9: -6399716488581017775
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

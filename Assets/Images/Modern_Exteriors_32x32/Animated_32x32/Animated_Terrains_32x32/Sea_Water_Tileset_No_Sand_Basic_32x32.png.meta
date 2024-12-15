@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sea_Water_Tileset_No_Sand_Basic_32x32_0: 6322467833973185817
+      Sea_Water_Tileset_No_Sand_Basic_32x32_1: 5985923764199067759
+      Sea_Water_Tileset_No_Sand_Basic_32x32_2: 8105056042811534530
+      Sea_Water_Tileset_No_Sand_Basic_32x32_3: 8499391130732753519
+      Sea_Water_Tileset_No_Sand_Basic_32x32_4: -798767214477297703
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

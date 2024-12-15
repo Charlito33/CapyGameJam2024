@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dumpster_3_side_empty_32x32_0: 7005874402346004647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

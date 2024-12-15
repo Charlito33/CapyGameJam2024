@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Single_Tunnel_Cornice_0: 1780686066640905757
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

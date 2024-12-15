@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Stage_Laser_Machine_2_32x32_0: 5633188936167566928
+      Beach_Stage_Laser_Machine_2_32x32_1: -4703898200279963011
+      Beach_Stage_Laser_Machine_2_32x32_10: 4183530837494739118
+      Beach_Stage_Laser_Machine_2_32x32_11: -8450431748450089914
+      Beach_Stage_Laser_Machine_2_32x32_12: -3675127421372975759
+      Beach_Stage_Laser_Machine_2_32x32_13: 6337053992640355918
+      Beach_Stage_Laser_Machine_2_32x32_14: 4017463550977608374
+      Beach_Stage_Laser_Machine_2_32x32_15: -6176456531967265884
+      Beach_Stage_Laser_Machine_2_32x32_16: 1057909193044717364
+      Beach_Stage_Laser_Machine_2_32x32_17: -281517495738940973
+      Beach_Stage_Laser_Machine_2_32x32_18: -6787699293985402051
+      Beach_Stage_Laser_Machine_2_32x32_19: -3122319338460020804
+      Beach_Stage_Laser_Machine_2_32x32_2: -2627739379964825904
+      Beach_Stage_Laser_Machine_2_32x32_3: 5673422052022499953
+      Beach_Stage_Laser_Machine_2_32x32_4: -156845156971367868
+      Beach_Stage_Laser_Machine_2_32x32_5: 9135097104433155091
+      Beach_Stage_Laser_Machine_2_32x32_6: -8046666480364550349
+      Beach_Stage_Laser_Machine_2_32x32_7: -5566219739155220340
+      Beach_Stage_Laser_Machine_2_32x32_8: 7345769659729772587
+      Beach_Stage_Laser_Machine_2_32x32_9: 5872705103027289641
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

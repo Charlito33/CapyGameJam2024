@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dumpster_empty_32x32_0: -2655900935577754072
+      Dumpster_empty_32x32_1: -2504957478076520158
+      Dumpster_empty_32x32_10: 7046293623464100927
+      Dumpster_empty_32x32_11: -3033324021681697378
+      Dumpster_empty_32x32_2: -7967176642266487899
+      Dumpster_empty_32x32_3: -5394088834610534904
+      Dumpster_empty_32x32_4: -3609423880785150782
+      Dumpster_empty_32x32_5: 3395399647808076093
+      Dumpster_empty_32x32_6: -6710336966636557594
+      Dumpster_empty_32x32_7: 5809634237322495881
+      Dumpster_empty_32x32_8: -8004129914565354426
+      Dumpster_empty_32x32_9: 8189133314901185652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

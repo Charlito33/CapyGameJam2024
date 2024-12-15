@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Dirt_Ditch_2_Silver_Coffin_0: -5551481020210168428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

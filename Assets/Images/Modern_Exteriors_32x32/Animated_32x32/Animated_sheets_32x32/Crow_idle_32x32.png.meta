@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crow_idle_32x32_0: -2590306926220558191
+      Crow_idle_32x32_1: -57370460550416740
+      Crow_idle_32x32_10: 3739967148305488486
+      Crow_idle_32x32_11: 7177530875366181257
+      Crow_idle_32x32_12: -1350259369190395937
+      Crow_idle_32x32_13: -1268650709324359936
+      Crow_idle_32x32_14: 7974316433529895231
+      Crow_idle_32x32_15: 807419645565990438
+      Crow_idle_32x32_16: 6740442809640359816
+      Crow_idle_32x32_17: 6833629549577490056
+      Crow_idle_32x32_18: -7533508236012953176
+      Crow_idle_32x32_19: 8228457572868899681
+      Crow_idle_32x32_2: -6891812435231944529
+      Crow_idle_32x32_20: -6484787385441422357
+      Crow_idle_32x32_21: -7674658864764974780
+      Crow_idle_32x32_22: -6616844727879512088
+      Crow_idle_32x32_23: -6050278711840017683
+      Crow_idle_32x32_3: -5288235753126669348
+      Crow_idle_32x32_4: -7465517154335827411
+      Crow_idle_32x32_5: -8666381272995060898
+      Crow_idle_32x32_6: -5221021592910120220
+      Crow_idle_32x32_7: 6543627273630116950
+      Crow_idle_32x32_8: -6343399999201892385
+      Crow_idle_32x32_9: 8230730172415777658
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

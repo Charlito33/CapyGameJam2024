@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Generic_Building_32x32_Condo_7_Modular_Window_2_0: -5709490577521040235
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

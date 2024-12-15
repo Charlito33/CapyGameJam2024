@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_School_32x32_Basketball_Net_1_0: 4967673207839030629
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

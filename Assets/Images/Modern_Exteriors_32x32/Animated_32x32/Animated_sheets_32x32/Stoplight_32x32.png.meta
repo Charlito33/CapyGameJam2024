@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stoplight_32x32_0: -8754815054175531881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

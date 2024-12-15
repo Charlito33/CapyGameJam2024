@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Hydrant_2_0: 8801640100432741273
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

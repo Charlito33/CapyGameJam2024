@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_EV_Charging_Station_2_0: 6931121051743458570
+      ME_Singles_City_Props_32x32_EV_Charging_Station_2_1: 6663676727817653729
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

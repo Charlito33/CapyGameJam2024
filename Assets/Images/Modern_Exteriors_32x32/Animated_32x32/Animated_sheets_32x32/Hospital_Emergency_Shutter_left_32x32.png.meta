@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hospital_Emergency_Shutter_left_32x32_0: 4073963731305802748
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

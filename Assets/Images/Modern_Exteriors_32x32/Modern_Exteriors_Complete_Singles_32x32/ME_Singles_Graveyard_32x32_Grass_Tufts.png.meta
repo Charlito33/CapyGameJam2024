@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Grass_Tufts_0: 1303405217833634007
+      ME_Singles_Graveyard_32x32_Grass_Tufts_1: -958970837702386726
+      ME_Singles_Graveyard_32x32_Grass_Tufts_2: 3701097855723053285
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

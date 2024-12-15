@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Worksite_32x32_Scissor_Lifter_2_0: -2893685656755774809
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

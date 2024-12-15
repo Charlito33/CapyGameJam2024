@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Condo_6_Roof_Trapdoor_32x32_0: 1743618550363431588
+      Condo_6_Roof_Trapdoor_32x32_1: 7030507328439194236
+      Condo_6_Roof_Trapdoor_32x32_10: 6198507411097842957
+      Condo_6_Roof_Trapdoor_32x32_11: -993196023494900942
+      Condo_6_Roof_Trapdoor_32x32_2: -6482741929794212876
+      Condo_6_Roof_Trapdoor_32x32_3: -7103308587234378068
+      Condo_6_Roof_Trapdoor_32x32_4: -6919550455289888456
+      Condo_6_Roof_Trapdoor_32x32_5: 398078977822417429
+      Condo_6_Roof_Trapdoor_32x32_6: -8384798460536719935
+      Condo_6_Roof_Trapdoor_32x32_7: -7847310053152872925
+      Condo_6_Roof_Trapdoor_32x32_8: -3177605801462207432
+      Condo_6_Roof_Trapdoor_32x32_9: -3395521922001039190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

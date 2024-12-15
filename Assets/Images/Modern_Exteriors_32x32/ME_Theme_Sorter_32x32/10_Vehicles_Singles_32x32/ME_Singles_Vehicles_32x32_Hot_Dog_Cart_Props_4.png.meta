@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Hot_Dog_Cart_Props_4_0: 8199784090563189815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

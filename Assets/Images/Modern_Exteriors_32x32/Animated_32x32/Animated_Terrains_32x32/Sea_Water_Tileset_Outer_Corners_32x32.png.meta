@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sea_Water_Tileset_Outer_Corners_32x32_0: -5228239594551084916
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

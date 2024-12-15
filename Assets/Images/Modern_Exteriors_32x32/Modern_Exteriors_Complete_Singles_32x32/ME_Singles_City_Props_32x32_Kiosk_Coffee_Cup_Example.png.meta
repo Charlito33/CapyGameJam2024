@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Kiosk_Coffee_Cup_Example_0: -883644595597276124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

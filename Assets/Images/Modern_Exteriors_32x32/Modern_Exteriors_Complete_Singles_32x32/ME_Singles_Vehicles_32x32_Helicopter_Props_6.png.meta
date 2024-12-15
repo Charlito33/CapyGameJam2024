@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Helicopter_Props_6_0: -4366045491333011501
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

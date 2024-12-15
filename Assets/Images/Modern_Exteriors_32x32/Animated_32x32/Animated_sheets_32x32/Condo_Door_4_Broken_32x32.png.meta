@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Condo_Door_4_Broken_32x32_0: -2565980481577497722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

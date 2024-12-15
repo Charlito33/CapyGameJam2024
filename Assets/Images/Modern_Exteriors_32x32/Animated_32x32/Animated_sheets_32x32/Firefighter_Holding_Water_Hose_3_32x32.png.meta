@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Firefighter_Holding_Water_Hose_3_32x32_0: -7256896214881596343
+      Firefighter_Holding_Water_Hose_3_32x32_1: -1613474500357709164
+      Firefighter_Holding_Water_Hose_3_32x32_2: -798993967488061975
+      Firefighter_Holding_Water_Hose_3_32x32_3: 2304188155962011822
+      Firefighter_Holding_Water_Hose_3_32x32_4: 5121490872770828790
+      Firefighter_Holding_Water_Hose_3_32x32_5: 69880075609028771
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

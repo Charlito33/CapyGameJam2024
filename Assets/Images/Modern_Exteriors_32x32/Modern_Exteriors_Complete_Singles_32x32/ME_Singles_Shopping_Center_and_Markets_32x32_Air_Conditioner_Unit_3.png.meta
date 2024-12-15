@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Shopping_Center_and_Markets_32x32_Air_Conditioner_Unit_3_0: -1930979610946192038
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

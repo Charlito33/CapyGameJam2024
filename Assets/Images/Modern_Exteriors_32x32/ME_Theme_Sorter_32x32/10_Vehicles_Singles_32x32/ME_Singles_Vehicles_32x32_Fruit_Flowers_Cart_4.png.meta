@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Fruit_Flowers_Cart_4_0: -5659783168626299270
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

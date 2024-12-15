@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crow_Flap_Up_32x32_0: 1394309303512054925
+      Crow_Flap_Up_32x32_1: -1964039540123714907
+      Crow_Flap_Up_32x32_2: 3856619870168319371
+      Crow_Flap_Up_32x32_3: 7998383905126945627
+      Crow_Flap_Up_32x32_4: 5684624977835203200
+      Crow_Flap_Up_32x32_5: 4488148432331261009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

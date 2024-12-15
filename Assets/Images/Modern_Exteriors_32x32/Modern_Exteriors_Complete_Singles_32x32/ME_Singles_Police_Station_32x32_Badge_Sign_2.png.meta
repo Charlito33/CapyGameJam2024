@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Police_Station_32x32_Badge_Sign_2_0: 7242838317267257880
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

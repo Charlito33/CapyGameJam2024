@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Sand_Castle_1_Vers_2_0: -7603052974681275569
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

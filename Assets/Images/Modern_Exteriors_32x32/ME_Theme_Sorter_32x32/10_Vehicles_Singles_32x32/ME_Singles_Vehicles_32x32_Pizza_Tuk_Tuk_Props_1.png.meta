@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Pizza_Tuk_Tuk_Props_1_0: -9209141893407386920
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

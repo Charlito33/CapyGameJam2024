@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Top_Small_Sand_Mountain_Big_Left_Up_0: -3358385717652769442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

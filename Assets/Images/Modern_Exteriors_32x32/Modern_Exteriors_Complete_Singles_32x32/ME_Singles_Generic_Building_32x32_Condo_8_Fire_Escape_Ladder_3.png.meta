@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Generic_Building_32x32_Condo_8_Fire_Escape_Ladder_3_0: 9012228700698723671
+      ME_Singles_Generic_Building_32x32_Condo_8_Fire_Escape_Ladder_3_1: -6186840775688253173
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

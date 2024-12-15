@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crow_Hover_Down_32x32_0: -8664055780423380854
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

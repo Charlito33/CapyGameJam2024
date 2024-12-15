@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Door_Treehouse_32x32_0: -7752936507452307637
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

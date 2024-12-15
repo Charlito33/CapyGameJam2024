@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RV_Door_32x32_1_0: 5377502633504867750
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

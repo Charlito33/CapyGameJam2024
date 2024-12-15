@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Wood_Grave_1_Brown_3_Vers_1_0: 8078156146379100186
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

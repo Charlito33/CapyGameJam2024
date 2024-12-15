@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flame_3_32x32_0: 5582509366814063380
+      Flame_3_32x32_1: -6948087556497416725
+      Flame_3_32x32_10: -4710913543858060607
+      Flame_3_32x32_2: 1881409168676275456
+      Flame_3_32x32_3: -9096110194377399833
+      Flame_3_32x32_4: -6977273257610847197
+      Flame_3_32x32_5: 6029438995399575023
+      Flame_3_32x32_6: -5683341905410341696
+      Flame_3_32x32_7: -3245136937438932602
+      Flame_3_32x32_8: -2726715886432728770
+      Flame_3_32x32_9: 1252792182688281174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

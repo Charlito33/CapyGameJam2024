@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_School_32x32_Stadium_Light_2_0: 7954552342967809602
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

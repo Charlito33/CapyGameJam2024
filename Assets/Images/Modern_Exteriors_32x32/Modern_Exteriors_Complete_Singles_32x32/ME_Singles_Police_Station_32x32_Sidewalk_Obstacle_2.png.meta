@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Police_Station_32x32_Sidewalk_Obstacle_2_0: 6336672360011827604
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

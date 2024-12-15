@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Kiosk_Infopoint_Hollow_1_0: 5008448645184522194
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

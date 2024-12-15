@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Tacos_Truck_3_0: -3366822404307525087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

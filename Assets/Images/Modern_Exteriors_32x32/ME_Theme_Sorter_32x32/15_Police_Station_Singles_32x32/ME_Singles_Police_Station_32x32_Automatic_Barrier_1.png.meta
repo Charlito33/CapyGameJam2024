@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Police_Station_32x32_Automatic_Barrier_1_0: -6146062643296371569
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

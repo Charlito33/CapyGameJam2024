@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Phone_Box_Door_32x32_0: -4516848015235372925
+      Phone_Box_Door_32x32_1: -8253487790158871083
+      Phone_Box_Door_32x32_10: -8762467122825688872
+      Phone_Box_Door_32x32_11: 702230115556654790
+      Phone_Box_Door_32x32_12: 5593222966451448949
+      Phone_Box_Door_32x32_13: 3983439441372051775
+      Phone_Box_Door_32x32_14: -5797057080118084519
+      Phone_Box_Door_32x32_15: 8194824528218285771
+      Phone_Box_Door_32x32_16: 7748925770926208444
+      Phone_Box_Door_32x32_17: 5963409725435229343
+      Phone_Box_Door_32x32_18: -2246333013786209072
+      Phone_Box_Door_32x32_19: -4763206614256104349
+      Phone_Box_Door_32x32_2: -6528398676286394516
+      Phone_Box_Door_32x32_3: 8423869891258281881
+      Phone_Box_Door_32x32_4: 2423505149168070250
+      Phone_Box_Door_32x32_5: 5666960214987153472
+      Phone_Box_Door_32x32_6: 170841371759854209
+      Phone_Box_Door_32x32_7: -5340049157372801162
+      Phone_Box_Door_32x32_8: -7958359607835531418
+      Phone_Box_Door_32x32_9: -1531169945238407084
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

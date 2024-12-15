@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Generic_Building_32x32_Hardware_Store_Roof_Sign_0: -8671306934839046245
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

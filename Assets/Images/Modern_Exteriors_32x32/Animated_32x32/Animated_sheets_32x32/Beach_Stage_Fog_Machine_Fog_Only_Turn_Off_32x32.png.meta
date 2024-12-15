@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Stage_Fog_Machine_Fog_Only_Turn_Off_32x32_0: -8554629695560899603
+      Beach_Stage_Fog_Machine_Fog_Only_Turn_Off_32x32_1: 1187778230372716225
+      Beach_Stage_Fog_Machine_Fog_Only_Turn_Off_32x32_2: -1725052342728744490
+      Beach_Stage_Fog_Machine_Fog_Only_Turn_Off_32x32_3: 551118535678183396
+      Beach_Stage_Fog_Machine_Fog_Only_Turn_Off_32x32_4: 8577713532304924567
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

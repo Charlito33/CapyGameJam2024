@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Ground_Tile_Spot_4_0: 8689511240593690034
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

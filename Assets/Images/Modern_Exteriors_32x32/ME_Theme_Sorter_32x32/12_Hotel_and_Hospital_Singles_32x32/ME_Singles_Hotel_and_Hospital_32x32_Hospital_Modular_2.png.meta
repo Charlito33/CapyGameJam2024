@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Hotel_and_Hospital_32x32_Hospital_Modular_2_0: -1257737638543643144
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

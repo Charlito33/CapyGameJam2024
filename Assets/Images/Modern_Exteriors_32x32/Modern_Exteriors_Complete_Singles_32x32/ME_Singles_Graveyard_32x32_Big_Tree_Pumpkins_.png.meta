@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Big_Tree_Pumpkins__0: 5075182759591414803
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

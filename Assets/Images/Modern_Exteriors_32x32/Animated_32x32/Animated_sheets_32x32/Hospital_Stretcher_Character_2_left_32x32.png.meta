@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hospital_Stretcher_Character_2_left_32x32_0: 6773184022471301705
+      Hospital_Stretcher_Character_2_left_32x32_1: 4702872761555546216
+      Hospital_Stretcher_Character_2_left_32x32_2: 3357757464387722233
+      Hospital_Stretcher_Character_2_left_32x32_3: 2156282083694178
+      Hospital_Stretcher_Character_2_left_32x32_4: -3449455698814158517
+      Hospital_Stretcher_Character_2_left_32x32_5: -6462501320587723302
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

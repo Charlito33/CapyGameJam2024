@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kiosk_Ice_Cream_Shutter_32x32_0: -733944246969286901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

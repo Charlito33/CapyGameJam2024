@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Smartphone_6_Drone_Controller_32x32_0: 8205832637012824238
+      Smartphone_6_Drone_Controller_32x32_1: -3078781116727304253
+      Smartphone_6_Drone_Controller_32x32_2: -2366094567330085978
+      Smartphone_6_Drone_Controller_32x32_3: -4894992725333627431
+      Smartphone_6_Drone_Controller_32x32_4: 8959859269676957870
+      Smartphone_6_Drone_Controller_32x32_5: 1517732656417325996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

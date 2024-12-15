@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Dumpster_4_0: -1533934727810659036
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

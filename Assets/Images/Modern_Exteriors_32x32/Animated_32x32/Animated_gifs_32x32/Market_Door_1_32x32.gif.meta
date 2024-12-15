@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Market_Door_1_32x32_0: -1646941268270911870
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

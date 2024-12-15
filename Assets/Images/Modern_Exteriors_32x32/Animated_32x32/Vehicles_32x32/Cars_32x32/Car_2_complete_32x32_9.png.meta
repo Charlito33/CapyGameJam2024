@@ -997,7 +997,42 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Car_2_complete_32x32_9_0: 8163419237285476143
+      Car_2_complete_32x32_9_1: 462276575942102193
+      Car_2_complete_32x32_9_10: -6591160137769010446
+      Car_2_complete_32x32_9_11: 7998628022402670510
+      Car_2_complete_32x32_9_12: -1823984457788787247
+      Car_2_complete_32x32_9_13: 4975015885717587465
+      Car_2_complete_32x32_9_14: -5844728324466672312
+      Car_2_complete_32x32_9_15: -7643205894337055875
+      Car_2_complete_32x32_9_16: -6471775857263601272
+      Car_2_complete_32x32_9_17: 4973972153426955819
+      Car_2_complete_32x32_9_18: -5623896630882386874
+      Car_2_complete_32x32_9_19: 5731441156680473737
+      Car_2_complete_32x32_9_2: 7457134113916775108
+      Car_2_complete_32x32_9_20: -3241031644055846911
+      Car_2_complete_32x32_9_21: 3551250568236793764
+      Car_2_complete_32x32_9_22: 2897650025258821906
+      Car_2_complete_32x32_9_23: -6954907887093750904
+      Car_2_complete_32x32_9_24: 7181410293857102650
+      Car_2_complete_32x32_9_25: -3593795656862504033
+      Car_2_complete_32x32_9_26: -8629853639011455373
+      Car_2_complete_32x32_9_27: -663421403105006004
+      Car_2_complete_32x32_9_28: 4294308297566036440
+      Car_2_complete_32x32_9_29: 7465166684247399340
+      Car_2_complete_32x32_9_3: -1560421094005498684
+      Car_2_complete_32x32_9_30: -4139600340876239588
+      Car_2_complete_32x32_9_31: 5983728097013541401
+      Car_2_complete_32x32_9_32: -7637229737122369735
+      Car_2_complete_32x32_9_33: 6908410241902521260
+      Car_2_complete_32x32_9_34: 2089662782586613499
+      Car_2_complete_32x32_9_4: 8208613642712656991
+      Car_2_complete_32x32_9_5: 2486282057529172364
+      Car_2_complete_32x32_9_6: 1770800076490856155
+      Car_2_complete_32x32_9_7: -5052820662296742495
+      Car_2_complete_32x32_9_8: -5042632074190459588
+      Car_2_complete_32x32_9_9: -8927073706085414654
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boat_1_down_2_32x32_0: -6264632281003447182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

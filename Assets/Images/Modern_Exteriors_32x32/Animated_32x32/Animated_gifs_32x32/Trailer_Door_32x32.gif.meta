@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Trailer_Door_32x32_0: 191324312908472890
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

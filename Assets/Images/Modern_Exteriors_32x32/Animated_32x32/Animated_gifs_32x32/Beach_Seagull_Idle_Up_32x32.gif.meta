@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Seagull_Idle_Up_32x32_0: 7450499079951900836
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_ Stairs_Structure_Modular_2_0: 8117784513568339022
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

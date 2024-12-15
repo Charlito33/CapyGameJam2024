@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Hotel_and_Hospital_32x32_Stretcher_Injured_9_0: 4609836263497230733
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

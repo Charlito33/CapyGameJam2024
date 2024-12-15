@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Pedestrian_Barrier_Post_Modular_2_Middle_0: -68199615052345022
+      ME_Singles_City_Props_32x32_Pedestrian_Barrier_Post_Modular_2_Middle_1: 7437119717199753673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      School_Clock_Tower_Hand_Minutes_32x32_0: -696445007073747638
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

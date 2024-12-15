@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Medium_Sea_Rock_4_Vers_2_0: -199797419041497683
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

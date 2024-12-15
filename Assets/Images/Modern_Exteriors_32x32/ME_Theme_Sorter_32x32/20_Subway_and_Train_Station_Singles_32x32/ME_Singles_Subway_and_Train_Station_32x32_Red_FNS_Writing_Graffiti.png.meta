@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Red_FNS_Writing_Graffiti_0: -4900263579652669976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

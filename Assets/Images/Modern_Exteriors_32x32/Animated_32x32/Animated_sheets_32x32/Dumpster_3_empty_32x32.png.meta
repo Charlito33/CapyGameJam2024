@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dumpster_3_empty_32x32_0: 6150471385927214250
+      Dumpster_3_empty_32x32_1: -8427127157672573251
+      Dumpster_3_empty_32x32_10: -5572528906765656880
+      Dumpster_3_empty_32x32_11: 3982540817733220952
+      Dumpster_3_empty_32x32_12: 4613495198098738811
+      Dumpster_3_empty_32x32_13: 8664656417704391745
+      Dumpster_3_empty_32x32_14: -4706278204931580536
+      Dumpster_3_empty_32x32_15: -843635786653617395
+      Dumpster_3_empty_32x32_16: -7328072656442262892
+      Dumpster_3_empty_32x32_17: 7556198117366857169
+      Dumpster_3_empty_32x32_18: 2594393012221629421
+      Dumpster_3_empty_32x32_19: 4200568393088175011
+      Dumpster_3_empty_32x32_2: 5446904834969050401
+      Dumpster_3_empty_32x32_20: -8950169577541958673
+      Dumpster_3_empty_32x32_21: 3873335427828832316
+      Dumpster_3_empty_32x32_22: 5058649994159380734
+      Dumpster_3_empty_32x32_23: 7510437522272660296
+      Dumpster_3_empty_32x32_3: -2238639154170327059
+      Dumpster_3_empty_32x32_4: -6631170300527724304
+      Dumpster_3_empty_32x32_5: -6322336942985855242
+      Dumpster_3_empty_32x32_6: -7261383559928953701
+      Dumpster_3_empty_32x32_7: -3498981801983493886
+      Dumpster_3_empty_32x32_8: 1997530630888808144
+      Dumpster_3_empty_32x32_9: 8395764176749248394
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

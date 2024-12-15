@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Camping_32x32_Chair_12_0: 3460079927911172161
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

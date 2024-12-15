@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Graveyard_Haunted_Tree_Blink_32x32_0: 305997736836202221
+      Graveyard_Haunted_Tree_Blink_32x32_1: 6203930102538986445
+      Graveyard_Haunted_Tree_Blink_32x32_2: 9181415661404465040
+      Graveyard_Haunted_Tree_Blink_32x32_3: 4803378820681085508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

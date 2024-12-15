@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Graveyard_Haunted_Tree_Pumpkins_32x32_0: -3555973009398741432
+      Graveyard_Haunted_Tree_Pumpkins_32x32_1: 2062477946936268368
+      Graveyard_Haunted_Tree_Pumpkins_32x32_2: 515335966059436334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

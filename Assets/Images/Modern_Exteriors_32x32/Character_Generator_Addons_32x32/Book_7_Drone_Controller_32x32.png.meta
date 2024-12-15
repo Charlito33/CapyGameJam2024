@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Book_7_Drone_Controller_32x32_0: -5310707638823779719
+      Book_7_Drone_Controller_32x32_1: -7872136899040747469
+      Book_7_Drone_Controller_32x32_2: -5555866831537588028
+      Book_7_Drone_Controller_32x32_3: 4546192127520610959
+      Book_7_Drone_Controller_32x32_4: 4439413174564880922
+      Book_7_Drone_Controller_32x32_5: 4198103693868427822
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Underground_Parking_2_0: -2450370492886770956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

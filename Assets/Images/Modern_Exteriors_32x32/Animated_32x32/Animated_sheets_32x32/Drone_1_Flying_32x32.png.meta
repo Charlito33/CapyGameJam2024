@@ -1022,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Drone_1_Flying_32x32_0: -3505907795365175031
+      Drone_1_Flying_32x32_1: 2440894992021147785
+      Drone_1_Flying_32x32_10: 2245043679377753894
+      Drone_1_Flying_32x32_11: 338718434168127564
+      Drone_1_Flying_32x32_12: 3591013747182077023
+      Drone_1_Flying_32x32_13: -7478870418663493184
+      Drone_1_Flying_32x32_14: 4478873086833455291
+      Drone_1_Flying_32x32_15: 8076327274213582804
+      Drone_1_Flying_32x32_16: -727475909184012749
+      Drone_1_Flying_32x32_17: 6912951633272515075
+      Drone_1_Flying_32x32_18: -9150524934607819931
+      Drone_1_Flying_32x32_19: -1900852118310658002
+      Drone_1_Flying_32x32_2: 486006943862402747
+      Drone_1_Flying_32x32_20: -1020612460523305610
+      Drone_1_Flying_32x32_21: 516483592154284144
+      Drone_1_Flying_32x32_22: -8092113437136206122
+      Drone_1_Flying_32x32_23: -9108303350777746349
+      Drone_1_Flying_32x32_24: -9072694531291626800
+      Drone_1_Flying_32x32_25: 2711573763917382710
+      Drone_1_Flying_32x32_26: -6202992003719833527
+      Drone_1_Flying_32x32_27: -2093710028227558104
+      Drone_1_Flying_32x32_28: 6111083962625251269
+      Drone_1_Flying_32x32_29: 1022747050437108674
+      Drone_1_Flying_32x32_3: -6891724691053393346
+      Drone_1_Flying_32x32_30: 5423502294733319366
+      Drone_1_Flying_32x32_31: 3208689948293410978
+      Drone_1_Flying_32x32_32: 1651258662402674539
+      Drone_1_Flying_32x32_33: 7976424877151206143
+      Drone_1_Flying_32x32_34: 338649610259380588
+      Drone_1_Flying_32x32_35: 2353675093707616760
+      Drone_1_Flying_32x32_4: 2339389751976175488
+      Drone_1_Flying_32x32_5: -5505529279337771285
+      Drone_1_Flying_32x32_6: 7812612088410742949
+      Drone_1_Flying_32x32_7: -6486228813044204626
+      Drone_1_Flying_32x32_8: 5540931427293820448
+      Drone_1_Flying_32x32_9: -1661673787457446174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

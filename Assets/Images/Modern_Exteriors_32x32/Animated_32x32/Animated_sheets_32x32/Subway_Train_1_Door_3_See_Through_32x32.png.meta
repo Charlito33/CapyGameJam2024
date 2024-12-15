@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Subway_Train_1_Door_3_See_Through_32x32_0: -4326004787600937561
+      Subway_Train_1_Door_3_See_Through_32x32_1: -3671597640819926432
+      Subway_Train_1_Door_3_See_Through_32x32_10: 2857830426380946548
+      Subway_Train_1_Door_3_See_Through_32x32_2: 5569396388633939471
+      Subway_Train_1_Door_3_See_Through_32x32_3: -4492384374478322846
+      Subway_Train_1_Door_3_See_Through_32x32_4: 6340714404249991541
+      Subway_Train_1_Door_3_See_Through_32x32_5: -5518396954336781448
+      Subway_Train_1_Door_3_See_Through_32x32_6: -5038111285242713151
+      Subway_Train_1_Door_3_See_Through_32x32_7: 4182696767217965625
+      Subway_Train_1_Door_3_See_Through_32x32_8: 6461020912980628749
+      Subway_Train_1_Door_3_See_Through_32x32_9: 1199317573839030860
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

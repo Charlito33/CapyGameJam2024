@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Office_Door_Balcony_2_32x32_0: 1557432481023468478
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

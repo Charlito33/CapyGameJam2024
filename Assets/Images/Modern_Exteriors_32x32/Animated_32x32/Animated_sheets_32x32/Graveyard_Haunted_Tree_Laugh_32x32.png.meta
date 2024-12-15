@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Graveyard_Haunted_Tree_Laugh_32x32_0: -1209555170748151588
+      Graveyard_Haunted_Tree_Laugh_32x32_1: -1552797369972532919
+      Graveyard_Haunted_Tree_Laugh_32x32_2: -799509920682292005
+      Graveyard_Haunted_Tree_Laugh_32x32_3: 4370292706405399001
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

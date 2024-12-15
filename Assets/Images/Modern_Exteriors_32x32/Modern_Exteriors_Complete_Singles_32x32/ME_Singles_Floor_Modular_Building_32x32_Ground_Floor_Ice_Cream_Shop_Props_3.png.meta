@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Floor_Modular_Building_32x32_Ground_Floor_Ice_Cream_Shop_Props_3_0: -1254223758472882440
+      ME_Singles_Floor_Modular_Building_32x32_Ground_Floor_Ice_Cream_Shop_Props_3_1: 5975039075745422048
+      ME_Singles_Floor_Modular_Building_32x32_Ground_Floor_Ice_Cream_Shop_Props_3_2: -570534137910074656
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

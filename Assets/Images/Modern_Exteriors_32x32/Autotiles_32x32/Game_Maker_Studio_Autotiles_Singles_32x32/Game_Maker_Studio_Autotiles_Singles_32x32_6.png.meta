@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_0: -8460944513251290927
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_1: 7558086319892325044
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_10: 2145883663380554470
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_11: 7282361205764285241
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_12: -1520801533925780205
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_2: 4834985076556786527
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_3: -2774786687131618287
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_4: 904624648713955613
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_5: -5669341812571471043
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_6: 5950140323890538213
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_7: 7175402745418246209
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_8: -3058026712638218748
+      Game_Maker_Studio_Autotiles_Singles_32x32_6_9: 3784820286357362779
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

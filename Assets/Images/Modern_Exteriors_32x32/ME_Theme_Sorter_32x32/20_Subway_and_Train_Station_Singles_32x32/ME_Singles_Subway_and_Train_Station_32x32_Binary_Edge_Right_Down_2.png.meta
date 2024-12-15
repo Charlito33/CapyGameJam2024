@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Binary_Edge_Right_Down_2_0: -8116611143228908408
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

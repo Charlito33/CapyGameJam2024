@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Brake_Marks_4_0: 8746581384930587152
+      ME_Singles_City_Props_32x32_Brake_Marks_4_1: -9083540628105567190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Fire_Station_32x32_Fire_Small_Bubble_2_Vers_1_0: -5703297196043831326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

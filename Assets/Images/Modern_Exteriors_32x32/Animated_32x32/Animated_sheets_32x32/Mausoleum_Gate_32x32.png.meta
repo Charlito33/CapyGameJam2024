@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mausoleum_Gate_32x32_0: 3473081820412800724
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
