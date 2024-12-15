@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: 8937284db883eff43a845a8f09b79416
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3382566522246546092
+    second: Trash_Truck_2_32x32_0
+  - first:
+      213: 4375140231505322084
+    second: Trash_Truck_2_32x32_1
+  - first:
+      213: 1342395310044636387
+    second: Trash_Truck_2_32x32_2
+  - first:
+      213: -2184314203082120898
+    second: Trash_Truck_2_32x32_3
+  - first:
+      213: 6973973362565726579
+    second: Trash_Truck_2_32x32_4
+  - first:
+      213: -6834515391132047721
+    second: Trash_Truck_2_32x32_5
+  - first:
+      213: -7188407940026822556
+    second: Trash_Truck_2_32x32_6
+  - first:
+      213: -8946671309522665599
+    second: Trash_Truck_2_32x32_7
+  - first:
+      213: -5343927456159403702
+    second: Trash_Truck_2_32x32_8
+  - first:
+      213: -1294706167238655226
+    second: Trash_Truck_2_32x32_9
+  - first:
+      213: -2280902916213281110
+    second: Trash_Truck_2_32x32_10
+  - first:
+      213: -8304241859152835038
+    second: Trash_Truck_2_32x32_11
+  - first:
+      213: -3944455153697602140
+    second: Trash_Truck_2_32x32_12
+  - first:
+      213: -6512354678796574702
+    second: Trash_Truck_2_32x32_13
+  - first:
+      213: 415387599733103153
+    second: Trash_Truck_2_32x32_14
+  - first:
+      213: 9215726473330185145
+    second: Trash_Truck_2_32x32_15
+  - first:
+      213: 7570273571627081564
+    second: Trash_Truck_2_32x32_16
+  - first:
+      213: 1216391652581548929
+    second: Trash_Truck_2_32x32_17
+  - first:
+      213: 8377530952606697609
+    second: Trash_Truck_2_32x32_18
+  - first:
+      213: -3327518895110166557
+    second: Trash_Truck_2_32x32_19
+  - first:
+      213: -5527571003328890242
+    second: Trash_Truck_2_32x32_20
+  - first:
+      213: -2801377161565003133
+    second: Trash_Truck_2_32x32_21
+  - first:
+      213: -380274399789866757
+    second: Trash_Truck_2_32x32_22
+  - first:
+      213: 5322724532999781051
+    second: Trash_Truck_2_32x32_23
+  - first:
+      213: -3043848011975852624
+    second: Trash_Truck_2_32x32_24
+  - first:
+      213: 3523175625207117781
+    second: Trash_Truck_2_32x32_25
+  - first:
+      213: 7890052781944989707
+    second: Trash_Truck_2_32x32_26
+  - first:
+      213: -2894876241033769689
+    second: Trash_Truck_2_32x32_27
+  - first:
+      213: 7028410423423314622
+    second: Trash_Truck_2_32x32_28
+  - first:
+      213: -6662864610103015362
+    second: Trash_Truck_2_32x32_29
+  - first:
+      213: 1024486520140096683
+    second: Trash_Truck_2_32x32_30
+  - first:
+      213: 2926157424060716194
+    second: Trash_Truck_2_32x32_31
+  - first:
+      213: -8529392546057855377
+    second: Trash_Truck_2_32x32_32
+  - first:
+      213: 2705203685023316542
+    second: Trash_Truck_2_32x32_33
+  - first:
+      213: -8795348703448010321
+    second: Trash_Truck_2_32x32_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 234
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca242a3945a41fe20800000000000000
+      internalID: 3382566522246546092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 231
+        width: 86
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460256d2cde97bc30800000000000000
+      internalID: 4375140231505322084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 223
+        width: 234
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e46c531c6521a210800000000000000
+      internalID: 1342395310044636387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 231
+        width: 90
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3123772ec1cfa1e0800000000000000
+      internalID: -2184314203082120898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 15
+        width: 86
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37144c4d2d788c060800000000000000
+      internalID: 6973973362565726579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 11
+        width: 86
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79662ab667ce621a0800000000000000
+      internalID: -6834515391132047721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1
+        width: 86
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4609a1a7015ad3c90800000000000000
+      internalID: -7188407940026822556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 13
+        width: 86
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ff8b178d907d380800000000000000
+      internalID: -8946671309522665599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 0
+        width: 86
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41792eba4e86d5b0800000000000000
+      internalID: -5343927456159403702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 7
+        width: 86
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6038b3db997480ee0800000000000000
+      internalID: -1294706167238655226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 1
+        width: 90
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae64f7e1ea9850e0800000000000000
+      internalID: -2280902916213281110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 243
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e0440e60861cc80800000000000000
+      internalID: -8304241859152835038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 249
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a54563bfea7249c0800000000000000
+      internalID: -3944455153697602140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 4035
+        y: 1
+        width: 90
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2102afe6ce77f95a0800000000000000
+      internalID: -6512354678796574702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 1
+        width: 90
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a913632d0c3c500800000000000000
+      internalID: 415387599733103153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 238
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b352068666d4ef70800000000000000
+      internalID: 9215726473330185145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 242
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f1c5154b30f0960800000000000000
+      internalID: 7570273571627081564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 35
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183afd763cd71e010800000000000000
+      internalID: 1216391652581548929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 236
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98846fce308f24470800000000000000
+      internalID: 8377530952606697609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 35
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7ee81e13742d1d0800000000000000
+      internalID: -3327518895110166557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 244
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7af4d3757f1a43b0800000000000000
+      internalID: -5527571003328890242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 0
+        width: 244
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382a60b50528f19d0800000000000000
+      internalID: -2801377161565003133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 0
+        width: 246
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0a95bb27ef8baf0800000000000000
+      internalID: -380274399789866757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 0
+        width: 236
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba75b203cd1ed940800000000000000
+      internalID: 5322724532999781051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 0
+        width: 244
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd76ef2c5412c5d0800000000000000
+      internalID: -3043848011975852624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 0
+        width: 238
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7f8c58095d4e030800000000000000
+      internalID: 3523175625207117781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 35
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08e9eea3391f7d60800000000000000
+      internalID: 7890052781944989707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 0
+        width: 240
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dc670856553d7d0800000000000000
+      internalID: -2894876241033769689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 35
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaaccfba0ee98160800000000000000
+      internalID: 7028410423423314622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 0
+        width: 246
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38c94040ffb883a0800000000000000
+      internalID: -6662864610103015362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 0
+        width: 252
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba46026ef05b73e00800000000000000
+      internalID: 1024486520140096683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 1
+        width: 90
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4d20a7caccb9820800000000000000
+      internalID: 2926157424060716194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 0
+        width: 90
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e5b568ba281a980800000000000000
+      internalID: -8529392546057855377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 1
+        width: 90
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a74e23b60da8520800000000000000
+      internalID: 2705203685023316542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_2_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1f94734f4a0f580800000000000000
+      internalID: -8795348703448010321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
