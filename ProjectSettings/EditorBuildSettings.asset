@@ -4,30 +4,6 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-<<<<<<< HEAD
-    path: Assets/Scenes/DevScenes/Start_menu.unity
-    guid: a592ac5683922174fbd644ba520cc29b
-=======
-    path: Assets/Scenes/DevScenes/TomScene.unity
-    guid: 2c50ae7bfa88b694ba31b86d0c4dfa52
->>>>>>> main
-  - enabled: 1
-    path: Assets/Scenes/DevScenes/TristanScene.unity
-    guid: 24cd53979cd8e7a41bb49b67af68de96
-  - enabled: 1
-    path: Assets/Scenes/DevScenes/Pause_menu.unity
-    guid: 7b2de6a65f6d9de45bb5576cc3ac4094
-  - enabled: 0
-    path: Assets/Scenes/DevScenes/CharlesScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 0
-    path: Assets/Scenes/game.unity
-    guid: c3f0f2d9e45409b4d9ec17ce952db42b
-  - enabled: 0
-    path: Assets/Scenes/intro.unity
-    guid: 2c50ae7bfa88b694ba31b86d0c4dfa52
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_Scenes: []
+  m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
