@@ -1,8 +1,9 @@
 using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
+using UnityEngine.Serialization;
 
-public class EnnemyMovement : MonoBehaviour
+public class EnemyMovement : MonoBehaviour
 {
 
     private enum pathMode
@@ -14,14 +15,14 @@ public class EnnemyMovement : MonoBehaviour
 
     private Rigidbody2D _rb;
     private Vector2 _movementInput;
-    private int _nextEndPointIndex = 1;
+    [SerializeField] public int nextEndPointIndex = 1;
     private bool _movingForward = true;
     private bool _movementBlocked;
     private float _timeSinceBlocked;
     [SerializeField] private float movementSpeed;
     [SerializeField] private float cooldownTime;
     [SerializeField] private pathMode mode;
-    [SerializeField] private List<Vector2> endPoints;
+    [SerializeField] public List<Vector2> endPoints;
  
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -41,46 +42,46 @@ public class EnnemyMovement : MonoBehaviour
     {
         if (_movementBlocked)
         {
-            if (_nextEndPointIndex != endPoints.Count || mode != pathMode.StopAtEnd)
+            if (nextEndPointIndex != endPoints.Count || mode != pathMode.StopAtEnd)
             {
                 UpdateBlockedMovement();
             }
             _rb.linearVelocity = Vector2.zero;
             return;
         }
-        if (Vector2.Distance(new Vector2(transform.position.x, transform.position.y), endPoints[_nextEndPointIndex]) < 0.1f)
+        if (Vector2.Distance(new Vector2(transform.position.x, transform.position.y), endPoints[nextEndPointIndex]) < 0.1f)
         {
             UpdateEndPointIndex();
             _movementBlocked = true;
             return;
         }
-        var h = endPoints[_nextEndPointIndex].x - transform.position.x;
-        var v = endPoints[_nextEndPointIndex].y - transform.position.y;
+        var h = endPoints[nextEndPointIndex].x - transform.position.x;
+        var v = endPoints[nextEndPointIndex].y - transform.position.y;
         _movementInput = new Vector2(h, v).normalized;
         _rb.linearVelocity = _movementInput * (Time.fixedDeltaTime * movementSpeed);
     }
 
     private void UpdateEndPointIndex()
     {
-        if (_nextEndPointIndex == 0 && !_movingForward)
+        if (nextEndPointIndex == 0 && !_movingForward)
         {
             _movingForward = true;
-            _nextEndPointIndex++;
+            nextEndPointIndex++;
         }
-        else if (_nextEndPointIndex == endPoints.Count - 1)
+        else if (nextEndPointIndex == endPoints.Count - 1)
         {
             switch (mode)
             {
                 case pathMode.BackToStart:
-                    _nextEndPointIndex = 0;
+                    nextEndPointIndex = 0;
                     break;
                 case pathMode.BackAndForth:
                     _movingForward = false;
-                    _nextEndPointIndex--;
+                    nextEndPointIndex--;
                     break;
                 case pathMode.StopAtEnd:
                     _movementBlocked = true;
-                    _nextEndPointIndex++;
+                    nextEndPointIndex++;
                     break;
                 default:
                     Debug.LogError("Invalid path mode");
@@ -91,11 +92,11 @@ public class EnnemyMovement : MonoBehaviour
         {
             if (_movingForward)
             {
-                _nextEndPointIndex++;
+                nextEndPointIndex++;
             }
             else
             {
-                _nextEndPointIndex--;
+                nextEndPointIndex--;
             }
         }
     }

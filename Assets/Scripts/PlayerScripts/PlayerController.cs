@@ -33,7 +33,7 @@ public class PlayerController : MonoBehaviour
         var h = Input.GetAxisRaw("Horizontal");
         var v = Input.GetAxisRaw("Vertical");
         
-        _movementInput = new Vector2(h, v).normalized;
+        _movementInput = new Vector2(h, v).normalized;  
         _smoothedMovementInput = Vector2.SmoothDamp(
             _smoothedMovementInput,
             _movementInput,
