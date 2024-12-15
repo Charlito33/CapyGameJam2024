@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Police_Station_32x32_Police_Station_Roof_No_Sign_1_0: 6607807031276421764
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

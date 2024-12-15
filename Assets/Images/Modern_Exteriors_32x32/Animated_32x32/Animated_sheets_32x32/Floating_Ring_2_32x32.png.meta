@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floating_Ring_2_32x32_0: 572708659983706523
+      Floating_Ring_2_32x32_1: -5546278433807745240
+      Floating_Ring_2_32x32_2: 5637691361386931901
+      Floating_Ring_2_32x32_3: -352379523765358368
+      Floating_Ring_2_32x32_4: -6376458070104470017
+      Floating_Ring_2_32x32_5: 2104926144941278664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

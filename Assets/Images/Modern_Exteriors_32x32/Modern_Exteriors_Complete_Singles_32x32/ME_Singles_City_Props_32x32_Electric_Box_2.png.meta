@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Electric_Box_2_0: -132413793717903288
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

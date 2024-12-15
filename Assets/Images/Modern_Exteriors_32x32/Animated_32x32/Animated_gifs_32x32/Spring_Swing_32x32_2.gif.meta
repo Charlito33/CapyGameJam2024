@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Spring_Swing_32x32_2_0: 305365766546356044
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Middle_Modular_Stage_2_Sand_0: -2970781158480075222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Green_Open_Empty_Trash_Can_0: 6585852021937768530
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

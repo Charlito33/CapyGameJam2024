@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Car_Right_15_0: 8443255991919817038
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

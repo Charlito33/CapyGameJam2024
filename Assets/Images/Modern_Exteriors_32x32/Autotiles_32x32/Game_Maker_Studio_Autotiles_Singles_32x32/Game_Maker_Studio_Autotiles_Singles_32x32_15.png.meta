@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Game_Maker_Studio_Autotiles_Singles_32x32_15_0: 843615700789144092
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

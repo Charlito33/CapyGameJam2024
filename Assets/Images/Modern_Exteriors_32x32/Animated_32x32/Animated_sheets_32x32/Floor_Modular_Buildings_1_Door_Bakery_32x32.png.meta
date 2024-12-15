@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_0: -933836527497794798
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_1: 1233670953067817339
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_10: -1505622773762157440
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_11: -2532624389334098655
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_12: -5713152766403265175
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_13: -8254325922876979845
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_2: -2042377760203589996
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_3: -7428943791722039922
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_4: 4188675073289277101
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_5: -4490450635719944810
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_6: -5742215398523799319
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_7: -1835966788238160628
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_8: -2635244816856242811
+      Floor_Modular_Buildings_1_Door_Bakery_32x32_9: -2181469148418888050
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

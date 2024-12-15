@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Graveyard_Ghosts_2_32x32_0: -6334953732968194727
+      Graveyard_Ghosts_2_32x32_1: -7009384715854213746
+      Graveyard_Ghosts_2_32x32_10: 7618577124726099970
+      Graveyard_Ghosts_2_32x32_11: 3883483198373900741
+      Graveyard_Ghosts_2_32x32_12: 6179138541482222605
+      Graveyard_Ghosts_2_32x32_13: -7000038657351995182
+      Graveyard_Ghosts_2_32x32_14: -1692755629175598642
+      Graveyard_Ghosts_2_32x32_15: -4286095898697384591
+      Graveyard_Ghosts_2_32x32_2: -1643638824669011688
+      Graveyard_Ghosts_2_32x32_3: 4771005534001016539
+      Graveyard_Ghosts_2_32x32_4: 2476628485351870961
+      Graveyard_Ghosts_2_32x32_5: -2690800376650518493
+      Graveyard_Ghosts_2_32x32_6: -269885561008113377
+      Graveyard_Ghosts_2_32x32_7: 5846011920102653651
+      Graveyard_Ghosts_2_32x32_8: -5226667756713325709
+      Graveyard_Ghosts_2_32x32_9: -2803873066532133608
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

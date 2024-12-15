@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Fire_Station_32x32_Tube_Left_Up_0: -6277154219054721616
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

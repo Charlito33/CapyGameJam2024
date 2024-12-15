@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Subway_Tunnel_Neon_Light_2_32x32_0: -4851098241802307522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

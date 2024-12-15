@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Green_Trash_Truck_Right_0: 2205209855579166881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

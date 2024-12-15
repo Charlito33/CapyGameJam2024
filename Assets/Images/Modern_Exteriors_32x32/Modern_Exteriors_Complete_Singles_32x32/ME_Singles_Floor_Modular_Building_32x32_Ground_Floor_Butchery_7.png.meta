@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Floor_Modular_Building_32x32_Ground_Floor_Butchery_7_0: 3737627094335815826
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Camping_32x32_Tree_Dead_12_0: 8402090070478817436
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

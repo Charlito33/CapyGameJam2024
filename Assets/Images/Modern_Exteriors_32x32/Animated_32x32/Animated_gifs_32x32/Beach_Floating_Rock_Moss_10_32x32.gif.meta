@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Floating_Rock_Moss_10_32x32_0: 5744700736772554372
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

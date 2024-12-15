@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Parking_Booth_Door_1_32x32_0: 8344857379360785655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

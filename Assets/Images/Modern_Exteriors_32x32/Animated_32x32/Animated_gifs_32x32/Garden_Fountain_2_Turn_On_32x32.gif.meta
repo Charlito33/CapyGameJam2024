@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Garden_Fountain_2_Turn_On_32x32_0: -2240744103829433487
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

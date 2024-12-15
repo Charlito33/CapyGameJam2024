@@ -747,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Car_2_complete_32x32_6_0: -956376511448712062
+      Car_2_complete_32x32_6_1: 1298294879544533952
+      Car_2_complete_32x32_6_10: 7983406431574755155
+      Car_2_complete_32x32_6_11: -4715128383453442185
+      Car_2_complete_32x32_6_12: 7326838572239715089
+      Car_2_complete_32x32_6_13: -3872815008090104763
+      Car_2_complete_32x32_6_14: 286707067726779137
+      Car_2_complete_32x32_6_15: 6006427237060322619
+      Car_2_complete_32x32_6_16: 3816850932442593586
+      Car_2_complete_32x32_6_17: -1131837800383725626
+      Car_2_complete_32x32_6_18: -3244714432428622358
+      Car_2_complete_32x32_6_19: -4352824658366919385
+      Car_2_complete_32x32_6_2: -457848114576643900
+      Car_2_complete_32x32_6_20: 5575239366420129393
+      Car_2_complete_32x32_6_21: -7268370467547278715
+      Car_2_complete_32x32_6_22: -2373382013729917029
+      Car_2_complete_32x32_6_23: 5470561947330036336
+      Car_2_complete_32x32_6_24: 6211774498868822651
+      Car_2_complete_32x32_6_3: -7932971450121129788
+      Car_2_complete_32x32_6_4: -7873138198409202210
+      Car_2_complete_32x32_6_5: -4208446605570365090
+      Car_2_complete_32x32_6_6: 7761750735252907164
+      Car_2_complete_32x32_6_7: 8230703844854701330
+      Car_2_complete_32x32_6_8: -87524146347651600
+      Car_2_complete_32x32_6_9: 1651553294811098441
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

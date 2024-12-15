@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crow_Flap_32x32_0: -1897094601768588173
+      Crow_Flap_32x32_1: 7839647597425043251
+      Crow_Flap_32x32_10: -6718796561365704738
+      Crow_Flap_32x32_11: -8262404414612606215
+      Crow_Flap_32x32_12: -202102639692192040
+      Crow_Flap_32x32_13: -6112163950459985438
+      Crow_Flap_32x32_14: 2530822969932295779
+      Crow_Flap_32x32_15: 5015219060441272792
+      Crow_Flap_32x32_16: -7690702984666487979
+      Crow_Flap_32x32_17: 8483658198601338156
+      Crow_Flap_32x32_18: -1598486657902902457
+      Crow_Flap_32x32_19: 3731404569254863210
+      Crow_Flap_32x32_2: 4757730722549256286
+      Crow_Flap_32x32_20: -1989075691127300944
+      Crow_Flap_32x32_21: 6782904098162012320
+      Crow_Flap_32x32_22: -2778884888949370643
+      Crow_Flap_32x32_23: 2604744268708993301
+      Crow_Flap_32x32_3: 9027966574186028349
+      Crow_Flap_32x32_4: 8052857955461770227
+      Crow_Flap_32x32_5: -5822068557822544547
+      Crow_Flap_32x32_6: 4750726616542186291
+      Crow_Flap_32x32_7: 4861631075767215777
+      Crow_Flap_32x32_8: -249695123367924124
+      Crow_Flap_32x32_9: 1656594352833727560
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Generic_Building_32x32_Condo_6_Roof_Trapdoor_0: 1152128115612690315
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

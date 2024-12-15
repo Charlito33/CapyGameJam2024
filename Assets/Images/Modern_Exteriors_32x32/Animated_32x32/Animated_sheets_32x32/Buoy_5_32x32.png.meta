@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Buoy_5_32x32_0: -3635886948960773896
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Police_Station_Door_3_32x32_0: -8017139837290055957
+      Police_Station_Door_3_32x32_1: -2930755115500166745
+      Police_Station_Door_3_32x32_10: -3046424330802506047
+      Police_Station_Door_3_32x32_11: -5515906888426173073
+      Police_Station_Door_3_32x32_12: 1196646236119556945
+      Police_Station_Door_3_32x32_13: -5134402525196200245
+      Police_Station_Door_3_32x32_2: -214669789783413762
+      Police_Station_Door_3_32x32_3: -8024905225278155160
+      Police_Station_Door_3_32x32_4: 6885698902910300539
+      Police_Station_Door_3_32x32_5: 6151811871839399732
+      Police_Station_Door_3_32x32_6: -4609445046084337375
+      Police_Station_Door_3_32x32_7: -6644844735070178733
+      Police_Station_Door_3_32x32_8: -3349290772796783941
+      Police_Station_Door_3_32x32_9: 8427400989542402392
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

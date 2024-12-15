@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Structure_Yellow_Light_Right_0: -5178895818962413635
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

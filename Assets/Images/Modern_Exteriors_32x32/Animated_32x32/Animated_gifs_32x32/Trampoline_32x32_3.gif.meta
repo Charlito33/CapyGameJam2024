@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Trampoline_32x32_3_0: -3775657255465693825
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

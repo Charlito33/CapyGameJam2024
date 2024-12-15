@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crow_idle_Up_32x32_0: -4184985745807027995
+      Crow_idle_Up_32x32_1: 1856818359219080495
+      Crow_idle_Up_32x32_2: 4074101779205528010
+      Crow_idle_Up_32x32_3: -8978742615964386410
+      Crow_idle_Up_32x32_4: 2827706853939527146
+      Crow_idle_Up_32x32_5: 7190930443706314611
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

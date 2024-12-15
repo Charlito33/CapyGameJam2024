@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Manhole_5_0: 6887419713075267196
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

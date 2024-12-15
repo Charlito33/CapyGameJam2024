@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Bus_Right_3_0: 6437246506499192689
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

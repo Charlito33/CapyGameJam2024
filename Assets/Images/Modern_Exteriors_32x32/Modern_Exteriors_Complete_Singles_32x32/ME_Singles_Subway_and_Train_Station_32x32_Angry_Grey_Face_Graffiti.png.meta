@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Angry_Grey_Face_Graffiti_0: 8979373230173489542
+      ME_Singles_Subway_and_Train_Station_32x32_Angry_Grey_Face_Graffiti_1: 2734739333085176627
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

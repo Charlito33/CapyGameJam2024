@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      School_Clock_Tower_Hand_Hours_32x32_0: 5960676558763257954
+      School_Clock_Tower_Hand_Hours_32x32_1: -1012528092150097410
+      School_Clock_Tower_Hand_Hours_32x32_10: -169382227104432638
+      School_Clock_Tower_Hand_Hours_32x32_11: -4404581175168355816
+      School_Clock_Tower_Hand_Hours_32x32_2: -3381412483869972206
+      School_Clock_Tower_Hand_Hours_32x32_3: -7585848613942059404
+      School_Clock_Tower_Hand_Hours_32x32_4: 3299881381278384248
+      School_Clock_Tower_Hand_Hours_32x32_5: -976156330954466754
+      School_Clock_Tower_Hand_Hours_32x32_6: -2610546522155638825
+      School_Clock_Tower_Hand_Hours_32x32_7: -5600396510374950833
+      School_Clock_Tower_Hand_Hours_32x32_8: 2081434971926079682
+      School_Clock_Tower_Hand_Hours_32x32_9: 1523846117362123224
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

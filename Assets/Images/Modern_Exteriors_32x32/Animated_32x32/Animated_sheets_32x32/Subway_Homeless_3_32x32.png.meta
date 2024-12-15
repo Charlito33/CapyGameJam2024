@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Subway_Homeless_3_32x32_0: 1109147605716244198
+      Subway_Homeless_3_32x32_1: 7729936754085615923
+      Subway_Homeless_3_32x32_2: 1218845523235257180
+      Subway_Homeless_3_32x32_3: 8863964896578177424
+      Subway_Homeless_3_32x32_4: -7450662842402106034
+      Subway_Homeless_3_32x32_5: -2624982987372316904
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

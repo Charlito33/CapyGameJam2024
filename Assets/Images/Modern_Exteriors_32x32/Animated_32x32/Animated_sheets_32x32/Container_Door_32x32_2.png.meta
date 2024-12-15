@@ -872,7 +872,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Container_Door_32x32_2_0: 3040235455594631536
+      Container_Door_32x32_2_1: -48519779745979921
+      Container_Door_32x32_2_10: 2502675086479576615
+      Container_Door_32x32_2_11: 4268274073311694095
+      Container_Door_32x32_2_12: -4287167167940789330
+      Container_Door_32x32_2_13: 5719786133014765913
+      Container_Door_32x32_2_14: -7349417896717565159
+      Container_Door_32x32_2_15: 8997627939258442752
+      Container_Door_32x32_2_16: 1672630573419232784
+      Container_Door_32x32_2_17: -4189895431867389762
+      Container_Door_32x32_2_18: 5154405490414342416
+      Container_Door_32x32_2_19: -2714870934509538039
+      Container_Door_32x32_2_2: -7507537807493852474
+      Container_Door_32x32_2_20: -7142068127504162447
+      Container_Door_32x32_2_21: 1975003275498176325
+      Container_Door_32x32_2_22: -8112265269188033786
+      Container_Door_32x32_2_23: -3073960319538462181
+      Container_Door_32x32_2_24: 8852773742015533568
+      Container_Door_32x32_2_25: -1130881630961347904
+      Container_Door_32x32_2_26: -3031828664458773370
+      Container_Door_32x32_2_27: -3294288293185868792
+      Container_Door_32x32_2_28: 7186730360796224932
+      Container_Door_32x32_2_29: 3209174355717094428
+      Container_Door_32x32_2_3: 227028369571882853
+      Container_Door_32x32_2_4: 3564885718068266386
+      Container_Door_32x32_2_5: -5756652267800225698
+      Container_Door_32x32_2_6: -6927155881984878470
+      Container_Door_32x32_2_7: -8089493421033426011
+      Container_Door_32x32_2_8: 4945712073868220981
+      Container_Door_32x32_2_9: 4495538541305342698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

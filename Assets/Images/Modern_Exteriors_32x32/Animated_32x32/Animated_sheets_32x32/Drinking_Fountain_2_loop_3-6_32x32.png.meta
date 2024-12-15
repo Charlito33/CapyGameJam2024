@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Drinking_Fountain_2_loop_3-6_32x32_0: -3217357007092544619
+      Drinking_Fountain_2_loop_3-6_32x32_1: 97633638464025186
+      Drinking_Fountain_2_loop_3-6_32x32_2: -5468741930294364639
+      Drinking_Fountain_2_loop_3-6_32x32_3: 7409677200211180075
+      Drinking_Fountain_2_loop_3-6_32x32_4: -4332261452616599497
+      Drinking_Fountain_2_loop_3-6_32x32_5: 584960694390556752
+      Drinking_Fountain_2_loop_3-6_32x32_6: 7157908342923152817
+      Drinking_Fountain_2_loop_3-6_32x32_7: -8116215568357423260
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

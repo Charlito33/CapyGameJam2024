@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Worksite_toolbox_full_32x32_0: 6833244016350067929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

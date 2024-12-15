@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Stage_Structure_Spotlight_Modular_Left_1_0: 7324837290857309495
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

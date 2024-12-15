@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Waterfall_Drain_Tube_32x32_0: 5480516287177414473
+      Waterfall_Drain_Tube_32x32_1: -3504254984234154542
+      Waterfall_Drain_Tube_32x32_10: -8392446722814766738
+      Waterfall_Drain_Tube_32x32_11: 397676422572452523
+      Waterfall_Drain_Tube_32x32_12: -6385046580170441772
+      Waterfall_Drain_Tube_32x32_13: -100922117911209648
+      Waterfall_Drain_Tube_32x32_14: -8741962854166790311
+      Waterfall_Drain_Tube_32x32_15: 6463876331901557822
+      Waterfall_Drain_Tube_32x32_16: -2860910647510882156
+      Waterfall_Drain_Tube_32x32_17: 2941280075349064441
+      Waterfall_Drain_Tube_32x32_18: 8325172036611601417
+      Waterfall_Drain_Tube_32x32_19: 1619991212753752794
+      Waterfall_Drain_Tube_32x32_2: 4405051639113948833
+      Waterfall_Drain_Tube_32x32_20: 8093498229728834712
+      Waterfall_Drain_Tube_32x32_21: 2446885870150276346
+      Waterfall_Drain_Tube_32x32_22: 161962935982889196
+      Waterfall_Drain_Tube_32x32_23: 5045282404154270567
+      Waterfall_Drain_Tube_32x32_24: -3995728221622376447
+      Waterfall_Drain_Tube_32x32_25: -7240925879816682591
+      Waterfall_Drain_Tube_32x32_26: -597691787073325245
+      Waterfall_Drain_Tube_32x32_27: 5630195465659703568
+      Waterfall_Drain_Tube_32x32_3: -7203716687792390973
+      Waterfall_Drain_Tube_32x32_4: 5410087001901452538
+      Waterfall_Drain_Tube_32x32_5: 3605946044130626772
+      Waterfall_Drain_Tube_32x32_6: -5602392335248766080
+      Waterfall_Drain_Tube_32x32_7: -7164053290133237846
+      Waterfall_Drain_Tube_32x32_8: -4793545243669797457
+      Waterfall_Drain_Tube_32x32_9: -2295716498988631248
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

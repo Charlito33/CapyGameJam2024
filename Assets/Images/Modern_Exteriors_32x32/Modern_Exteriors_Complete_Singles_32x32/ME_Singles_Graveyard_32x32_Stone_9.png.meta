@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Stone_9_0: 7469311414547637856
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

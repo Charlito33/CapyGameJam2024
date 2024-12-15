@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Swimming_Pool_32x32_Pool_35_0: 3598801845997509296
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

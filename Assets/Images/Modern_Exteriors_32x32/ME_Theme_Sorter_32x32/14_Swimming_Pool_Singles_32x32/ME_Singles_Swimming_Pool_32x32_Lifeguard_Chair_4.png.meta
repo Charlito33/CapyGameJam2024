@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Swimming_Pool_32x32_Lifeguard_Chair_4_0: -1793287264363023507
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

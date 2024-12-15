@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Electric_Pole_3_0: 6795859506111184991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

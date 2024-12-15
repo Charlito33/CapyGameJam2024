@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Camper_Right_1_0: 7951287412555332978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

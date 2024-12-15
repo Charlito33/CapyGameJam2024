@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Shrub_4_0: 1738027057168594450
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

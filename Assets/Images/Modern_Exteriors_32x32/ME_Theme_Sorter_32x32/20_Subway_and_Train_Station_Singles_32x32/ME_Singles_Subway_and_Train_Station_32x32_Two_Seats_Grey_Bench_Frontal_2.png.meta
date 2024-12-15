@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Two_Seats_Grey_Bench_Frontal_2_0: 3214421423081726445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Floating_Rock_Moss_11_32x32_0: 172110184140266157
+      Beach_Floating_Rock_Moss_11_32x32_1: -6403878084842004123
+      Beach_Floating_Rock_Moss_11_32x32_2: 3519425632014768502
+      Beach_Floating_Rock_Moss_11_32x32_3: -8499190891213160349
+      Beach_Floating_Rock_Moss_11_32x32_4: 5879026109752479623
+      Beach_Floating_Rock_Moss_11_32x32_5: 2512931377505300203
+      Beach_Floating_Rock_Moss_11_32x32_6: 3160483732774476517
+      Beach_Floating_Rock_Moss_11_32x32_7: -7811959862401025053
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

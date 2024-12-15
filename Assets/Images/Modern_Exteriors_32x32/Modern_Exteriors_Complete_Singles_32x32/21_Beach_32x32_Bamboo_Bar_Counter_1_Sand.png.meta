@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Bamboo_Bar_Counter_1_Sand_0: -5430674149697362329
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

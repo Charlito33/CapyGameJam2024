@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Condo_6_Roof_Door_32x32_0: -2920337500314606733
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Public_Phone_2_0: 2775554846528757740
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

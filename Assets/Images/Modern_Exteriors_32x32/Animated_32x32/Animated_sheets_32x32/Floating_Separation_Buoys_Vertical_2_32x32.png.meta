@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floating_Separation_Buoys_Vertical_2_32x32_0: 2934029189997789476
+      Floating_Separation_Buoys_Vertical_2_32x32_1: 4248960996973715800
+      Floating_Separation_Buoys_Vertical_2_32x32_2: 2257259634671994750
+      Floating_Separation_Buoys_Vertical_2_32x32_3: -7869638194500417210
+      Floating_Separation_Buoys_Vertical_2_32x32_4: -3754843459163224556
+      Floating_Separation_Buoys_Vertical_2_32x32_5: 8221848774193537784
+      Floating_Separation_Buoys_Vertical_2_32x32_6: 7629139360044652430
+      Floating_Separation_Buoys_Vertical_2_32x32_7: 6186276178257933557
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

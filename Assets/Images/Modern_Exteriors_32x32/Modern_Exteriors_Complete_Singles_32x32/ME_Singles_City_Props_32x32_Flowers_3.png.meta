@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Flowers_3_0: 4257110387727755144
+      ME_Singles_City_Props_32x32_Flowers_3_1: -3501357756117760546
+      ME_Singles_City_Props_32x32_Flowers_3_2: -4055301767946383040
+      ME_Singles_City_Props_32x32_Flowers_3_3: 8584763627519638978
+      ME_Singles_City_Props_32x32_Flowers_3_4: -5729359552245647545
+      ME_Singles_City_Props_32x32_Flowers_3_5: -6562402035405836130
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

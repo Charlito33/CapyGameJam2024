@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Stage_Stairs_Up_0: -5410713433220994519
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

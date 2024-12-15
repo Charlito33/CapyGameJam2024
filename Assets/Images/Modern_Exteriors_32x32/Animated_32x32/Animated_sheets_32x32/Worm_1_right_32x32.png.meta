@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Worm_1_right_32x32_0: 9178358058676431646
+      Worm_1_right_32x32_1: 1011747404774455858
+      Worm_1_right_32x32_2: 5376456673549477785
+      Worm_1_right_32x32_3: 6852187894322143570
+      Worm_1_right_32x32_4: 1362760851017816207
+      Worm_1_right_32x32_5: 2450627995222719881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Subway_Elevator_Going_Up_32x32_0: -7474160287016949266
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

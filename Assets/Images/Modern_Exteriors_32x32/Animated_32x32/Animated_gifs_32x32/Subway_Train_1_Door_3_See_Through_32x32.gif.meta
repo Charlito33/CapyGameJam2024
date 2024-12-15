@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Subway_Train_1_Door_3_See_Through_32x32_0: -4326004787600937561
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

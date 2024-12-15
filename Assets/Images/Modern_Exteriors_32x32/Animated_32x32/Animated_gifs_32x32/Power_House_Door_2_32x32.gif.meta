@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Power_House_Door_2_32x32_0: -4098376852031190128
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

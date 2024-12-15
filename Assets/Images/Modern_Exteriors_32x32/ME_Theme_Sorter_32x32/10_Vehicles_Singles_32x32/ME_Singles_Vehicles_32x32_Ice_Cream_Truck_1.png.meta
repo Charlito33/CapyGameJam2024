@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Ice_Cream_Truck_1_0: 8633664503423612448
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

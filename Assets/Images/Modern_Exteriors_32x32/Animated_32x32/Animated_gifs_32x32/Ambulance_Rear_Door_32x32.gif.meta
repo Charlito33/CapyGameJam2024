@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ambulance_Rear_Door_32x32_0: -7596848125744843690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Crow_Right_0: 2003240752433898720
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

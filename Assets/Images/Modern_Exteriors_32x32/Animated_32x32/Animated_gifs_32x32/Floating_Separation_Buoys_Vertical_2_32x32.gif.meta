@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floating_Separation_Buoys_Vertical_2_32x32_0: 2934029189997789476
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

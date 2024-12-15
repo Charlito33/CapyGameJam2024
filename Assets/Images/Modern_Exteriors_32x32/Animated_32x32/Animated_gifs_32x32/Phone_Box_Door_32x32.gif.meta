@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Phone_Box_Door_32x32_0: -4516848015235372925
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

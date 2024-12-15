@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Pebbles_2_0: -6926228745999723555
+      ME_Singles_Graveyard_32x32_Pebbles_2_1: -5346576806760187480
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Office_32x32_Balcony_Window_Left_2_0: -7853382247438116429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

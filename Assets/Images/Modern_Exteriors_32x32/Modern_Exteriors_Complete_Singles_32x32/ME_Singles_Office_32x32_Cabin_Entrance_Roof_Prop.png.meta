@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Office_32x32_Cabin_Entrance_Roof_Prop_0: -633225003604860895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

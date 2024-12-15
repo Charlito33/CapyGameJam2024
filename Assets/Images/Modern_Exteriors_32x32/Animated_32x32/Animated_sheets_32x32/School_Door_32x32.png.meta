@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      School_Door_32x32_0: -6728554826626003842
+      School_Door_32x32_1: 1082406081278671377
+      School_Door_32x32_10: 8972201101447840322
+      School_Door_32x32_11: -4082881551377140272
+      School_Door_32x32_12: -3462359127205271990
+      School_Door_32x32_13: 2159145980656944392
+      School_Door_32x32_2: -5603289713558723280
+      School_Door_32x32_3: -6539157403376606529
+      School_Door_32x32_4: -8667208706899871192
+      School_Door_32x32_5: -2730389684874562961
+      School_Door_32x32_6: 2582163175573578001
+      School_Door_32x32_7: 5920181803296002390
+      School_Door_32x32_8: -2522825706962667162
+      School_Door_32x32_9: -2241336762861480112
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

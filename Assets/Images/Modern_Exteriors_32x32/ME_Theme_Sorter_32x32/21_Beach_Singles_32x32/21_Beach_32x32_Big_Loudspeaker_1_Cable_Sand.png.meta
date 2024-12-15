@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Big_Loudspeaker_1_Cable_Sand_0: -1849953951054009206
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

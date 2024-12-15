@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Billboard_32x32_1_0: -7013241699775303023
+      Billboard_32x32_1_1: -8467336419804024181
+      Billboard_32x32_1_10: 2997710477710221363
+      Billboard_32x32_1_11: -369284077879785372
+      Billboard_32x32_1_12: 3836402310769793162
+      Billboard_32x32_1_13: -6107413729173889089
+      Billboard_32x32_1_14: 1991690929538639831
+      Billboard_32x32_1_15: -5808864639740360944
+      Billboard_32x32_1_2: -1261747431129971121
+      Billboard_32x32_1_3: 8783770474996991104
+      Billboard_32x32_1_4: -5915259370550832320
+      Billboard_32x32_1_5: 1787319584582482716
+      Billboard_32x32_1_6: -8306796799814018699
+      Billboard_32x32_1_7: 4759942906336811487
+      Billboard_32x32_1_8: -7419640482462304502
+      Billboard_32x32_1_9: -5887736947066574242
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

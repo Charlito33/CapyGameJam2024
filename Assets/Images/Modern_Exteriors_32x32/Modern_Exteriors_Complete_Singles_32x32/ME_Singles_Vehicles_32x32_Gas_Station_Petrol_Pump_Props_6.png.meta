@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Gas_Station_Petrol_Pump_Props_6_0: 1612411114784222234
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

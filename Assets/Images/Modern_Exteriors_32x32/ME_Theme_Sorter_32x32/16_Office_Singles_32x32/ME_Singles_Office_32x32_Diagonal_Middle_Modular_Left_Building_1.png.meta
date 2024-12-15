@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Office_32x32_Diagonal_Middle_Modular_Left_Building_1_0: -1865120140263022356
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

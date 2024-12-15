@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Big_Pile_Of_Dirt_0: -4579325929646803856
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

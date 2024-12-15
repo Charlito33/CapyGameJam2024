@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Worksite_32x32_Portable_Toilet_3_0: 7528820998897959822
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

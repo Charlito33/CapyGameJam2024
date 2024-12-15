@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Blue_Folded_Blanket_0: 1006694123456467006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

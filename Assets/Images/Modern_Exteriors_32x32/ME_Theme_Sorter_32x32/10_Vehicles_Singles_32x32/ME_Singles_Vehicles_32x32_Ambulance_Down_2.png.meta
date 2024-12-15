@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Ambulance_Down_2_0: 8605148186340723172
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

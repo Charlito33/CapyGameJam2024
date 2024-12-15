@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kiosk_Mushroom_Shutter_32x32_0: -6158027020986890946
+      Kiosk_Mushroom_Shutter_32x32_1: -1142516368205902765
+      Kiosk_Mushroom_Shutter_32x32_10: 1988934009111488699
+      Kiosk_Mushroom_Shutter_32x32_11: -3469920011575117946
+      Kiosk_Mushroom_Shutter_32x32_12: -7793866717875413310
+      Kiosk_Mushroom_Shutter_32x32_13: -8621386701572568575
+      Kiosk_Mushroom_Shutter_32x32_14: 6126583643961736797
+      Kiosk_Mushroom_Shutter_32x32_15: 4433321407598717555
+      Kiosk_Mushroom_Shutter_32x32_2: 5779472196023717960
+      Kiosk_Mushroom_Shutter_32x32_3: 894896886686731924
+      Kiosk_Mushroom_Shutter_32x32_4: -848040447228542672
+      Kiosk_Mushroom_Shutter_32x32_5: -6030361948312773360
+      Kiosk_Mushroom_Shutter_32x32_6: 7048496020759696640
+      Kiosk_Mushroom_Shutter_32x32_7: -7566500357906398506
+      Kiosk_Mushroom_Shutter_32x32_8: -2441090163579708745
+      Kiosk_Mushroom_Shutter_32x32_9: 7368329372544068564
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

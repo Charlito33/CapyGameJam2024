@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_White_Shell_3_0: -4709853824351322232
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

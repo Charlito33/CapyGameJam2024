@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Water_Tileset_preview_32x32_0: 4606575933342949171
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

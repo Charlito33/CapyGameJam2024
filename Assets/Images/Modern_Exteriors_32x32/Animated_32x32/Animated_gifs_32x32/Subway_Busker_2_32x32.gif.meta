@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Subway_Busker_2_32x32_0: -6916225931013662972
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

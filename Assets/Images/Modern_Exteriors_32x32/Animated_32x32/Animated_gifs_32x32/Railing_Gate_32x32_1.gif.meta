@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Railing_Gate_32x32_1_0: -7623488713961439182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

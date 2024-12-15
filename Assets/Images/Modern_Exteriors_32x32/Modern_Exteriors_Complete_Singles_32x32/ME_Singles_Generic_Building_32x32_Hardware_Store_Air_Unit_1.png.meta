@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Generic_Building_32x32_Hardware_Store_Air_Unit_1_0: 9163917049910982708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

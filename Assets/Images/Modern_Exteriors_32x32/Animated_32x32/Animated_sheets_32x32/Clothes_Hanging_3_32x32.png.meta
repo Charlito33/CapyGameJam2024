@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Clothes_Hanging_3_32x32_0: 3184140974524552391
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_0: -4300132612777869262
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_1: -7920361586732694885
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_10: -3582549405964154531
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_11: -7784872401828661614
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_12: 3529633816259442590
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_13: 7914547609922651549
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_2: 7662030733510356428
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_3: 5173271963534988869
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_4: 4836790441336663231
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_5: 3144794620490085071
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_6: -5218798350821939135
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_7: -831699294407943860
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_8: -5931631728655187735
+      Floor_Modular_Buildings_1_Door_Clothing_Stores_32x32_9: 6988147831479274749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

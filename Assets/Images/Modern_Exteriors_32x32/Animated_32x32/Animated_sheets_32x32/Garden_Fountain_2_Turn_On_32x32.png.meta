@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Garden_Fountain_2_Turn_On_32x32_0: -2240744103829433487
+      Garden_Fountain_2_Turn_On_32x32_1: 3688488582642856120
+      Garden_Fountain_2_Turn_On_32x32_2: 3893312295410743311
+      Garden_Fountain_2_Turn_On_32x32_3: -5169200840394138560
+      Garden_Fountain_2_Turn_On_32x32_4: 6602269029909936743
+      Garden_Fountain_2_Turn_On_32x32_5: 8147935692777939449
+      Garden_Fountain_2_Turn_On_32x32_6: -3014074500520449429
+      Garden_Fountain_2_Turn_On_32x32_7: 8421398567685144107
+      Garden_Fountain_2_Turn_On_32x32_8: -1970049427454908783
+      Garden_Fountain_2_Turn_On_32x32_9: -5492380044102846172
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

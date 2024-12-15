@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Junk_Shack_Door_32x32_0: -6354138505427851875
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

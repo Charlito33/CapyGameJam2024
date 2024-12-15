@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Seagull_Idle_Left_32x32_0: -9146442002469429633
+      Beach_Seagull_Idle_Left_32x32_1: 922531361935686619
+      Beach_Seagull_Idle_Left_32x32_2: -2835560809152317048
+      Beach_Seagull_Idle_Left_32x32_3: -2057594414186241543
+      Beach_Seagull_Idle_Left_32x32_4: -6103890664640559658
+      Beach_Seagull_Idle_Left_32x32_5: 3812439891150253452
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Sand_Hole_0: -1364164143371476656
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

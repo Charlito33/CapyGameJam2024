@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floating_Ice_Cream_Stick_1_32x32_0: 1680565152963941942
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

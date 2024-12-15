@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_White_Group_Flowers_0: 725686996918629961
+      ME_Singles_Graveyard_32x32_White_Group_Flowers_1: 7477892732611328851
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

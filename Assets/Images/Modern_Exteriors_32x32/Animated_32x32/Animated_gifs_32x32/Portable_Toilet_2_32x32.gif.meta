@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Portable_Toilet_2_32x32_0: 4662700472763894611
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

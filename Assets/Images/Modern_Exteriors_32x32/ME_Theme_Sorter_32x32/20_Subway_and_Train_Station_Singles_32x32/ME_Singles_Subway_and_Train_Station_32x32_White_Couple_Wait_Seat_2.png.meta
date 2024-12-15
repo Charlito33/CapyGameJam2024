@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_White_Couple_Wait_Seat_2_0: -3626651934506592587
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

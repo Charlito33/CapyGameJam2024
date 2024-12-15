@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Stop_Sign_0: -5909209365684010787
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

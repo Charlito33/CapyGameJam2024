@@ -13,16 +13,9 @@ public class TilemapManager : MonoBehaviour
     [SerializeField] private List<Tilemap> defaultTilemaps;
     [SerializeField] private List<Tilemap> badTilemaps;
     
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        SwitchTilemap(TilemapType.Default);
     }
 
     public void SwitchTilemap(TilemapType type)

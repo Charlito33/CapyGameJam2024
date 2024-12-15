@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Street_Lamp_2_32x32_0: -4224936361705780777
+      Street_Lamp_2_32x32_1: -3739964775971629204
+      Street_Lamp_2_32x32_2: -742470152056519537
+      Street_Lamp_2_32x32_3: 3519528290900725291
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

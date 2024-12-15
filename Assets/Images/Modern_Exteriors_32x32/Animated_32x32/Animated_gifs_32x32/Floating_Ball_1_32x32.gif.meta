@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floating_Ball_1_32x32_0: 1972184425162219641
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

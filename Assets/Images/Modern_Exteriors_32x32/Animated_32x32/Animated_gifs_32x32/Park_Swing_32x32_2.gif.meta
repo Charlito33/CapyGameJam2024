@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Park_Swing_32x32_2_0: 6073236296385463769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

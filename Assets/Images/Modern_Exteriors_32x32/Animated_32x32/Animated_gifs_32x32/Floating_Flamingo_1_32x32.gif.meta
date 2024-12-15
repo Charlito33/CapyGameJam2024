@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floating_Flamingo_1_32x32_0: 1211102686742208407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bus_Door_4_32x32_0: -8283152609659001927
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

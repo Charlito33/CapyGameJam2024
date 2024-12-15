@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Helicopter_Door_32x32_0: -6124902746406444670
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

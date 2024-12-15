@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Kiosk_Infopoint_Shutter_Closed_0: 1132201782014746614
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

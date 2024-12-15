@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Police_Station_32x32_Police_Station_Small_Highlight_2_0: -8122110201650157352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
