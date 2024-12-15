@@ -6,8 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/DevScenes/TomScene.unity
     guid: 2c50ae7bfa88b694ba31b86d0c4dfa52
+=======
+<<<<<<< HEAD
+    path: Assets/Scenes/DevScenes/Start_menu.unity
+    guid: a592ac5683922174fbd644ba520cc29b
+=======
+    path: Assets/Scenes/DevScenes/TomScene.unity
+    guid: 2c50ae7bfa88b694ba31b86d0c4dfa52
+>>>>>>> main
+>>>>>>> dce6f6bcc0ef1c8b05e83067ee6dba6a2d6d6f32
   - enabled: 1
     path: Assets/Scenes/game.unity
     guid: c3f0f2d9e45409b4d9ec17ce952db42b
