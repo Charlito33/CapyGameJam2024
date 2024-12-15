@@ -12,18 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a3e624dafd562447816c94c30b24f86, type: 3}
   m_Name: Quest0
   m_EditorClassIdentifier: 
-  questId: 0
-  requireQuestId: -1
-  autoGiveQuest: 0
-  questType: 1
-  questName: Dialog
-  questDescription: Dialog between a triangle and the player.
-  onComplete: 0
-  onCompleteGiveQuestId: 0
+  requiredQuests: []
+  onCompleteGiveQuests:
+  - {fileID: 11400000, guid: ba8bc8cecb3df204ea600a20c4ae4382, type: 2}
   dialogs:
-  - actor: Triangle
+  - actor: Circle
     text: Hello.
   - actor: Player
     text: Hi?
-  - actor: Triangle
+  - actor: Circle
     text: Go fuck yourself.

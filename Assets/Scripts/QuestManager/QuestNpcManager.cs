@@ -1,40 +1,98 @@
 using System;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class QuestNpcManager : MonoBehaviour
 {
-    [SerializeField] private Collider2D talkTrigger;
-    [SerializeField] private Canvas interactPopup;
-    [SerializeField] private List<QuestScript> questScripts;
     private QuestManager _questManager;
+    
+    [SerializeField] private Collider2D trigger;
+    [SerializeField] private List<QuestScript> questScripts;
     private bool isPlayerInRange;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    [Header("UI")]
+    [SerializeField] private Canvas interactPopup;
+    [SerializeField] private string interactText;
+    [SerializeField] private List<TMP_Text> texts;
+
     void Start()
     {
-        _questManager = GameObject.Find("GameManager").GetComponent<QuestManager>();
-        interactPopup.gameObject.SetActive(false);
+        _questManager = GameObject.Find("/GameManager").GetComponent<QuestManager>();
         
-        _questManager.RegisterDialogBeginEvent(OnDialogBegin);
-        _questManager.RegisterQuestCompletedEvent(OnQuestCompleted);
+        _questManager.RegisterDialogBeginEventListener(OnDialogBegin);
+        _questManager.RegisterQuestBeginEventListener(OnQuestBegin);
+        _questManager.RegisterQuestCompletedEventListener(OnQuestCompleted);
+        
+        interactPopup.gameObject.SetActive(false);
 
         isPlayerInRange = false;
+
+        foreach (TMP_Text text in texts)
+        {
+            text.text = interactText;
+        }
+        HideUI();
+    }
+
+    private void HideUI()
+    {
+        interactPopup.gameObject.SetActive(false);
+    }
+
+    private void ShowUI()
+    {
+        interactPopup.gameObject.SetActive(true);
     }
 
     private void OnDialogBegin(QuestScript questScript)
     {
+        if (!questScripts.Contains(questScript))
+        {
+            return;   
+        }
         interactPopup.gameObject.SetActive(false);
     }
 
-    private void OnQuestCompleted(QuestScript questScript)
+    private void OnQuestBegin(QuestScript questScript)
     {
-        if (!isPlayerInRange || !HasUncompletedQuests())
+        if (!questScripts.Contains(questScript))
+        {
+            return;   
+        }
+        if (HasUnGivenQuests())
         {
             return;
         }
         
-        interactPopup.gameObject.SetActive(true);
+        HideUI();
+    }
+
+    private void OnQuestCompleted(QuestScript questScript)
+    {
+        if (!questScripts.Contains(questScript))
+        {
+            return;   
+        }
+        if (!isPlayerInRange || !HasUnGivenQuests())
+        {
+            return;
+        }
+        
+        ShowUI();
+    }
+    
+    private bool HasUnGivenQuests()
+    {
+        foreach (var quest in questScripts)
+        {
+            if (!_questManager.IsQuestCompleted(quest) && !_questManager.IsQuestActive(quest))
+            {
+                return true;
+            }
+        }
+        return false;
     }
 
     private bool HasUncompletedQuests()
@@ -51,7 +109,7 @@ public class QuestNpcManager : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (!other.CompareTag("Player") || !HasUncompletedQuests())
+        if (!other.CompareTag("Player") || !HasUnGivenQuests())
         {
             return;
         }
@@ -60,8 +118,8 @@ public class QuestNpcManager : MonoBehaviour
 
         PlayerInteractionController player = other.GetComponent<PlayerInteractionController>();
         
-        interactPopup.gameObject.SetActive(true);
         player.AddInteractableNpc(this);
+        ShowUI();
     }
 
     private void OnTriggerExit2D(Collider2D other)
@@ -75,8 +133,8 @@ public class QuestNpcManager : MonoBehaviour
         
         PlayerInteractionController player = other.GetComponent<PlayerInteractionController>();
         
-        interactPopup.gameObject.SetActive(false);
         player.RemoveInteractableNpc(this);
+        HideUI();
     }
 
     public void Interact()
@@ -88,9 +146,15 @@ public class QuestNpcManager : MonoBehaviour
 
         foreach (var quest in questScripts)
         {
-            if (!_questManager.IsQuestCompleted(quest))
+            if (!_questManager.IsQuestCompleted(quest) && !_questManager.IsQuestActive(quest))
             {
                 _questManager.GiveQuest(quest);
+                
+                if (quest.GetQuestType() == QuestScript.QuestType.Item)
+                {
+                    gameObject.SetActive(false);
+                }
+                
                 break;
             }
         }

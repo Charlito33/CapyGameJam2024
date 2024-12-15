@@ -16,7 +16,9 @@ public class QuestScript : ScriptableObject
     public enum QuestType
     {
         Manual,
-        Dialog
+        Dialog,
+        Item,
+        DestroyGameObjects
     }
     
     private ulong _questId;
@@ -27,6 +29,7 @@ public class QuestScript : ScriptableObject
     private bool _autoGiveQuest;
     [SerializeField] private List<QuestScript> onCompleteGiveQuests;
     [SerializeField] private List<Dialog> dialogs;
+    [SerializeField] private List<string> destroyGameObjects;
 
     public void Log()
     {
@@ -77,6 +80,18 @@ public class QuestScript : ScriptableObject
     {
         return dialogs;
     }
+
+    public List<GameObject> GetOnCompleteDestroyGameObjects()
+    {
+        List<GameObject> gameObjects = new List<GameObject>();
+
+        foreach (var path in destroyGameObjects)
+        {
+            gameObjects.Add(GameObject.Find(path));
+        }
+        
+        return gameObjects;
+    }
     
     [CustomEditor(typeof(QuestScript))]
     public class QuestInspector : Editor
@@ -110,6 +125,10 @@ public class QuestScript : ScriptableObject
             if (quest._questType == QuestType.Dialog)
             {
                 EditorGUILayout.PropertyField(serializedObject.FindProperty("dialogs"));
+            }
+            if (quest._questType == QuestType.DestroyGameObjects)
+            {
+                EditorGUILayout.PropertyField(serializedObject.FindProperty("destroyGameObjects"));
             }
             EditorGUILayout.PropertyField(serializedObject.FindProperty("requiredQuests"));
             EditorGUILayout.PropertyField(serializedObject.FindProperty("onCompleteGiveQuests"));

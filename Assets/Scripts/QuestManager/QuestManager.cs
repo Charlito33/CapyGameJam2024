@@ -1,11 +1,12 @@
 using System;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class QuestManager : MonoBehaviour
 {
     [SerializeField] private List<QuestScript> questScripts;
-    [SerializeField] private QuestDialogUIManager questDialogUIManager;
+    
     private Dictionary<ulong, QuestScript> _quests;
     private List<ulong> _activeQuests;
     private List<ulong> _completedQuests;
@@ -14,17 +15,26 @@ public class QuestManager : MonoBehaviour
     private int _dialogIndex;
 
     private List<Action<QuestScript>> _onDialogBeginCallbacks;
+    private List<Action<QuestScript>> _onQuestBeginCallbacks;
     private List<Action<QuestScript>> _onQuestCompletedCallbacks;
     
-    void Start()
+    [Header("UI")]
+    [SerializeField] private QuestUI questUI;
+    [SerializeField] private QuestDialogUIManager questDialogUIManager;
+
+    private void Awake()
     {
         _quests = new Dictionary<ulong, QuestScript>();
         _activeQuests = new List<ulong>();
         _completedQuests = new List<ulong>();
 
         _onDialogBeginCallbacks = new List<Action<QuestScript>>();
+        _onQuestBeginCallbacks = new List<Action<QuestScript>>();
         _onQuestCompletedCallbacks = new List<Action<QuestScript>>();
+    }
 
+    void Start()
+    {
         foreach (var quest in questScripts)
         {
             _quests.Add(quest.GetQuestId(), quest);
@@ -49,6 +59,23 @@ public class QuestManager : MonoBehaviour
             GiveQuest(questScript);
         }
     }
+
+    private void UpdateUI()
+    {
+        List<QuestScript> uiQuests = new List<QuestScript>();
+        foreach (var qId in _activeQuests)
+        {
+            QuestScript q = _quests[qId];
+
+            if (q.GetQuestType() == QuestScript.QuestType.Dialog || q.GetQuestType() == QuestScript.QuestType.Item)
+            {
+                continue;
+            }
+            
+            uiQuests.Add(_quests[qId]);
+        }
+        questUI.SetQuests(uiQuests);
+    }
     
     public bool IsQuestCompleted(ulong questId)
     {
@@ -58,6 +85,16 @@ public class QuestManager : MonoBehaviour
     public bool IsQuestCompleted(QuestScript questScript)
     {
         return IsQuestCompleted(questScript.GetQuestId());
+    }
+
+    public bool IsQuestActive(ulong questId)
+    {
+        return _activeQuests.Contains(questId);
+    }
+
+    public bool IsQuestActive(QuestScript questScript)
+    {
+        return IsQuestActive(questScript.GetQuestId());
     }
 
     public bool AreQuestsCompleted(List<QuestScript> quests)
@@ -96,6 +133,16 @@ public class QuestManager : MonoBehaviour
         
         _activeQuests.Add(questId);
         
+        foreach (var callback in _onQuestBeginCallbacks)
+        {
+            callback(quest);
+        }
+        
+        if (quest.GetQuestType() == QuestScript.QuestType.Item || quest.GetQuestType() == QuestScript.QuestType.DestroyGameObjects)
+        {
+            CompleteQuest(quest);
+        }
+        
         // Show dialog
         if (quest.GetQuestType() == QuestScript.QuestType.Dialog)
         {
@@ -110,6 +157,8 @@ public class QuestManager : MonoBehaviour
             }
         }
         
+        UpdateUI();
+        
         Debug.Log("New quest: #" + quest.GetQuestId() + ", " + quest.GetQuestName());
     }
 
@@ -122,8 +171,11 @@ public class QuestManager : MonoBehaviour
     {
         if (!_inDialog)
         {
-            Debug.LogWarning("Trying to continue dialog but no dialog is active.");    
+            Debug.LogWarning("Trying to continue dialog but no dialog is active.");   
+            return;
         }
+
+        Debug.Log("Continue dialog");
         
         _dialogIndex++;
 
@@ -169,6 +221,18 @@ public class QuestManager : MonoBehaviour
         {
             GiveQuest(questToGive);
         }
+
+        if (quest.GetQuestType() == QuestScript.QuestType.DestroyGameObjects)
+        {
+            foreach (var gameObject in quest.GetOnCompleteDestroyGameObjects())
+            {
+                Destroy(gameObject);
+            }
+        }
+        
+        UpdateUI();
+        
+        Debug.Log("Completed quest: #" + quest.GetQuestId() + ", " + quest.GetQuestName());
     }
 
     public void CompleteQuest(QuestScript questScript)
@@ -194,12 +258,17 @@ public class QuestManager : MonoBehaviour
         return null;
     }
 
-    public void RegisterDialogBeginEvent(Action<QuestScript> callback)
+    public void RegisterDialogBeginEventListener(Action<QuestScript> callback)
     {
         _onDialogBeginCallbacks.Add(callback);
     }
 
-    public void RegisterQuestCompletedEvent(Action<QuestScript> callback)
+    public void RegisterQuestBeginEventListener(Action<QuestScript> callback)
+    {
+        _onQuestBeginCallbacks.Add(callback);
+    }
+
+    public void RegisterQuestCompletedEventListener(Action<QuestScript> callback)
     {
         _onQuestCompletedCallbacks.Add(callback);
     }
