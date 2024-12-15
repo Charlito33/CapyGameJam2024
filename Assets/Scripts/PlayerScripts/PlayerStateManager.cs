@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.Serialization;
+using UnityEngine.UI;
 
 public class PlayerStateManager : MonoBehaviour
 {
@@ -8,25 +10,34 @@ public class PlayerStateManager : MonoBehaviour
         Bad
     }
 
+    private QuestManager _questManager;
+    private TilemapManager _tilemapManager;
     [SerializeField] private float badTimerSeconds = 30.0f;
     [SerializeField] private float badTimerMinimum = 5.0f;
     private float _badTimer;
-    private TilemapManager _tilemapManager;
     
     private PlayerState _state = PlayerState.Default;
     
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    [Header("UI")]
+    [SerializeField] private Image bar;
+
     void Start()
     {
-        _tilemapManager = GameObject.Find("GameManager").GetComponent<TilemapManager>();
+        _questManager = GameObject.Find("/GameManager").GetComponent<QuestManager>();
+        _tilemapManager = GameObject.Find("/GameManager").GetComponent<TilemapManager>();
+        
         _badTimer = badTimerSeconds;
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetButtonDown("Toggle Player State"))
         {
+            if (_questManager.IsDialogActive())
+            {
+                return;
+            }
+            
             TogglePlayerState();
         }
 
@@ -46,6 +57,9 @@ public class PlayerStateManager : MonoBehaviour
                 SetPlayerState(PlayerState.Default);
             }
         }
+        
+        float percent = _badTimer / badTimerSeconds;
+        bar.fillAmount = percent;
     }
 
     private void SetPlayerState(PlayerState state)

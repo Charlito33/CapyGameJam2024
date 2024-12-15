@@ -5,6 +5,8 @@ using UnityEngine.Tilemaps;
 
 public class PlayerController : MonoBehaviour
 {
+    private QuestManager _questManager;
+    
     private Rigidbody2D _rb;
     private Vector2 _movementInput;
     private Vector2 _smoothedMovementInput;
@@ -13,13 +15,13 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float speed;
     [SerializeField] private Tilemap[] happyTilemaps;
     [SerializeField] private Tilemap[] sadTilemaps;
-    private QuestManager _questManager;
     
     private void Start()
     {
+        _questManager = GameObject.Find("/GameManager").GetComponent<QuestManager>();
+        
         movementTransitionTime = 0.15f;
         _rb = GetComponent<Rigidbody2D>();
-        _questManager = GameObject.Find("GameManager").GetComponent<QuestManager>();
     }
 
     private void FixedUpdate()

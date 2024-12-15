@@ -8,7 +8,8 @@ public class PlayerInteractionController : MonoBehaviour
     
     void Start()
     {
-        _questManager = GameObject.Find("GameManager").GetComponent<QuestManager>();
+        _questManager = GameObject.Find("/GameManager").GetComponent<QuestManager>();
+        
         _interactableNpcList = new List<QuestNpcManager>();   
     }
 
@@ -16,11 +17,6 @@ public class PlayerInteractionController : MonoBehaviour
     {
         if (Input.GetButtonDown("Interact"))
         {
-            if (_questManager.IsDialogActive())
-            {
-                return;
-            }
-            
             Interact();
         }
     }
@@ -33,8 +29,12 @@ public class PlayerInteractionController : MonoBehaviour
             return;
         }
         
-        foreach (var npcController in _interactableNpcList)
+        // Copy to avoid editing while foreach
+        List<QuestNpcManager> npcList = new List<QuestNpcManager>(_interactableNpcList);
+        
+        foreach (var npcController in npcList)
         {
+            Debug.Log(npcController.gameObject.name);
             npcController.Interact();
         }
     }
