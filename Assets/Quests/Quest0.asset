@@ -13,19 +13,16 @@ MonoBehaviour:
   m_Name: Quest0
   m_EditorClassIdentifier: 
   _questId: 0
-  _questName: Quest Name
-  _questDescription: Quest Description
-  _questType: 0
+  _questName: Tree Dialog
+  _questDescription: 
+  _questType: 1
   requiredQuests: []
   _autoGiveQuest: 0
-  onCompleteGiveQuests:
-  - {fileID: 11400000, guid: ba8bc8cecb3df204ea600a20c4ae4382, type: 2}
+  onCompleteGiveQuests: []
   dialogs:
-  - actor: Circle
+  - actor: Tree
     text: Hello.
-  - actor: Player
-    text: Hi?
-  - actor: Circle
-    text: Go fuck yourself.
+  - actor: Tree
+    text: I'm a tree.
   destroyGameObjects: []
   teleportPosition: {x: 0, y: 0}

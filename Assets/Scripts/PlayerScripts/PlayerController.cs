@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Tilemaps;
@@ -13,8 +14,14 @@ public class PlayerController : MonoBehaviour
     private Vector2 _movementInputSmoothVelocity;
     [SerializeField] private float movementTransitionTime;
     [SerializeField] private float speed;
+    [SerializeField] private float badSpeed;
     [SerializeField] private Tilemap[] happyTilemaps;
     [SerializeField] private Tilemap[] sadTilemaps;
+    
+    [SerializeField] private PlayerStateManager playerStateManager;
+    
+    [Header("Sprites")]
+    [SerializeField] private List<SpriteRenderer> sprites;
     
     private void Start()
     {
@@ -26,11 +33,22 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        //if (_questManager.IsDialogActive())
-        //{
-        //    _rb.linearVelocity = Vector2.zero;
-        //    return;
-        //}
+        if (_questManager.IsDialogActive())
+        {
+            _rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
+        float speedyVariable = 0.0f;
+
+        if (playerStateManager.GetPlayerState() == PlayerStateManager.PlayerState.Default)
+        {
+            speedyVariable = speed;
+        }
+        if (playerStateManager.GetPlayerState() == PlayerStateManager.PlayerState.Bad)
+        {
+            speedyVariable = badSpeed;
+        }
         
         var h = Input.GetAxisRaw("Horizontal");
         var v = Input.GetAxisRaw("Vertical");
@@ -42,6 +60,21 @@ public class PlayerController : MonoBehaviour
             ref _movementInputSmoothVelocity,
             movementTransitionTime
         );
-        _rb.linearVelocity = _smoothedMovementInput * (Time.fixedDeltaTime * speed);
+        _rb.linearVelocity = _smoothedMovementInput * (Time.fixedDeltaTime * speedyVariable);
+
+        if ((_smoothedMovementInput * (Time.fixedDeltaTime * speedyVariable)).x < 0.0f)
+        {
+            foreach (var s in sprites)
+            {
+                s.flipX = true;
+            }
+        }
+        if ((_smoothedMovementInput * (Time.fixedDeltaTime * speedyVariable)).x > 0.0f)
+        {
+            foreach (var s in sprites)
+            {
+                s.flipX = false;
+            }
+        }
     }
 }
