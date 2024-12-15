@@ -12,11 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a3e624dafd562447816c94c30b24f86, type: 3}
   m_Name: Quest3
   m_EditorClassIdentifier: 
-  requiredQuests:
-  - {fileID: 11400000}
-  onCompleteGiveQuests:
-  - {fileID: 11400000, guid: ed0e2793b12938a42a022fa498f3aa92, type: 2}
+  _questId: 3
+  _questName: Item
+  _questDescription: 
+  _questType: 2
+  requiredQuests: []
+  _autoGiveQuest: 0
+  onCompleteGiveQuests: []
   dialogs:
   - actor: Celeste
     text: Not Done
   destroyGameObjects: []
+  teleportPosition: {x: 0, y: 0}

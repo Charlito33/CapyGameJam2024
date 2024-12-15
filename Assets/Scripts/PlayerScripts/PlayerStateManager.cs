@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.Serialization;
 using UnityEngine.UI;
@@ -18,6 +19,11 @@ public class PlayerStateManager : MonoBehaviour
     
     private PlayerState _state = PlayerState.Default;
     
+    [Header("Music")]
+    [SerializeField] private AudioSource defaultMusicAudioSource;
+    [SerializeField] private AudioSource badMusicAudioSource;
+    [SerializeField] private float fadeTimeSeconds;
+    
     [Header("UI")]
     [SerializeField] private Image bar;
 
@@ -27,6 +33,8 @@ public class PlayerStateManager : MonoBehaviour
         _tilemapManager = GameObject.Find("/GameManager").GetComponent<TilemapManager>();
         
         _badTimer = badTimerSeconds;
+        
+        UpdateMusic();
     }
 
     void Update()
@@ -62,6 +70,45 @@ public class PlayerStateManager : MonoBehaviour
         bar.fillAmount = percent;
     }
 
+    private IEnumerator FadeIn(AudioSource audioSource)
+    {
+        var timeElapsed = 0.0f;
+
+        while (audioSource.volume < 1.0f) 
+        {
+            audioSource.volume = Mathf.Lerp(0, 1, timeElapsed / fadeTimeSeconds);
+            timeElapsed += Time.deltaTime;
+            yield return null;
+        }
+    }
+
+    private IEnumerator FadeOut(AudioSource audioSource)
+    {
+        var timeElapsed = 0.0f;
+
+        while (audioSource.volume > 0.0f) 
+        {
+            audioSource.volume = Mathf.Lerp(1, 0, timeElapsed / fadeTimeSeconds);
+            timeElapsed += Time.deltaTime;
+            yield return null;
+        }
+    }
+
+    private void UpdateMusic()
+    {
+        if (_state == PlayerState.Default)
+        {
+            StartCoroutine(FadeIn(defaultMusicAudioSource));
+            StartCoroutine(FadeOut(badMusicAudioSource));
+        }
+
+        if (_state == PlayerState.Bad)
+        {
+            StartCoroutine(FadeOut(defaultMusicAudioSource));
+            StartCoroutine(FadeIn(badMusicAudioSource));
+        }
+    }
+
     private void SetPlayerState(PlayerState state)
     {
         _state = state;
@@ -74,6 +121,8 @@ public class PlayerStateManager : MonoBehaviour
         {
             _tilemapManager.SwitchTilemap(TilemapManager.TilemapType.Bad);
         }
+        
+        UpdateMusic();
     }
 
     public bool TogglePlayerState()

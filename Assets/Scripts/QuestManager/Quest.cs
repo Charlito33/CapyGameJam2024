@@ -18,18 +18,20 @@ public class QuestScript : ScriptableObject
         Manual,
         Dialog,
         Item,
-        DestroyGameObjects
+        DestroyGameObjects,
+        TeleportPlayer
     }
     
-    private ulong _questId;
-    private string _questName = "Quest Name";
-    private string _questDescription = "Quest Description";
-    private QuestType _questType = QuestType.Manual;
-    [SerializeField] private List<QuestScript> requiredQuests;
-    private bool _autoGiveQuest;
-    [SerializeField] private List<QuestScript> onCompleteGiveQuests;
-    [SerializeField] private List<Dialog> dialogs;
-    [SerializeField] private List<string> destroyGameObjects;
+    public ulong _questId;
+    public string _questName = "Quest Name";
+    public string _questDescription = "Quest Description";
+    public QuestType _questType = QuestType.Manual;
+    [SerializeField] public List<QuestScript> requiredQuests;
+    public bool _autoGiveQuest;
+    [SerializeField] public List<QuestScript> onCompleteGiveQuests;
+    [SerializeField] public List<Dialog> dialogs;
+    [SerializeField] public List<string> destroyGameObjects;
+    [SerializeField] public Vector2 teleportPosition;
 
     public void Log()
     {
@@ -92,47 +94,9 @@ public class QuestScript : ScriptableObject
         
         return gameObjects;
     }
-    
-    [CustomEditor(typeof(QuestScript))]
-    public class QuestInspector : Editor
+
+    public Vector2 GetTeleportPosition()
     {
-        private QuestScript quest;
-    
-        private void Awake()
-        {
-            quest = target as QuestScript;
-        }
-
-        private ulong ULongField(string label, ulong value)
-        {
-            long v = (long) value;
-
-            v = EditorGUILayout.LongField(label, v);
-            if (v < 0)
-            {
-                v = 0;
-            } 
-            return (ulong) v;
-        }
-
-        public override void OnInspectorGUI()
-        {
-            quest._questId = ULongField("Id", quest._questId);
-            quest._questName = EditorGUILayout.TextField("Name", quest._questName);
-            quest._questDescription = EditorGUILayout.TextField("Description", quest._questDescription);
-            quest._questType = (QuestType) EditorGUILayout.EnumPopup("Type", quest._questType);
-            quest._autoGiveQuest = EditorGUILayout.Toggle("Auto-Give", quest._autoGiveQuest);
-            if (quest._questType == QuestType.Dialog)
-            {
-                EditorGUILayout.PropertyField(serializedObject.FindProperty("dialogs"));
-            }
-            if (quest._questType == QuestType.DestroyGameObjects)
-            {
-                EditorGUILayout.PropertyField(serializedObject.FindProperty("destroyGameObjects"));
-            }
-            EditorGUILayout.PropertyField(serializedObject.FindProperty("requiredQuests"));
-            EditorGUILayout.PropertyField(serializedObject.FindProperty("onCompleteGiveQuests"));
-            serializedObject.ApplyModifiedProperties();
-        }
+        return teleportPosition;
     }
 }

@@ -12,9 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a3e624dafd562447816c94c30b24f86, type: 3}
   m_Name: Quest1
   m_EditorClassIdentifier: 
+  _questId: 1
+  _questName: Quest Name
+  _questDescription: Quest Description
+  _questType: 0
   requiredQuests:
   - {fileID: 11400000, guid: ce6324836bbdfed40b0b800a2685f4e6, type: 2}
+  _autoGiveQuest: 0
   onCompleteGiveQuests: []
   dialogs:
   - actor: Celeste
     text: Not Done
+  destroyGameObjects: []
+  teleportPosition: {x: 0, y: 0}

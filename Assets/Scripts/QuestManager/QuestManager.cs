@@ -5,6 +5,10 @@ using UnityEngine;
 
 public class QuestManager : MonoBehaviour
 {
+    [Header("Config")]
+    [SerializeField] private PlayerController player;
+    
+    [Header("Quests")]
     [SerializeField] private List<QuestScript> questScripts;
     
     private Dictionary<ulong, QuestScript> _quests;
@@ -54,7 +58,7 @@ public class QuestManager : MonoBehaviour
         {
             if (!questScript.IsQuestAutoGiven() || !AreQuestsCompleted(questScript.GetRequiredQuests()))
             {
-                return;
+                continue;
             }
             GiveQuest(questScript);
         }
@@ -138,7 +142,7 @@ public class QuestManager : MonoBehaviour
             callback(quest);
         }
         
-        if (quest.GetQuestType() == QuestScript.QuestType.Item || quest.GetQuestType() == QuestScript.QuestType.DestroyGameObjects)
+        if (quest.GetQuestType() == QuestScript.QuestType.Item || quest.GetQuestType() == QuestScript.QuestType.DestroyGameObjects || quest.GetQuestType() == QuestScript.QuestType.TeleportPlayer)
         {
             CompleteQuest(quest);
         }
@@ -229,7 +233,13 @@ public class QuestManager : MonoBehaviour
                 Destroy(gameObject);
             }
         }
+
+        if (quest.GetQuestType() == QuestScript.QuestType.TeleportPlayer)
+        {
+            player.transform.position = quest.GetTeleportPosition();
+        }
         
+        UpdateQuests();
         UpdateUI();
         
         Debug.Log("Completed quest: #" + quest.GetQuestId() + ", " + quest.GetQuestName());
