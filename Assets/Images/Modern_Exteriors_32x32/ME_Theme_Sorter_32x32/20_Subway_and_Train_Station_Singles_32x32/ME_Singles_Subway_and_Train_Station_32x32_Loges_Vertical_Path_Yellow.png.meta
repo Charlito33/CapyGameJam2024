@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Loges_Vertical_Path_Yellow_0: 1602188396387271747
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

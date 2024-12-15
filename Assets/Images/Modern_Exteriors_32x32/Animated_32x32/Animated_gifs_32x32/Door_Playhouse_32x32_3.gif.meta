@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Door_Playhouse_32x32_3_0: 6418886276909547563
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

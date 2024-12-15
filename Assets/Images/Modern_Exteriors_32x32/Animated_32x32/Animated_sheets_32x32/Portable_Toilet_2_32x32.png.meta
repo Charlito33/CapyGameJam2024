@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Portable_Toilet_2_32x32_0: 4662700472763894611
+      Portable_Toilet_2_32x32_1: 3074634205708083724
+      Portable_Toilet_2_32x32_10: -9031473338945634734
+      Portable_Toilet_2_32x32_11: -8224144584851474561
+      Portable_Toilet_2_32x32_12: 7802662904181990923
+      Portable_Toilet_2_32x32_13: 2402359318471937204
+      Portable_Toilet_2_32x32_2: -1400886177472280924
+      Portable_Toilet_2_32x32_3: 7352478439217541289
+      Portable_Toilet_2_32x32_4: -7947532780675186561
+      Portable_Toilet_2_32x32_5: -6302888826338916381
+      Portable_Toilet_2_32x32_6: -8869507661720435713
+      Portable_Toilet_2_32x32_7: 5893847018328550537
+      Portable_Toilet_2_32x32_8: 1011208722877883259
+      Portable_Toilet_2_32x32_9: -6867600305810372446
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

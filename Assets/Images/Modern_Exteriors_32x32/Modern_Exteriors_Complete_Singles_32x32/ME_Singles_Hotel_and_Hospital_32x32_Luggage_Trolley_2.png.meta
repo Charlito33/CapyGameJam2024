@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Hotel_and_Hospital_32x32_Luggage_Trolley_2_0: -316645682049237969
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

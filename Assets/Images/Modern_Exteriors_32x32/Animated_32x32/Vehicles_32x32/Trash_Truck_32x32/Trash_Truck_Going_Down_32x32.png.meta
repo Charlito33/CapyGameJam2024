@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Trash_Truck_Going_Down_32x32_0: -2024902554924693290
+      Trash_Truck_Going_Down_32x32_1: -682829196378904907
+      Trash_Truck_Going_Down_32x32_2: 707298197233205741
+      Trash_Truck_Going_Down_32x32_3: -6948054635187073661
+      Trash_Truck_Going_Down_32x32_4: 3416468698524406765
+      Trash_Truck_Going_Down_32x32_5: -1503085879444480093
+      Trash_Truck_Going_Down_32x32_6: 1902492379469994010
+      Trash_Truck_Going_Down_32x32_7: 8473813683007182800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

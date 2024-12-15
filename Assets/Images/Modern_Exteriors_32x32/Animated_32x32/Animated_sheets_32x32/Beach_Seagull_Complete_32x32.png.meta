@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Seagull_Complete_32x32_0: -8356839964712698525
+      Beach_Seagull_Complete_32x32_1: -7216673101224455063
+      Beach_Seagull_Complete_32x32_10: -5805779965543649077
+      Beach_Seagull_Complete_32x32_11: -8332878103600328180
+      Beach_Seagull_Complete_32x32_12: -1088761185514758523
+      Beach_Seagull_Complete_32x32_13: 2077435863175023195
+      Beach_Seagull_Complete_32x32_14: -8385086411032451762
+      Beach_Seagull_Complete_32x32_15: -1816397464713901124
+      Beach_Seagull_Complete_32x32_16: 4097235623676229771
+      Beach_Seagull_Complete_32x32_17: -1915954012149490262
+      Beach_Seagull_Complete_32x32_18: -6235401816974588417
+      Beach_Seagull_Complete_32x32_19: -8801999656229179726
+      Beach_Seagull_Complete_32x32_2: -8218993709688795061
+      Beach_Seagull_Complete_32x32_20: 2995131579824079305
+      Beach_Seagull_Complete_32x32_21: -3861479850896310359
+      Beach_Seagull_Complete_32x32_22: -4347393333090872666
+      Beach_Seagull_Complete_32x32_23: -6412788892942508922
+      Beach_Seagull_Complete_32x32_24: 4677605692316748300
+      Beach_Seagull_Complete_32x32_25: 8576981991368286321
+      Beach_Seagull_Complete_32x32_26: -1613626332659194886
+      Beach_Seagull_Complete_32x32_27: -3495818861907538826
+      Beach_Seagull_Complete_32x32_3: 2434586862142015232
+      Beach_Seagull_Complete_32x32_4: 8322377477530450073
+      Beach_Seagull_Complete_32x32_5: -1905179668385540111
+      Beach_Seagull_Complete_32x32_6: 2171905732869919522
+      Beach_Seagull_Complete_32x32_7: 8623361932765626450
+      Beach_Seagull_Complete_32x32_8: 8867417694956980503
+      Beach_Seagull_Complete_32x32_9: 5716878254821022435
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

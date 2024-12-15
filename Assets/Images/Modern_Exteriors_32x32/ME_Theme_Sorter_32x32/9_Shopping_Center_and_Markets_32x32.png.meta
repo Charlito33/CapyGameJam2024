@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      9_Shopping_Center_and_Markets_32x32_0: 6653725125889523827
+      9_Shopping_Center_and_Markets_32x32_1: -7480332476636725928
+      9_Shopping_Center_and_Markets_32x32_10: 3849973685468711625
+      9_Shopping_Center_and_Markets_32x32_11: -6767253470407113460
+      9_Shopping_Center_and_Markets_32x32_12: 1984903024580269076
+      9_Shopping_Center_and_Markets_32x32_13: -8390374807833949506
+      9_Shopping_Center_and_Markets_32x32_14: -7806024921550076013
+      9_Shopping_Center_and_Markets_32x32_2: -8487926783148667075
+      9_Shopping_Center_and_Markets_32x32_3: 1409117878488391470
+      9_Shopping_Center_and_Markets_32x32_4: -1679313205577385010
+      9_Shopping_Center_and_Markets_32x32_5: 8005900199715926957
+      9_Shopping_Center_and_Markets_32x32_6: -7681293385751375242
+      9_Shopping_Center_and_Markets_32x32_7: -6739040959527210902
+      9_Shopping_Center_and_Markets_32x32_8: -4774758499094644648
+      9_Shopping_Center_and_Markets_32x32_9: 8159474615820492033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

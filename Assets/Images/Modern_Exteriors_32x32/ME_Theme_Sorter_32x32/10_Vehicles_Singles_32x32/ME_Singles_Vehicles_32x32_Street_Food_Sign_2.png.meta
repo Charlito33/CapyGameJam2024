@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Street_Food_Sign_2_0: 3086018021287238799
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Gas_Station_Price_Digit_7_0: 1668777887322011634
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

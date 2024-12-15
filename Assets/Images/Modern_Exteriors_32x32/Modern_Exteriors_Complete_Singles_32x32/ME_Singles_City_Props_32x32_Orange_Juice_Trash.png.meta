@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Orange_Juice_Trash_0: -6230328606981288078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

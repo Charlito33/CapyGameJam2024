@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Office_Door_Lime_Corp_1_32x32_0: -2717266599134821469
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

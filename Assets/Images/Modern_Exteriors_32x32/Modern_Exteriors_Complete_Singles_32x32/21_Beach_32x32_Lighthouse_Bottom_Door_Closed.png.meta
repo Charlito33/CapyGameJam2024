@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Lighthouse_Bottom_Door_Closed_0: 6944164144666068916
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

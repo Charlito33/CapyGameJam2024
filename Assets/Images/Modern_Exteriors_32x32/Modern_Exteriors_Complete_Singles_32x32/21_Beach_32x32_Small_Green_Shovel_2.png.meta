@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Small_Green_Shovel_2_0: 8594073715415279295
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire_Hydrant_Water_Jet_Modular_Bottom_Part_32x32_0: -5899191518920000234
+      Fire_Hydrant_Water_Jet_Modular_Bottom_Part_32x32_1: 6038984104130393188
+      Fire_Hydrant_Water_Jet_Modular_Bottom_Part_32x32_2: 5021933236479103953
+      Fire_Hydrant_Water_Jet_Modular_Bottom_Part_32x32_3: 5729379708820617006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

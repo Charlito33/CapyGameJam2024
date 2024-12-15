@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Example_Four_Sand_Mountains_0: -6628913798251477497
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

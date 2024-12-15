@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Swimming_Pool_32x32_Lifesaver_Holder_2_0: 7906397225082058698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

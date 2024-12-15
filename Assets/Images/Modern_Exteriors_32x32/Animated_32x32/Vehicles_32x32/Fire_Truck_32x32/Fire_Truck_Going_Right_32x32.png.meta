@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire_Truck_Going_Right_32x32_0: -8309517299873385511
+      Fire_Truck_Going_Right_32x32_1: -7079242334867323908
+      Fire_Truck_Going_Right_32x32_2: 7740680338777089819
+      Fire_Truck_Going_Right_32x32_3: 2236441076891359499
+      Fire_Truck_Going_Right_32x32_4: 2422363683121643910
+      Fire_Truck_Going_Right_32x32_5: 2128110908496581957
+      Fire_Truck_Going_Right_32x32_6: -729852344469749161
+      Fire_Truck_Going_Right_32x32_7: 3378407099642571151
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

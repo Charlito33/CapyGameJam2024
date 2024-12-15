@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Generic_Building_32x32_Condo_9_Roof_Exit_1_0: -1732508102631551698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

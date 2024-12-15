@@ -597,7 +597,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Subway_Turnstile_32x32_0: -5088356622495921566
+      Subway_Turnstile_32x32_1: -2238729558023622816
+      Subway_Turnstile_32x32_10: 7064772583640010400
+      Subway_Turnstile_32x32_11: -7046145496535052283
+      Subway_Turnstile_32x32_12: -5384816551778653112
+      Subway_Turnstile_32x32_13: 7152004603421441798
+      Subway_Turnstile_32x32_14: -3941729604990234858
+      Subway_Turnstile_32x32_15: 461477297815883204
+      Subway_Turnstile_32x32_16: 8419564166097236319
+      Subway_Turnstile_32x32_17: -1461816721596517073
+      Subway_Turnstile_32x32_18: 6241258454389728428
+      Subway_Turnstile_32x32_2: 6650572293820984267
+      Subway_Turnstile_32x32_3: -1714681138928481538
+      Subway_Turnstile_32x32_4: 1100788789037582975
+      Subway_Turnstile_32x32_5: -6282064609258728487
+      Subway_Turnstile_32x32_6: 280893989544994741
+      Subway_Turnstile_32x32_7: 5342282348767421452
+      Subway_Turnstile_32x32_8: -1784473915593776444
+      Subway_Turnstile_32x32_9: 5952481980440670974
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

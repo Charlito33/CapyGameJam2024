@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Small_Broken_Arch_Sea_Rock_3_Vers_1_0: 5502639868197473279
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

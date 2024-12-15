@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Flowers_4_0: -3655343833280953475
+      ME_Singles_City_Props_32x32_Flowers_4_1: 2038851489016028270
+      ME_Singles_City_Props_32x32_Flowers_4_2: -3781755652270955940
+      ME_Singles_City_Props_32x32_Flowers_4_3: 174982668980962021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

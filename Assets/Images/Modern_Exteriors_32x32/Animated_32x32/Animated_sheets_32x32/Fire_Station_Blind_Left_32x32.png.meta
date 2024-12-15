@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire_Station_Blind_Left_32x32_0: -6197912430388177424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

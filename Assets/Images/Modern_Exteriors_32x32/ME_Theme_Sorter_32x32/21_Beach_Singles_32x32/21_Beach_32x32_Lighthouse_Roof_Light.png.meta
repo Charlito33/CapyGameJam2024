@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Lighthouse_Roof_Light_0: 4919299633301594075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

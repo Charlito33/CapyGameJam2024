@@ -772,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Delivery_Truck_Door_32x32_0: 12446205680400512
+      Delivery_Truck_Door_32x32_1: 3906267212401055200
+      Delivery_Truck_Door_32x32_10: 2167316960667961544
+      Delivery_Truck_Door_32x32_11: 5848539735123182253
+      Delivery_Truck_Door_32x32_12: 988971747309127775
+      Delivery_Truck_Door_32x32_13: 5977065793958275264
+      Delivery_Truck_Door_32x32_14: 2750170986192339477
+      Delivery_Truck_Door_32x32_15: 4304584941452583803
+      Delivery_Truck_Door_32x32_16: -4562484308535078132
+      Delivery_Truck_Door_32x32_17: -8817609154911583580
+      Delivery_Truck_Door_32x32_18: -8929763695906764096
+      Delivery_Truck_Door_32x32_19: 7251977394066439029
+      Delivery_Truck_Door_32x32_2: 4365425006675646954
+      Delivery_Truck_Door_32x32_20: -5736050460251791923
+      Delivery_Truck_Door_32x32_21: -6650548241289128571
+      Delivery_Truck_Door_32x32_22: -1218078078901827302
+      Delivery_Truck_Door_32x32_23: 2609741701692847086
+      Delivery_Truck_Door_32x32_24: -8779662645156107159
+      Delivery_Truck_Door_32x32_25: -9063764278304958571
+      Delivery_Truck_Door_32x32_3: -2275518959559763758
+      Delivery_Truck_Door_32x32_4: -636548983369149809
+      Delivery_Truck_Door_32x32_5: 1001962113520710187
+      Delivery_Truck_Door_32x32_6: 1629231184399034560
+      Delivery_Truck_Door_32x32_7: 8428486110708787887
+      Delivery_Truck_Door_32x32_8: 2715384100950278934
+      Delivery_Truck_Door_32x32_9: 2963383860484855951
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

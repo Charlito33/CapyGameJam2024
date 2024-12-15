@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Little_Sprout_5_0: 1858074539961852916
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

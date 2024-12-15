@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Garden_Tool_Shack_Door_3_32x32_0: -8679825375988670421
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

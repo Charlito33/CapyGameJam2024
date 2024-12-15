@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Concert_Laser_Machine_White_Light_32x32_0: 1891543416331550678
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

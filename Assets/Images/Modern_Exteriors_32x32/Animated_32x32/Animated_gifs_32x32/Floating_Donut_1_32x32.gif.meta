@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floating_Donut_1_32x32_0: -7675353824551532275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

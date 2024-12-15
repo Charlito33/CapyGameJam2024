@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Musician_Stand_0: -6507312958918146285
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

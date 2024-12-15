@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Police_Box_Door_1_32x32_0: 5782096344253795852
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

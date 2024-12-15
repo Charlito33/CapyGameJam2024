@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Worksite_Door_32x32_0: -3604109648396230468
+      Worksite_Door_32x32_1: -5608788884424094183
+      Worksite_Door_32x32_10: 5910787997747077881
+      Worksite_Door_32x32_11: 986242635788297944
+      Worksite_Door_32x32_12: 6588399008675979285
+      Worksite_Door_32x32_13: -4559032142549569290
+      Worksite_Door_32x32_2: 4391096480899031343
+      Worksite_Door_32x32_3: 9146053747269372828
+      Worksite_Door_32x32_4: -8794814469277690527
+      Worksite_Door_32x32_5: 5519850692971953793
+      Worksite_Door_32x32_6: -5340268979086981815
+      Worksite_Door_32x32_7: 4160312099335706266
+      Worksite_Door_32x32_8: -8625203491857249452
+      Worksite_Door_32x32_9: -649991039470183677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Graveyard_Candle_7_32x32_0: 3572865409546131294
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

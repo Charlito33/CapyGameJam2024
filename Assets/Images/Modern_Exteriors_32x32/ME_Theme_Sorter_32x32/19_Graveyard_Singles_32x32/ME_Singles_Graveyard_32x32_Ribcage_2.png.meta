@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Ribcage_2_0: 6769060861455815112
+      ME_Singles_Graveyard_32x32_Ribcage_2_1: 8694183070484897100
+      ME_Singles_Graveyard_32x32_Ribcage_2_2: 5483847533084885404
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

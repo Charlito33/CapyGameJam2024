@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Yellow_Small_Starfish_0: 1120723785984050612
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

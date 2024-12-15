@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Metropolis_Building_2_Door_1_32x32_0: 3855945795541092677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

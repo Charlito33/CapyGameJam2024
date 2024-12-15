@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Blue_Beach_Umbrella_Closed_0: -7666914032497758696
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

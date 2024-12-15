@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Terrains_32x32_Asphalt_1_Variation_15_0: 9065638100993661136
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

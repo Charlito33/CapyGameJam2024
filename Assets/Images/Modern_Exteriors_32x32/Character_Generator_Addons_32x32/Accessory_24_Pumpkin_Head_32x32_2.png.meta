@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Accessory_24_Pumpkin_Head_32x32_2_0: -6749107946340624144
+      Accessory_24_Pumpkin_Head_32x32_2_1: -5776716873327580098
+      Accessory_24_Pumpkin_Head_32x32_2_10: -7117254378277427372
+      Accessory_24_Pumpkin_Head_32x32_2_11: -7648876763217389235
+      Accessory_24_Pumpkin_Head_32x32_2_12: 4655004025516468562
+      Accessory_24_Pumpkin_Head_32x32_2_13: -776155780286013548
+      Accessory_24_Pumpkin_Head_32x32_2_14: 3327312494436159004
+      Accessory_24_Pumpkin_Head_32x32_2_15: -5833671589309611333
+      Accessory_24_Pumpkin_Head_32x32_2_16: 913208339365645864
+      Accessory_24_Pumpkin_Head_32x32_2_17: -5445320736102724179
+      Accessory_24_Pumpkin_Head_32x32_2_18: -5938978116011008249
+      Accessory_24_Pumpkin_Head_32x32_2_19: -781745539355195863
+      Accessory_24_Pumpkin_Head_32x32_2_2: -3610146734787399384
+      Accessory_24_Pumpkin_Head_32x32_2_3: 4408134394065588834
+      Accessory_24_Pumpkin_Head_32x32_2_4: -1473847891429651001
+      Accessory_24_Pumpkin_Head_32x32_2_5: -1596728442757908761
+      Accessory_24_Pumpkin_Head_32x32_2_6: 8698862101930544832
+      Accessory_24_Pumpkin_Head_32x32_2_7: -3686046866075780725
+      Accessory_24_Pumpkin_Head_32x32_2_8: -5336660341950647967
+      Accessory_24_Pumpkin_Head_32x32_2_9: -35485248123397999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

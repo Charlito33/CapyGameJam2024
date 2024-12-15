@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Traffic_Sign_Modular_11_0: -2951603746866360931
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_School_32x32_School_Yard_Toy_4_0: -298014248150041015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

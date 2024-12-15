@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Water_Buoy_2_32x32_0: -5944304841141867717
+      Beach_Water_Buoy_2_32x32_1: -2758788675535273769
+      Beach_Water_Buoy_2_32x32_2: -7250560860948606886
+      Beach_Water_Buoy_2_32x32_3: -848479377581957086
+      Beach_Water_Buoy_2_32x32_4: 3484924685811840448
+      Beach_Water_Buoy_2_32x32_5: -3818507040761720966
+      Beach_Water_Buoy_2_32x32_6: 1575397857230397801
+      Beach_Water_Buoy_2_32x32_7: 4855266962208094421
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

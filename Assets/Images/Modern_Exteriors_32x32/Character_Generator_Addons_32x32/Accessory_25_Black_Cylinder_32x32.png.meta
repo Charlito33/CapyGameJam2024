@@ -597,7 +597,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Accessory_25_Black_Cylinder_32x32_0: -3568758170390853056
+      Accessory_25_Black_Cylinder_32x32_1: 889976151831929899
+      Accessory_25_Black_Cylinder_32x32_10: -396868301264819978
+      Accessory_25_Black_Cylinder_32x32_11: 7683606333267669495
+      Accessory_25_Black_Cylinder_32x32_12: 3616416220068117180
+      Accessory_25_Black_Cylinder_32x32_13: 8966658635670537859
+      Accessory_25_Black_Cylinder_32x32_14: 5631616128883956303
+      Accessory_25_Black_Cylinder_32x32_15: -6446399357399012349
+      Accessory_25_Black_Cylinder_32x32_16: 4955072899830493265
+      Accessory_25_Black_Cylinder_32x32_17: -1201375780862440212
+      Accessory_25_Black_Cylinder_32x32_18: 7125483104791681090
+      Accessory_25_Black_Cylinder_32x32_2: 4751644612597663478
+      Accessory_25_Black_Cylinder_32x32_3: -6989732029052369968
+      Accessory_25_Black_Cylinder_32x32_4: -2064240879313230366
+      Accessory_25_Black_Cylinder_32x32_5: 5197652921230535839
+      Accessory_25_Black_Cylinder_32x32_6: 3118414363215344718
+      Accessory_25_Black_Cylinder_32x32_7: 1712832957586207636
+      Accessory_25_Black_Cylinder_32x32_8: 5321184397099119604
+      Accessory_25_Black_Cylinder_32x32_9: 8531025090113526220
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

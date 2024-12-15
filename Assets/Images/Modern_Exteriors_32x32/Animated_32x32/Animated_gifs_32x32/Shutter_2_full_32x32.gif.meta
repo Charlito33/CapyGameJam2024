@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shutter_2_full_32x32_0: -5717954721009391653
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

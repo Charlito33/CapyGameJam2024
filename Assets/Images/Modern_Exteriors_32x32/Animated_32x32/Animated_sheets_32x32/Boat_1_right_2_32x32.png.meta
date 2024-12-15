@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boat_1_right_2_32x32_0: 8916051155618719145
+      Boat_1_right_2_32x32_1: 6195495391267602418
+      Boat_1_right_2_32x32_2: -5246965557586112518
+      Boat_1_right_2_32x32_3: -4042864960106760511
+      Boat_1_right_2_32x32_4: -6135276040747830656
+      Boat_1_right_2_32x32_5: 7025567513799701817
+      Boat_1_right_2_32x32_6: 8138864028463534047
+      Boat_1_right_2_32x32_7: 8839913924164387941
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Yellow_Beach_Towel_1_0: -4967995431076789861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

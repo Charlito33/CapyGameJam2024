@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floating_Dragon_1_32x32_0: -2110608184814227627
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

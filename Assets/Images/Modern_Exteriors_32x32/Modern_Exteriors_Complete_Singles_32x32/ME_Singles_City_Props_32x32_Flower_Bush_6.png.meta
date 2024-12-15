@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Flower_Bush_6_0: -4862471865874096037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

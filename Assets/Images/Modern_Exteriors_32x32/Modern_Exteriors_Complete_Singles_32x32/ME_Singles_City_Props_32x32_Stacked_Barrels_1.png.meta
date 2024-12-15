@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Stacked_Barrels_1_0: 6807777451514576818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

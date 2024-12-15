@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Stage_Fog_Machine_Complete_32x32_0: 2780307819339378063
+      Beach_Stage_Fog_Machine_Complete_32x32_1: 2367846888197627735
+      Beach_Stage_Fog_Machine_Complete_32x32_10: 4868645181771273045
+      Beach_Stage_Fog_Machine_Complete_32x32_11: 742986644491902278
+      Beach_Stage_Fog_Machine_Complete_32x32_12: 2873481046181532958
+      Beach_Stage_Fog_Machine_Complete_32x32_13: -7043115359607845999
+      Beach_Stage_Fog_Machine_Complete_32x32_14: 2209754326286394062
+      Beach_Stage_Fog_Machine_Complete_32x32_15: 2023692881943879871
+      Beach_Stage_Fog_Machine_Complete_32x32_2: -1511090660648287835
+      Beach_Stage_Fog_Machine_Complete_32x32_3: 6193541227042798153
+      Beach_Stage_Fog_Machine_Complete_32x32_4: -2698422073760792694
+      Beach_Stage_Fog_Machine_Complete_32x32_5: -7626857315653078738
+      Beach_Stage_Fog_Machine_Complete_32x32_6: 3945079099678091450
+      Beach_Stage_Fog_Machine_Complete_32x32_7: -4199293165089266785
+      Beach_Stage_Fog_Machine_Complete_32x32_8: 636445220814562217
+      Beach_Stage_Fog_Machine_Complete_32x32_9: -4935693052491537539
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

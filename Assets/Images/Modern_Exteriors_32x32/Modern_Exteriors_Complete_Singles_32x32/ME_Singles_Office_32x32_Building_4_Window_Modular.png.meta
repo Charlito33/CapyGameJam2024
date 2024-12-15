@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Office_32x32_Building_4_Window_Modular_0: -3782326175633498685
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Fire_Station_32x32_Fire_Truck_Left_0: -8719497371414212256
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

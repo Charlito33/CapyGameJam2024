@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Grace_Chapel_0: 1693661170584808334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

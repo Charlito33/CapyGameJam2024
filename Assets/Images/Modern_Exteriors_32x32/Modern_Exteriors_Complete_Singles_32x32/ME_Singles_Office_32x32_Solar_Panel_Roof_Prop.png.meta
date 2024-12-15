@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Office_32x32_Solar_Panel_Roof_Prop_0: -934117965546024435
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

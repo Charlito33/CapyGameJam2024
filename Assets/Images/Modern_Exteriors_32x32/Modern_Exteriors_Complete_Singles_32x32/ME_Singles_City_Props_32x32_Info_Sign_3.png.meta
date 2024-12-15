@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Info_Sign_3_0: -9022981183951126997
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

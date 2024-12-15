@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Big_Tunnel_Left_Side_0: 6482547523703678128
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

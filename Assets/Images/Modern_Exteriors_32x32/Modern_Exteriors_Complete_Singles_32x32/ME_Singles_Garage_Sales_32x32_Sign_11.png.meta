@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Garage_Sales_32x32_Sign_11_0: -6798879822687674194
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

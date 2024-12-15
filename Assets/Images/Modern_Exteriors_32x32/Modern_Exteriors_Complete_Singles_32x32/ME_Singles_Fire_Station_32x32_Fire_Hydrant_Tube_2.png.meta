@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Fire_Station_32x32_Fire_Hydrant_Tube_2_0: 3824342697198419204
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

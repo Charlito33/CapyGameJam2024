@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Spotlight_1_Head_Only_Light_32x32_0: 6301491418709058199
+      Spotlight_1_Head_Only_Light_32x32_1: 5179044234173665206
+      Spotlight_1_Head_Only_Light_32x32_10: -1977854616693802446
+      Spotlight_1_Head_Only_Light_32x32_11: -2148485753408809741
+      Spotlight_1_Head_Only_Light_32x32_2: 4770442799462208744
+      Spotlight_1_Head_Only_Light_32x32_3: -8416177790862474751
+      Spotlight_1_Head_Only_Light_32x32_4: -2012195737813618142
+      Spotlight_1_Head_Only_Light_32x32_5: -2764481099248881310
+      Spotlight_1_Head_Only_Light_32x32_6: 307462184003347699
+      Spotlight_1_Head_Only_Light_32x32_7: -2312122613732878901
+      Spotlight_1_Head_Only_Light_32x32_8: -7101073590500771178
+      Spotlight_1_Head_Only_Light_32x32_9: -605213496353549460
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

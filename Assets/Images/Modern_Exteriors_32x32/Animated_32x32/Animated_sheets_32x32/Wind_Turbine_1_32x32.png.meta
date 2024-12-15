@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wind_Turbine_1_32x32_0: -4017658684519550023
+      Wind_Turbine_1_32x32_1: 258508143735110983
+      Wind_Turbine_1_32x32_2: 1952394963714382874
+      Wind_Turbine_1_32x32_3: 5879419644907212727
+      Wind_Turbine_1_32x32_4: 401831113251451522
+      Wind_Turbine_1_32x32_5: 3202267849237265377
+      Wind_Turbine_1_32x32_6: 5753130168722296417
+      Wind_Turbine_1_32x32_7: 240735217795864621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

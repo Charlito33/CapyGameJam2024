@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pigeon_2_32x32_0: -2116086020829538188
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

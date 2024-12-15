@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Beach_Volley_Field_Line_Left_Down_0: 9161076866102523834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

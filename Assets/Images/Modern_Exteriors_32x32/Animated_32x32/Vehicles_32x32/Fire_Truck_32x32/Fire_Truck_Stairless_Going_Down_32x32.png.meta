@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire_Truck_Stairless_Going_Down_32x32_0: 2965675120464705596
+      Fire_Truck_Stairless_Going_Down_32x32_1: -3299340401693385637
+      Fire_Truck_Stairless_Going_Down_32x32_2: 1949525682510212269
+      Fire_Truck_Stairless_Going_Down_32x32_3: 1327035274930612295
+      Fire_Truck_Stairless_Going_Down_32x32_4: -6959961919422327708
+      Fire_Truck_Stairless_Going_Down_32x32_5: -3059343841761320397
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

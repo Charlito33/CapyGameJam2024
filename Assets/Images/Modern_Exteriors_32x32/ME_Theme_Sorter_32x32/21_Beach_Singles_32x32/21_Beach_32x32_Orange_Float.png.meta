@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Orange_Float_0: 668375359870674984
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

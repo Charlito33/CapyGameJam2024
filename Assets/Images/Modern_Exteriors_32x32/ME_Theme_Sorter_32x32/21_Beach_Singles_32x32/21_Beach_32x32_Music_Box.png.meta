@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Music_Box_0: -7212413842242366987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

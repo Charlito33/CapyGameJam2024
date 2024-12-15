@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_School_32x32_Corridor_Modular_3_0: 1470829341298683932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

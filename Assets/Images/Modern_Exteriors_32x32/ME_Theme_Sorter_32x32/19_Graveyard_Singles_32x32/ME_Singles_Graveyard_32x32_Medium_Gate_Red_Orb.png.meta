@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Medium_Gate_Red_Orb_0: -841813628997278261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Camping_32x32_Table_1_0: 7213300465460872919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

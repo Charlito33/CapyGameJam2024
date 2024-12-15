@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Blue_Spray_Graffiti_0: 8048256810384200947
+      ME_Singles_Subway_and_Train_Station_32x32_Blue_Spray_Graffiti_1: 2918229563386506095
+      ME_Singles_Subway_and_Train_Station_32x32_Blue_Spray_Graffiti_2: -9062106498009912227
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

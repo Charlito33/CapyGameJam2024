@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Binary_Number_8_Orange_0: 1866923395091088058
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

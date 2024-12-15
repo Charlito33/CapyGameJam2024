@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Stage_Laser_Machine_32x32_0: -3294477520841964374
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

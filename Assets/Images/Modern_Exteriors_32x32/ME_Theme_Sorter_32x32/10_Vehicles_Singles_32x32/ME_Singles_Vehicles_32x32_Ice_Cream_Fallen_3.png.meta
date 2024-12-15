@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Ice_Cream_Fallen_3_0: -8754841417412812567
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

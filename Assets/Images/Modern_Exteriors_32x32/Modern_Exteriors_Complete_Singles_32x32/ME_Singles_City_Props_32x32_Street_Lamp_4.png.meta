@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Street_Lamp_4_0: 5391222600587773176
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

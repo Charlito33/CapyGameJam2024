@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Ice_White_Shell_1_Vers_2_0: -2888574609245187808
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

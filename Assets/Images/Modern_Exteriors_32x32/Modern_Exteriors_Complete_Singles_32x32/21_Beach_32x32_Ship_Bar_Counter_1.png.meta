@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Ship_Bar_Counter_1_0: 4301412599318859268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

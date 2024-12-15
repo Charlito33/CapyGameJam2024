@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Concert_DJ_32x32_0: -6269304247511314110
+      Beach_Concert_DJ_32x32_1: -875109275586607058
+      Beach_Concert_DJ_32x32_10: -2708523833200351665
+      Beach_Concert_DJ_32x32_11: -4492750501137128379
+      Beach_Concert_DJ_32x32_2: -5429587798627721373
+      Beach_Concert_DJ_32x32_3: 3784562441144956235
+      Beach_Concert_DJ_32x32_4: -7554463717827891635
+      Beach_Concert_DJ_32x32_5: 1866055310020133915
+      Beach_Concert_DJ_32x32_6: 8676731054293048753
+      Beach_Concert_DJ_32x32_7: 5464042055908924917
+      Beach_Concert_DJ_32x32_8: 5397529833034427835
+      Beach_Concert_DJ_32x32_9: 1668530902712379275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

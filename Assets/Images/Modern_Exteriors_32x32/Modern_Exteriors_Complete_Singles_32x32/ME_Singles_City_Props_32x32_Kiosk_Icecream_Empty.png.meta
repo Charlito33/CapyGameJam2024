@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Kiosk_Icecream_Empty_0: -2288187768398955270
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

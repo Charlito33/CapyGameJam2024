@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Floor_Modular_Building_32x32_Roof_Props_4_0: 1527382730446544596
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

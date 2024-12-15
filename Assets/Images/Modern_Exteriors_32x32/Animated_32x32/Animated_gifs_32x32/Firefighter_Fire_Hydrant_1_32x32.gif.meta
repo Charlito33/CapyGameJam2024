@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Firefighter_Fire_Hydrant_1_32x32_0: 6716923935222663766
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shopping_Center_Door_32x32_1_0: -1584229639871345160
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

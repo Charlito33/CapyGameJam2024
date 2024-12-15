@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crabs_Sand_Bucket_32x32_0: 2782175137559791331
+      Crabs_Sand_Bucket_32x32_1: 6050806276887376991
+      Crabs_Sand_Bucket_32x32_10: 5327542473525453454
+      Crabs_Sand_Bucket_32x32_11: 6158009388617733088
+      Crabs_Sand_Bucket_32x32_12: 7455740827887533706
+      Crabs_Sand_Bucket_32x32_13: 4553268440450830338
+      Crabs_Sand_Bucket_32x32_14: 5633657081999293041
+      Crabs_Sand_Bucket_32x32_15: 3583684439953869297
+      Crabs_Sand_Bucket_32x32_16: -4943353241820421615
+      Crabs_Sand_Bucket_32x32_17: -6165957373373191023
+      Crabs_Sand_Bucket_32x32_18: 2051548433454580564
+      Crabs_Sand_Bucket_32x32_19: 4020446831660656007
+      Crabs_Sand_Bucket_32x32_2: -4278103026412879912
+      Crabs_Sand_Bucket_32x32_20: -4939440471907148305
+      Crabs_Sand_Bucket_32x32_21: 8762234736228233574
+      Crabs_Sand_Bucket_32x32_22: -1718099176523283853
+      Crabs_Sand_Bucket_32x32_23: 6708006072906165387
+      Crabs_Sand_Bucket_32x32_24: 5975781927117673842
+      Crabs_Sand_Bucket_32x32_25: 6732874143447696490
+      Crabs_Sand_Bucket_32x32_26: 5119460359638539269
+      Crabs_Sand_Bucket_32x32_27: 1249652266914864648
+      Crabs_Sand_Bucket_32x32_28: 4275178082254697239
+      Crabs_Sand_Bucket_32x32_29: 1410259422028537272
+      Crabs_Sand_Bucket_32x32_3: -5641674843364461541
+      Crabs_Sand_Bucket_32x32_30: -425000036857370640
+      Crabs_Sand_Bucket_32x32_31: 5554778175742556902
+      Crabs_Sand_Bucket_32x32_4: 2215660617102647698
+      Crabs_Sand_Bucket_32x32_5: 9094777612354389502
+      Crabs_Sand_Bucket_32x32_6: -1044035075471795481
+      Crabs_Sand_Bucket_32x32_7: -7853591029247671701
+      Crabs_Sand_Bucket_32x32_8: 8057579783320939509
+      Crabs_Sand_Bucket_32x32_9: -7662529913804457948
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

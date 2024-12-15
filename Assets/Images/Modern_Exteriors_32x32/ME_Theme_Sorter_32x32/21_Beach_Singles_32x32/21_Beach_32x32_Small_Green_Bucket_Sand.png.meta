@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      21_Beach_32x32_Small_Green_Bucket_Sand_0: -4406312433491245971
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

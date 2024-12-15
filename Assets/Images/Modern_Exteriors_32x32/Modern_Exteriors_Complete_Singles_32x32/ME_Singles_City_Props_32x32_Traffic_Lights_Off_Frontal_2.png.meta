@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Traffic_Lights_Off_Frontal_2_0: -450210330948528664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

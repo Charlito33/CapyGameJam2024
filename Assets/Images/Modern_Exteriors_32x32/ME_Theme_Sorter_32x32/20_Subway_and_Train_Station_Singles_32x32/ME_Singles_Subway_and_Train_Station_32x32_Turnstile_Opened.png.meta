@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Turnstile_Opened_0: 203665299300190805
+      ME_Singles_Subway_and_Train_Station_32x32_Turnstile_Opened_1: -2293590407870249226
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

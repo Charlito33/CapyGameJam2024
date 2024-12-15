@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_32x32_Ground_Tile_Spot_8_0: 4321341963955034237
+      ME_Singles_Subway_and_Train_Station_32x32_Ground_Tile_Spot_8_1: -3501392303472773558
+      ME_Singles_Subway_and_Train_Station_32x32_Ground_Tile_Spot_8_2: 708564040993116558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

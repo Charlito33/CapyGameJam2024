@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach_Concert_Singer_32x32_0: -8483154367332420781
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

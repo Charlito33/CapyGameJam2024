@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Vehicles_32x32_Gas_Station_Doormat_2_0: -3779814154479314050
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

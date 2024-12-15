@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Graveyard_32x32_Small_Black_Tombstone_5_0: -2895101110956441743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Police_Station_32x32_Parking_Booth_1_0: 3889897104919779921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
