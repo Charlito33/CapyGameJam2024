@@ -6,8 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/DevScenes/Start_menu.unity
     guid: a592ac5683922174fbd644ba520cc29b
+=======
+    path: Assets/Scenes/DevScenes/TomScene.unity
+    guid: 2c50ae7bfa88b694ba31b86d0c4dfa52
+>>>>>>> main
   - enabled: 1
     path: Assets/Scenes/DevScenes/TristanScene.unity
     guid: 24cd53979cd8e7a41bb49b67af68de96
