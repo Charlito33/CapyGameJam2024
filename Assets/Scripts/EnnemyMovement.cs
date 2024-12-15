@@ -14,11 +14,12 @@ public class EnnemyMovement : MonoBehaviour
 
     private Rigidbody2D _rb;
     private Vector2 _movementInput;
-    private int _endPointIndex = 1;
+    private int _nextEndPointIndex = 1;
     private bool _movingForward = true;
-    private bool _movementBlocked = false;
+    private bool _movementBlocked;
+    private float _timeSinceBlocked;
     [SerializeField] private float movementSpeed;
-    [SerializeField] private int waitTimeMs;
+    [SerializeField] private float cooldownTime;
     [SerializeField] private pathMode mode;
     [SerializeField] private List<Vector2> endPoints;
  
@@ -27,7 +28,7 @@ public class EnnemyMovement : MonoBehaviour
     {
         _rb = GetComponent<Rigidbody2D>();
         movementSpeed = 500f;
-        waitTimeMs = 0;
+        cooldownTime = 0.5f;
         endPoints[0] = new Vector2(transform.position.x, transform.position.y);
         if (endPoints.Count == 1)
         {
@@ -40,39 +41,46 @@ public class EnnemyMovement : MonoBehaviour
     {
         if (_movementBlocked)
         {
+            if (_nextEndPointIndex != endPoints.Count || mode != pathMode.StopAtEnd)
+            {
+                UpdateBlockedMovement();
+            }
             _rb.linearVelocity = Vector2.zero;
             return;
         }
-        if (Vector2.Distance(new Vector2(transform.position.x, transform.position.y), endPoints[_endPointIndex]) < 0.1f)
+        if (Vector2.Distance(new Vector2(transform.position.x, transform.position.y), endPoints[_nextEndPointIndex]) < 0.1f)
         {
             UpdateEndPointIndex();
+            _movementBlocked = true;
+            return;
         }
-        var h = endPoints[_endPointIndex].x - transform.position.x;
-        var v = endPoints[_endPointIndex].y - transform.position.y;
+        var h = endPoints[_nextEndPointIndex].x - transform.position.x;
+        var v = endPoints[_nextEndPointIndex].y - transform.position.y;
         _movementInput = new Vector2(h, v).normalized;
         _rb.linearVelocity = _movementInput * (Time.fixedDeltaTime * movementSpeed);
     }
 
     private void UpdateEndPointIndex()
     {
-        if (_endPointIndex == 0 && !_movingForward)
+        if (_nextEndPointIndex == 0 && !_movingForward)
         {
             _movingForward = true;
-            _endPointIndex++;
+            _nextEndPointIndex++;
         }
-        else if (_endPointIndex == endPoints.Count - 1)
+        else if (_nextEndPointIndex == endPoints.Count - 1)
         {
             switch (mode)
             {
                 case pathMode.BackToStart:
-                    _endPointIndex = 0;
+                    _nextEndPointIndex = 0;
                     break;
                 case pathMode.BackAndForth:
                     _movingForward = false;
-                    _endPointIndex--;
+                    _nextEndPointIndex--;
                     break;
                 case pathMode.StopAtEnd:
                     _movementBlocked = true;
+                    _nextEndPointIndex++;
                     break;
                 default:
                     Debug.LogError("Invalid path mode");
@@ -83,13 +91,25 @@ public class EnnemyMovement : MonoBehaviour
         {
             if (_movingForward)
             {
-                _endPointIndex++;
+                _nextEndPointIndex++;
             }
             else
             {
-                _endPointIndex--;
+                _nextEndPointIndex--;
             }
         }
-        Thread.Sleep(waitTimeMs);
+    }
+
+    private void UpdateBlockedMovement()
+    {
+        if (_timeSinceBlocked >= cooldownTime)
+        {
+            _movementBlocked = false;
+            _timeSinceBlocked = 0;
+        }
+        else
+        {
+            _timeSinceBlocked += Time.fixedDeltaTime;
+        }
     }
 }
