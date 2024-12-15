@@ -6,7 +6,7 @@ using UnityEngine.Serialization;
 public class EnemyMovement : MonoBehaviour
 {
 
-    private enum pathMode
+    private enum PathMode
     {
         BackAndForth,
         BackToStart,
@@ -21,11 +21,11 @@ public class EnemyMovement : MonoBehaviour
     private float _timeSinceBlocked;
     [SerializeField] private float movementSpeed;
     [SerializeField] private float cooldownTime;
-    [SerializeField] private pathMode mode;
+    [SerializeField] private PathMode mode;
     [SerializeField] public List<Vector2> endPoints;
  
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
         movementSpeed = 500f;
@@ -38,11 +38,11 @@ public class EnemyMovement : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    private void FixedUpdate()
     {
         if (_movementBlocked)
         {
-            if (nextEndPointIndex != endPoints.Count || mode != pathMode.StopAtEnd)
+            if (nextEndPointIndex != endPoints.Count || mode != PathMode.StopAtEnd)
             {
                 UpdateBlockedMovement();
             }
@@ -72,14 +72,14 @@ public class EnemyMovement : MonoBehaviour
         {
             switch (mode)
             {
-                case pathMode.BackToStart:
+                case PathMode.BackToStart:
                     nextEndPointIndex = 0;
                     break;
-                case pathMode.BackAndForth:
+                case PathMode.BackAndForth:
                     _movingForward = false;
                     nextEndPointIndex--;
                     break;
-                case pathMode.StopAtEnd:
+                case PathMode.StopAtEnd:
                     _movementBlocked = true;
                     nextEndPointIndex++;
                     break;

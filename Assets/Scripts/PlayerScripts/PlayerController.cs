@@ -15,7 +15,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Tilemap[] sadTilemaps;
     private QuestManager _questManager;
     
-    void Start()
+    private void Start()
     {
         movementTransitionTime = 0.15f;
         _rb = GetComponent<Rigidbody2D>();
